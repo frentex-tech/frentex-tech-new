@@ -1,0 +1,244 @@
+<a class="skip" href="/project#project-root">
+  "انتقل إلى النموذج"
+<header class="site-header">
+  <div class="nav-shell">
+    <a aria-label="فرينتكس — الرئيسية" class="brand" href="/">
+      <img alt="" class="brand-logo" height="64" src="/assets/mark.svg" width="64">
+      <span dir="ltr">
+        "Frentex"
+        <small>
+          "TECH"
+    <nav aria-label="التنقل الرئيسي" id="navigation">
+      <a href="/">
+        "الرئيسية"
+      <a href="/services">
+        "حلولنا"
+      <a href="/work">
+        "مختبر الأعمال"
+      <a href="/about">
+        "عن فرينتكس"
+      <a href="/process">
+        "كيف نعمل"
+      <a class="mobile-contact" href="/contact">
+        "ناقش احتياج شركتك"
+    <a class="nav-cta" href="/contact">
+      "ناقش احتياج شركتك"
+      <svg aria-hidden="true" class="icon icon-forward" fill="none" height="18" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="18">
+        <path d="M7 17L17 7M8.5 7H17v8.5">
+    <div class="view-controls">
+      <a aria-label="English" class="language-switch language-toggle view-toggle" href="/en/project" hreflang="en" lang="en" title="English">
+        "EN"
+    <button aria-controls="navigation" aria-expanded="false" aria-label="فتح القائمة" class="menu-toggle">
+      <svg aria-hidden="true" class="icon icon-menu" fill="none" height="24" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="24">
+        <path d="M4 6.5h16M4 12h16M4 17.5h16">
+<main id="project-root">
+  <section class="project-head wrap">
+    <a class="back-link" href="/#work">
+      <svg aria-hidden="true" class="icon icon-right" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+        <path d="M4 12h15M13 6l6 6-6 6">
+      "العودة إلى مختبر الأعمال"
+    <div class="project-heading">
+      <div>
+        <div class="eyebrow">
+          <span dir="ltr">
+            "CRM / SALES WORKSPACE"
+        <h1>
+          "مدار —"
+          <br>
+          "رحلة المبيعات،"
+          <br>
+          "في صورة واحدة."
+      <div>
+        <p>
+          "تصور لنظام إدارة علاقات العملاء يساعد الفريق على رؤية الفرص، معرفة الخطوة التالية، وتحريك كل فرصة عبر مسار واضح."
+        <span class="project-badge">
+          "نموذج أصلي لهذه النسخة / بيانات تجريبية"
+    <div class="case-facts">
+      <div>
+        <small>
+          "ما صمّمناه"
+        <b>
+          "واجهة وتجربة مسار المبيعات"
+      <div>
+        <small>
+          "ما يمكنك تجربته"
+        <b>
+          "بحث ونقل الفرص بين المراحل"
+      <div>
+        <small>
+          "دورنا في النموذج"
+        <b>
+          "تصميم التجربة والواجهة وتطوير التفاعل"
+  <section class="demo-section">
+    <div class="wrap">
+      <div class="demo-shell">
+        <div class="demo-toolbar">
+          <h2>
+            "مدار / جرّب النموذج"
+          <span>
+            "بيانات تجريبية محلية"
+            <br>
+            "تعود للحالة الأصلية عند إعادة التحميل"
+        <div id="demo">
+          <div class="demo-tools">
+            <label>
+              "البحث في الفرص"
+              <input id="lead-search" placeholder="ابحث باسم الفرصة" value="">
+            <button class="small-button" id="reset-crm">
+              "إعادة النموذج"
+          <div class="kanban" id="kanban">
+            <section class="kanban-column">
+              <h3>
+                "فرصة جديدة"
+                <span>
+                  "2"
+              <article class="lead-card">
+                <h4>
+                  "موقع شركة خدمات"
+                <p>
+                  "تحديد الجمهور والمحتوى"
+                <button class="filled small-button" data-direction="1" data-lead="1">
+                  "نقل إلى عرض مرسل"
+                  <svg aria-hidden="true" class="icon icon-left" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+                    <path d="M20 12H5M11 6l-6 6 6 6">
+              <article class="lead-card">
+                <h4>
+                  "بوابة شركاء"
+                <p>
+                  "اجتماع لفهم آلية الطلبات"
+                <button class="filled small-button" data-direction="1" data-lead="2">
+                  "نقل إلى عرض مرسل"
+                  <svg aria-hidden="true" class="icon icon-left" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+                    <path d="M20 12H5M11 6l-6 6 6 6">
+            <section class="kanban-column">
+              <h3>
+                "عرض مرسل"
+                <span>
+                  "1"
+              <article class="lead-card">
+                <h4>
+                  "تطبيق طلبات"
+                <p>
+                  "مراجعة نطاق الإصدار الأول"
+                <button class="filled small-button" data-direction="1" data-lead="3">
+                  "نقل إلى تم الاتفاق"
+                  <svg aria-hidden="true" class="icon icon-left" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+                    <path d="M20 12H5M11 6l-6 6 6 6">
+                (space)
+                <button class="small-button" data-direction="-1" data-lead="3">
+                  "إرجاع"
+            <section class="kanban-column">
+              <h3>
+                "تم الاتفاق"
+                <span>
+                  "1"
+              <article class="lead-card">
+                <h4>
+                  "نظام تشغيل داخلي"
+                <p>
+                  "تجهيز ورشة البداية"
+                <button class="small-button" data-direction="-1" data-lead="4">
+                  "إرجاع"
+        <div aria-live="polite" class="demo-status" id="demo-status" role="status">
+      <p class="demo-notice">
+        "النموذج يعمل ببيانات تجريبية داخل الصفحة. لا توجد قاعدة بيانات أو حسابات أو رسائل للعملاء. إعادة التحميل تعيد الحالة الأصلية."
+  <section class="section wrap">
+    <div class="case-story">
+      <div>
+        <span class="scope-label">
+          "التحدي"
+        <h2>
+          "لماذا هذا النموذج؟"
+        <p>
+          "عندما تنتقل متابعة العملاء بين محادثات وجداول منفصلة، يصعب معرفة ما الذي ينتظر ردًا، وما الذي وصل إلى اتفاق. صممنا مدار ليجعل حالة الفرصة والخطوة التالية ظاهرتين للفريق."
+        <span class="scope-label">
+          "فكرة الحل"
+        <h2>
+          "تفاصيل تُسهّل العمل."
+        <p>
+          "لوحة بثلاث مراحل بسيطة: فرصة جديدة، عرض مرسل، وتم الاتفاق. لكل بطاقة عنوان ونشاط تالٍ. البحث يقلل التشتيت، وتحريك البطاقة يوضح تغير الحالة مباشرة."
+      <div>
+        <span class="scope-label">
+          "ما نفذناه هنا"
+        <h2>
+          "تجربة قابلة للاستكشاف."
+        <ul>
+          <li>
+            "تصميم عربي يدعم اتجاه القراءة من اليمين إلى اليسار."
+          <li>
+            "بحث فوري في الفرص وتحريكها للأمام أو الخلف."
+          <li>
+            "تحديث عدد الفرص في كل مرحلة ورسائل تؤكد الإجراء."
+        <span class="scope-label">
+          "من النموذج إلى منتج"
+        <p>
+          "يتطلب المنتج الفعلي تحديد متطلبات العمل، الحسابات والصلاحيات، تخزين البيانات، التكاملات، والاختبار مع مستخدمين حقيقيين. نحدّد هذا النطاق قبل الالتزام بالتنفيذ."
+    <div class="next-project">
+      <span class="eyebrow">
+        "النموذج التالي"
+      <a href="/project?project=ops">
+        "سير — استكشف التجربة"
+        <svg aria-hidden="true" class="icon icon-forward" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+          <path d="M7 17L17 7M8.5 7H17v8.5">
+<footer class="red-footer">
+  <div class="footer-grid wrap">
+    <div class="footer-brand">
+      <a aria-label="فرينتكس — الرئيسية" class="official-logo" href="/">
+        <span class="official-logo-art">
+          <img alt="" height="96" src="/assets/mark.svg" width="96">
+          <span class="official-logo-word" dir="ltr">
+            "Frentex"
+            <small>
+              "TECH"
+      <p>
+        "برمجيات تربط أعمالك."
+      <a class="footer-phone" dir="ltr" href="tel:+966592005751">
+        "+966 59 200 5751"
+      <a class="footer-email" dir="ltr" href="mailto:INFO@frntextech.com">
+        "INFO@frntextech.com"
+    <div>
+      <h3>
+        "تعرّف علينا"
+      <a href="/about">
+        "عن فرينتكس"
+      <a href="/process">
+        "كيف نعمل"
+      <a href="/work">
+        "مختبر الأعمال"
+      <a href="/contact">
+        "ناقش احتياج شركتك"
+    <div>
+      <h3>
+        "حلولنا"
+      <a href="/solution-platforms">
+        "المواقع وبوابات الأعمال"
+      <a href="/solution-apps">
+        "تطبيقات الجوال"
+      <a href="/solution-business">
+        "أنظمة CRM وERP"
+      <a href="/solution-automation">
+        "الأتمتة والذكاء الاصطناعي"
+    <div>
+      <h3>
+        "نبدأ من تحدّي العمل."
+      <p>
+        "شاركنا الإجراء الحالي، الفرق المعنية، والنتيجة المطلوبة. منها نحدد الخطوة المناسبة."
+      <a class="footer-contact" href="https://wa.me/966592005751" rel="noopener" target="_blank">
+        "تواصل عبر واتساب "
+        <svg aria-hidden="true" class="icon icon-forward" fill="none" height="14" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="14">
+          <path d="M7 17L17 7M8.5 7H17v8.5">
+      <a class="footer-linkedin" href="https://www.linkedin.com/company/frentex-tech/" rel="noopener" target="_blank">
+        "LinkedIn "
+        <span aria-hidden="true">
+          "↗"
+  <div class="footer-bottom wrap">
+    <span>
+      "© 2026 Frentex Tech"
+    <span>
+      "برمجيات تربط أعمالك."
+    <a href="/privacy">
+      "الخصوصية"
+<a aria-label="تواصل مع فرينتكس عبر واتساب" class="floating-contact" href="https://wa.me/966592005751" rel="noopener" target="_blank">
+  <svg aria-hidden="true" fill="none" stroke-width="1.5" stroke="currentColor" viewBox="0 0 24 24">
+    <path d="M21 11.5a9 9 0 01-13.3 7.9L3 21l1.4-4.8A9 9 0 1121 11.5z">
+    <path d="M8 7c0 5 4 9 9 9l1-3-3-1-1 2c-2-1-3-2-4-4l2-1-1-3z">

@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "frentex",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["scripts/preview.mjs", "out"],
+      "port": 8765
+    },
+    {
+      "name": "reference",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["scripts/preview.mjs", "D:/ado-omar/abdalla-site/hostinger-website-backup/dist"],
+      "port": 8766,
+      "env": { "PORT": "8766" }
+    }
+  ]
+}

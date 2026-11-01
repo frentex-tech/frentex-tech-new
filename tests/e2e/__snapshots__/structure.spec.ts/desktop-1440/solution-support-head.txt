@@ -1,0 +1,26 @@
+html lang = ar
+html dir = rtl
+html data-scroll-behavior = smooth
+title = التطوير المستمر والدعم | Frentex Tech
+meta description = صيانة وتحسينات ومراقبة حسب عقد الخدمة ونطاق النظام.
+meta og:description = صيانة وتحسينات ومراقبة حسب عقد الخدمة ونطاق النظام.
+meta og:image = https://frntextech.com/assets/social-cover.png
+meta og:image:alt = Frentex Tech — التطوير المستمر والدعم | Frentex Tech
+meta og:locale = ar_SA
+meta og:locale:alternate = en_US
+meta og:site_name = Frentex Tech
+meta og:title = التطوير المستمر والدعم | Frentex Tech
+meta og:type = website
+meta og:url = https://frntextech.com/solution-support.html
+meta theme-color = #edf4fa
+meta twitter:card = summary_large_image
+meta twitter:description = صيانة وتحسينات ومراقبة حسب عقد الخدمة ونطاق النظام.
+meta twitter:image = https://frntextech.com/assets/social-cover.png
+meta twitter:image:alt = Frentex Tech — التطوير المستمر والدعم | Frentex Tech
+meta twitter:title = التطوير المستمر والدعم | Frentex Tech
+meta viewport = width=device-width, initial-scale=1
+link alternate (ar) = https://frntextech.com/solution-support.html
+link alternate (en) = https://frntextech.com/en/solution-support.html
+link alternate (x-default) = https://frntextech.com/solution-support.html
+link canonical = https://frntextech.com/solution-support.html
+link icon = /assets/mark.svg

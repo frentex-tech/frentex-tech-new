@@ -1,0 +1,26 @@
+html lang = en
+html dir = ltr
+html data-scroll-behavior = smooth
+title = Integrations & custom systems | Frentex Tech
+meta description = API integrations, internal portals, dashboards, data synchronization and process automation.
+meta og:description = API integrations, internal portals, dashboards, data synchronization and process automation.
+meta og:image = https://frntextech.com/assets/social-cover.png
+meta og:image:alt = Frentex Tech — Integrations & custom systems | Frentex Tech
+meta og:locale = en_US
+meta og:locale:alternate = ar_SA
+meta og:site_name = Frentex Tech
+meta og:title = Integrations & custom systems | Frentex Tech
+meta og:type = website
+meta og:url = https://frntextech.com/en/solution-integration.html
+meta theme-color = #edf4fa
+meta twitter:card = summary_large_image
+meta twitter:description = API integrations, internal portals, dashboards, data synchronization and process automation.
+meta twitter:image = https://frntextech.com/assets/social-cover.png
+meta twitter:image:alt = Frentex Tech — Integrations & custom systems | Frentex Tech
+meta twitter:title = Integrations & custom systems | Frentex Tech
+meta viewport = width=device-width, initial-scale=1
+link alternate (ar) = https://frntextech.com/solution-integration.html
+link alternate (en) = https://frntextech.com/en/solution-integration.html
+link alternate (x-default) = https://frntextech.com/solution-integration.html
+link canonical = https://frntextech.com/en/solution-integration.html
+link icon = /assets/mark.svg

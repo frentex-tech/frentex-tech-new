@@ -1,0 +1,143 @@
+<a class="skip" href="/en/about#main">
+  "Skip to content"
+<header class="site-header">
+  <div class="nav-shell">
+    <a aria-label="Frentex Tech — Home" class="brand" href="/en">
+      <img alt="" class="brand-logo" height="64" src="/assets/mark.svg" width="64">
+      <span dir="ltr">
+        "Frentex"
+        <small>
+          "TECH"
+    <nav aria-label="Main navigation" id="navigation">
+      <a href="/en">
+        "Home"
+      <a href="/en/services">
+        "Solutions"
+      <a href="/en/work">
+        "Work Lab"
+      <a aria-current="page" href="/en/about">
+        "About"
+      <a href="/en/process">
+        "How we work"
+      <a class="mobile-contact" href="/en/contact">
+        "Discuss your needs"
+    <a class="nav-cta" href="/en/contact">
+      "Discuss your needs"
+      <svg aria-hidden="true" class="icon icon-forward" fill="none" height="18" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="18">
+        <path d="M7 17L17 7M8.5 7H17v8.5">
+    <div class="view-controls">
+      <a aria-label="العربية" class="language-switch language-toggle view-toggle" href="/about" hreflang="ar" lang="ar" title="العربية">
+        "ع"
+    <button aria-controls="navigation" aria-expanded="false" aria-label="Open menu" class="menu-toggle">
+      <svg aria-hidden="true" class="icon icon-menu" fill="none" height="24" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="24">
+        <path d="M4 6.5h16M4 12h16M4 17.5h16">
+<main id="main">
+  <section class="page-intro wrap">
+    <div aria-hidden="true" class="ambient-field">
+    <div class="eyebrow">
+      "ABOUT FRENTEX TECH"
+    <h1>
+      "Technology that serves"
+      <br>
+      <span class="muted">
+        "what you build."
+    <p>
+      "Frentex Tech is a software company in Saudi Arabia that develops websites, apps, business systems and integrations for companies and organizations."
+  <section class="detail-grid wrap">
+    <article class="enterprise-card">
+      <h3>
+        "Who we serve"
+      <p>
+        "We focus on organizations and large companies, and we also work with growing businesses and startups that need a technology partner to develop their products."
+    <article class="enterprise-card">
+      <h3>
+        "How we think"
+      <p>
+        "We start with the process that needs to improve and the outcome you need to reach. Then we choose a solution that fits the context, whether that means a custom build or configuring and connecting existing tools."
+    <article class="enterprise-card">
+      <h3>
+        "Arabic is part of the experience"
+      <p>
+        "We pay attention to Arabic interfaces, reading direction, content consistency and user journeys, and support English according to each project's requirements."
+    <article class="enterprise-card">
+      <h3>
+        "Trust in the details"
+      <p>
+        "We make clear what the work includes and what needs approval, and we document implementation and handover decisions. The published demos are original concepts that explain our capabilities, not claims about client projects."
+  <section class="section wrap">
+    <div class="enterprise-cta">
+      <h2>
+        "We start with the business challenge."
+      <p>
+        "Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there."
+      <a class="button primary" href="/en/contact">
+        "Discuss your needs"
+        <svg aria-hidden="true" class="icon icon-external" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+          <path d="M7 17L17 7M8.5 7H17v8.5">
+  <section class="section wrap">
+    <a class="button primary" download="" href="/downloads/frentex-company-profile.pdf" hreflang="ar">
+      "Download the company profile PDF (in Arabic)"
+      <svg aria-hidden="true" class="icon icon-down" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+        <path d="M12 4v15M6 13l6 6 6-6">
+<footer class="red-footer">
+  <div class="footer-grid wrap">
+    <div class="footer-brand">
+      <a aria-label="Frentex Tech — Home" class="official-logo" href="/en">
+        <span class="official-logo-art">
+          <img alt="" height="96" src="/assets/mark.svg" width="96">
+          <span class="official-logo-word" dir="ltr">
+            "Frentex"
+            <small>
+              "TECH"
+      <p>
+        "Software that connects your business."
+      <a class="footer-phone" dir="ltr" href="tel:+966592005751">
+        "+966 59 200 5751"
+      <a class="footer-email" dir="ltr" href="mailto:INFO@frntextech.com">
+        "INFO@frntextech.com"
+    <div>
+      <h3>
+        "Get to know us"
+      <a href="/en/about">
+        "About"
+      <a href="/en/process">
+        "How we work"
+      <a href="/en/work">
+        "Work Lab"
+      <a href="/en/contact">
+        "Discuss your needs"
+    <div>
+      <h3>
+        "Solutions"
+      <a href="/en/solution-platforms">
+        "Websites & digital platforms"
+      <a href="/en/solution-apps">
+        "Mobile apps"
+      <a href="/en/solution-business">
+        "ERP & CRM systems"
+      <a href="/en/solution-automation">
+        "Automation & AI"
+    <div>
+      <h3>
+        "We start with the business challenge."
+      <p>
+        "Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there."
+      <a class="footer-contact" href="https://wa.me/966592005751" rel="noopener" target="_blank">
+        "Message us on WhatsApp "
+        <svg aria-hidden="true" class="icon icon-forward" fill="none" height="14" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="14">
+          <path d="M7 17L17 7M8.5 7H17v8.5">
+      <a class="footer-linkedin" href="https://www.linkedin.com/company/frentex-tech/" rel="noopener" target="_blank">
+        "LinkedIn "
+        <span aria-hidden="true">
+          "↗"
+  <div class="footer-bottom wrap">
+    <span>
+      "© 2026 Frentex Tech"
+    <span>
+      "Software that connects your business."
+    <a href="/en/privacy">
+      "Privacy"
+<a aria-label="Chat with Frentex on WhatsApp" class="floating-contact" href="https://wa.me/966592005751" rel="noopener" target="_blank">
+  <svg aria-hidden="true" fill="none" stroke-width="1.5" stroke="currentColor" viewBox="0 0 24 24">
+    <path d="M21 11.5a9 9 0 01-13.3 7.9L3 21l1.4-4.8A9 9 0 1121 11.5z">
+    <path d="M8 7c0 5 4 9 9 9l1-3-3-1-1 2c-2-1-3-2-4-4l2-1-1-3z">

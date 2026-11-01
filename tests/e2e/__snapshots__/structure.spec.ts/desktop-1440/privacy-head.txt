@@ -1,0 +1,26 @@
+html lang = ar
+html dir = rtl
+html data-scroll-behavior = smooth
+title = خصوصية الموقع | Frentex Tech
+meta description = كيف تعمل نماذج الموقع والاتصال.
+meta og:description = كيف تعمل نماذج الموقع والاتصال.
+meta og:image = https://frntextech.com/assets/social-cover.png
+meta og:image:alt = Frentex Tech — خصوصية الموقع | Frentex Tech
+meta og:locale = ar_SA
+meta og:locale:alternate = en_US
+meta og:site_name = Frentex Tech
+meta og:title = خصوصية الموقع | Frentex Tech
+meta og:type = website
+meta og:url = https://frntextech.com/privacy.html
+meta theme-color = #edf4fa
+meta twitter:card = summary_large_image
+meta twitter:description = كيف تعمل نماذج الموقع والاتصال.
+meta twitter:image = https://frntextech.com/assets/social-cover.png
+meta twitter:image:alt = Frentex Tech — خصوصية الموقع | Frentex Tech
+meta twitter:title = خصوصية الموقع | Frentex Tech
+meta viewport = width=device-width, initial-scale=1
+link alternate (ar) = https://frntextech.com/privacy.html
+link alternate (en) = https://frntextech.com/en/privacy.html
+link alternate (x-default) = https://frntextech.com/privacy.html
+link canonical = https://frntextech.com/privacy.html
+link icon = /assets/mark.svg

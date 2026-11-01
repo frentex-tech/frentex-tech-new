@@ -1,0 +1,21 @@
+html lang = en
+html dir = ltr
+html data-scroll-behavior = smooth
+title = Raseed — Interactive demo | Frentex Tech
+meta description = Explore an original interactive demo from Frentex Lab, our space for designing and developing business systems.
+meta og:description = Explore an original interactive demo from Frentex Lab, our space for designing and developing business systems.
+meta og:image = https://frntextech.com/assets/social-cover.png
+meta og:image:alt = Frentex Tech — Work Lab | Frentex Tech
+meta og:locale = en_US
+meta og:locale:alternate = ar_SA
+meta og:site_name = Frentex Tech
+meta og:title = Work Lab | Frentex Tech
+meta og:type = website
+meta robots = noindex,nofollow
+meta twitter:card = summary_large_image
+meta twitter:description = Explore an original interactive demo from Frentex Lab, our space for designing and developing business systems.
+meta twitter:image = https://frntextech.com/assets/social-cover.png
+meta twitter:image:alt = Frentex Tech — Work Lab | Frentex Tech
+meta twitter:title = Work Lab | Frentex Tech
+meta viewport = width=device-width, initial-scale=1
+link icon = /assets/mark.svg

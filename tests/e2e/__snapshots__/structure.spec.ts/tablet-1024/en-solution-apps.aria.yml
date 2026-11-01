@@ -1,0 +1,85 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: /en
+    - link "Solutions":
+      - /url: /en/services
+    - link "Work Lab":
+      - /url: /en/work
+    - link "About":
+      - /url: /en/about
+    - link "How we work":
+      - /url: /en/process
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - link "العربية":
+    - /url: /solution-apps
+    - text: ""
+- main:
+  - text: FRENTEX / APPS
+  - heading "Mobile apps" [level=1]
+  - paragraph: Apps for customers, employees and field teams on iOS and Android, depending on the scope.
+  - article:
+    - heading "When does it fit?" [level=3]
+    - paragraph: When the service calls for frequent use, field work or an experience that depends on the device.
+  - article:
+    - heading "What can we build?" [level=3]
+    - paragraph: Apps for customers, employees and field teams on iOS and Android, depending on the scope.
+  - article:
+    - heading "Deliverables we agree on" [level=3]
+    - paragraph: A prototype you can try; the app itself; integration APIs; device testing; release preparation; an operations guide.
+  - article:
+    - heading "What we define with your team first" [level=3]
+    - paragraph: Target devices, offline use, notifications, user accounts and app store publishing policies.
+  - heading "Clarity before you commit." [level=2]
+  - paragraph: The technical proposal sets out the release scope, exclusions, cost, schedule and acceptance criteria. Any additional requirement is assessed for its impact and approved before it is implemented.
+  - link "See how we work":
+    - /url: /en/process
+  - heading "We start with the business challenge." [level=2]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Discuss your needs":
+    - /url: /en/contact
+- contentinfo:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - paragraph: Software that connects your business.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "Get to know us" [level=3]
+  - link "About":
+    - /url: /en/about
+  - link "How we work":
+    - /url: /en/process
+  - link "Work Lab":
+    - /url: /en/work
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - heading "Solutions" [level=3]
+  - link "Websites & digital platforms":
+    - /url: /en/solution-platforms
+  - link "Mobile apps":
+    - /url: /en/solution-apps
+  - link "ERP & CRM systems":
+    - /url: /en/solution-business
+  - link "Automation & AI":
+    - /url: /en/solution-automation
+  - heading "We start with the business challenge." [level=3]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Message us on WhatsApp":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech Software that connects your business\./
+  - link "Privacy":
+    - /url: /en/privacy
+- link "Chat with Frentex on WhatsApp":
+  - /url: https://wa.me/966592005751
+- alert

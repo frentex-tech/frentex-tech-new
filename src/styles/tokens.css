@@ -1,0 +1,110 @@
+/*
+ * Design tokens for the visual redesign (docs/visual-redesign-plan.md, section B).
+ * Every value already existed in site.css or in the logo; site.css refers to these
+ * instead of repeating the hex codes. Colours without a token are one-offs that the
+ * redesign retires page by page.
+ */
+:root {
+  /* Brand */
+  --fx-ink: #173f61; /* headlines and primary actions; logo gradient end */
+  --fx-ink-text: #172033; /* running text: deep charcoal */
+  --fx-deep: #ffffff; /* pure white surface */
+  --fx-deep-raised: #ffffff; /* cards on white */
+  --fx-steel: #536b7e; /* second headline lines and subtitles */
+  --fx-sky: #6399b9; /* logo gradient start */
+  --fx-teal: #347fcc; /* logo triangle / primary accent */
+  --fx-ink-hover: #285779; /* primary action on hover */
+  --fx-signal: #347fcc; /* focus and active indicators */
+  --fx-text-2: #536b7e; /* paragraphs and small labels */
+
+  /* Surfaces */
+  --fx-paper: #ffffff;
+  --fx-tint: #f8fafc; /* subtle light neutral surface */
+  --fx-line: #e2e8f0;
+  --fx-line-strong: #cbd5e1; /* outlines of controls whose label identifies them */
+
+  /* Shape */
+  --fx-radius-control: 8px; /* buttons, inputs, chips */
+  --fx-radius-node: 10px; /* small cards inside a panel */
+  --fx-radius-panel: 12px; /* cards, bands, dialogs, demo frames */
+
+  /* Demo hues: Madar (CRM), Sayr (requests) and Raseed (inventory) */
+  --fx-madar: #5775a2;
+  --fx-madar-tint: #dae7f7;
+  --fx-sayr: #4c7569;
+  --fx-sayr-graphic: #5a8475;
+  --fx-sayr-tint: #daeae3;
+  --fx-raseed: #70614d;
+  --fx-raseed-graphic: #b28a4f;
+  --fx-raseed-tint: #f5ead9;
+
+  /* Type. Sizes step down at 1000px and 720px (below). */
+  --fx-font: 'IBM Plex Sans Arabic', Arial, sans-serif;
+  --fx-size-intro: 64px; /* page titles */
+  --fx-size-section: 44px; /* section titles */
+  --fx-size-h3: 28px;
+  --fx-size-h4: 22px;
+  --fx-size-lead: 20px;
+  --fx-size-body: 17px;
+  --fx-size-small: 15px;
+  --fx-size-floor: 13px; /* smallest text; uppercase Latin labels may use 12px */
+  --fx-weight-heading: 600;
+  /* Arabic metrics: no tracking, which would pull connected letters apart. English overrides them. */
+  --fx-leading-display: 1.3;
+  --fx-leading-heading: 1.4;
+  --fx-leading-body: 1.85;
+  --fx-tracking-display: 0;
+
+  /* Motion. Hidden "before" states belong under html[data-motion="ok"] only,
+     which RootDocument sets when the visitor has no reduced-motion preference. */
+  --fx-dur-1: 160ms;
+  --fx-dur-2: 280ms;
+  --fx-dur-3: 520ms;
+  --fx-ease-out: cubic-bezier(.2, .7, .2, 1);
+  --fx-ease-in-out: cubic-bezier(.65, 0, .35, 1);
+
+  /* Header & layout offsets */
+  --fx-header-top: 22px;
+  --fx-header-height: 98px;
+  --fx-header-offset: calc(var(--fx-header-top) + var(--fx-header-height));
+  --fx-header-clearance: 32px;
+  --fx-content-top-offset: calc(var(--fx-header-offset) + var(--fx-header-clearance));
+}
+
+:root[lang="en"] {
+  --fx-leading-display: 1.1;
+  --fx-leading-heading: 1.25;
+  --fx-leading-body: 1.6;
+  --fx-tracking-display: -0.02em;
+}
+
+@media (max-width: 1100px) {
+  :root {
+    --fx-header-top: 17px;
+    --fx-header-height: 94px;
+    --fx-header-clearance: 28px;
+    --fx-header-offset: calc(var(--fx-header-top) + var(--fx-header-height));
+    --fx-content-top-offset: calc(var(--fx-header-offset) + var(--fx-header-clearance));
+  }
+}
+
+@media (max-width: 1000px) {
+  :root {
+    --fx-size-section: 36px;
+  }
+}
+
+@media (max-width: 720px) {
+  :root {
+    --fx-size-intro: 38px; /* keeps two-line English titles such as "to a clear handover." on their lines */
+    --fx-size-section: 32px;
+    --fx-size-h3: 24px;
+    --fx-size-h4: 20px;
+    --fx-size-lead: 18px;
+    --fx-header-top: 13px;
+    --fx-header-height: 70px;
+    --fx-header-clearance: 20px;
+    --fx-header-offset: calc(var(--fx-header-top) + var(--fx-header-height));
+    --fx-content-top-offset: calc(var(--fx-header-offset) + var(--fx-header-clearance));
+  }
+}

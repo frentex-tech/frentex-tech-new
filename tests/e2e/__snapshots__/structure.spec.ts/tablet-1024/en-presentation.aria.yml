@@ -1,0 +1,100 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: /en
+    - link "Solutions":
+      - /url: /en/services
+    - link "Work Lab":
+      - /url: /en/work
+    - link "About":
+      - /url: /en/about
+    - link "How we work":
+      - /url: /en/process
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - link "العربية":
+    - /url: /presentation
+    - text: ""
+- main:
+  - text: CLIENT PRESENTATION / REFERENCES
+  - heading "What inspired our approach?" [level=1]
+  - paragraph: References for presenting business services and delivery. We took their principles of clarity and content structure, and developed Frentex Tech's own design and original demos.
+  - article:
+    - heading "Ejada" [level=2]
+    - paragraph: A regional reference for presenting business solutions and service categories.
+    - link "Open the reference":
+      - /url: https://www.ejada.com/en/home
+  - article:
+    - heading "ScienceSoft" [level=2]
+    - paragraph: Clarity in how delivery, stages, scope and change are managed.
+    - link "Open the reference":
+      - /url: https://www.scnsoft.com/software-development/about/how-we-work
+  - article:
+    - heading "Netguru" [level=2]
+    - paragraph: How development services are organized, from discovery to maintenance.
+    - link "Open the reference":
+      - /url: https://www.netguru.com/services/web-development
+  - article:
+    - heading "thoughtbot" [level=2]
+    - paragraph: Starting a product by understanding the user, the problem and the need.
+    - link "Open the reference":
+      - /url: https://thoughtbot.com/playbook/strategy/customer-discovery
+  - article:
+    - heading "Work & Co" [level=2]
+    - paragraph: A reference for presenting work and digital products.
+    - link "Open the reference":
+      - /url: https://www.work.co/clients/
+  - article:
+    - heading "Ramotion" [level=2]
+    - paragraph: A reference for presenting brand identity and product experiences visually.
+    - link "Open the reference":
+      - /url: https://www.ramotion.com/work/
+  - heading "How did we apply this to Frentex Tech?" [level=2]
+  - paragraph: Language that speaks to the organization and the decision-maker, services with clear deliverables and boundaries, delivery stages you can review, and interactive demos that explain the solutions honestly.
+  - paragraph: These references do not represent partnerships with or clients of the company. The Madar, Sayr and Raseed demos are original illustrative concepts.
+  - link "View the Frentex Tech website":
+    - /url: /en
+- contentinfo:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - paragraph: Software that connects your business.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "Get to know us" [level=3]
+  - link "About":
+    - /url: /en/about
+  - link "How we work":
+    - /url: /en/process
+  - link "Work Lab":
+    - /url: /en/work
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - heading "Solutions" [level=3]
+  - link "Websites & digital platforms":
+    - /url: /en/solution-platforms
+  - link "Mobile apps":
+    - /url: /en/solution-apps
+  - link "ERP & CRM systems":
+    - /url: /en/solution-business
+  - link "Automation & AI":
+    - /url: /en/solution-automation
+  - heading "We start with the business challenge." [level=3]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Message us on WhatsApp":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech Software that connects your business\./
+  - link "Privacy":
+    - /url: /en/privacy
+- link "Chat with Frentex on WhatsApp":
+  - /url: https://wa.me/966592005751
+- alert

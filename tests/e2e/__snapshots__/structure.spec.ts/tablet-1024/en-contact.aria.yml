@@ -1,0 +1,94 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: /en
+    - link "Solutions":
+      - /url: /en/services
+    - link "Work Lab":
+      - /url: /en/work
+    - link "About":
+      - /url: /en/about
+    - link "How we work":
+      - /url: /en/process
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - link "العربية":
+    - /url: /contact
+    - text: ""
+- main:
+  - text: START A CONVERSATION
+  - heading "What do you want to work better?" [level=1]
+  - paragraph: Start by describing your current challenge. We'll discuss the teams affected, your existing systems and your implementation priorities with you.
+  - article:
+    - text: BUSINESS CONTACT
+    - heading "Talk to our business lead" [level=2]
+    - paragraph: For inquiries, and to discuss what your company or organization needs.
+    - paragraph:
+      - link /\+\d+ \d+ \d+ \d+/:
+        - /url: tel:+966592005751
+    - paragraph:
+      - link "INFO@frntextech.com":
+        - /url: mailto:INFO@frntextech.com
+    - link "Start a WhatsApp chat":
+      - /url: https://wa.me/966592005751
+    - paragraph: Opens WhatsApp. You choose the message and send it yourself.
+  - article:
+    - text: PROJECT BRIEF
+    - heading "Prepare a summary first" [level=2]
+    - paragraph: Describe the challenge, the users and the type of solution, then download the summary and share it when you get in touch.
+    - button "Summarize your needs"
+    - paragraph: The tool runs on your device. No data is sent and no meeting is booked.
+  - heading "Details that help us understand your needs." [level=2]
+  - article:
+    - heading "Context" [level=3]
+    - paragraph: What your company does, the departments involved, the users and expected usage.
+  - article:
+    - heading "Current setup" [level=3]
+    - paragraph: Existing systems, manual steps, integrations and data sources.
+  - article:
+    - heading "Release priorities" [level=3]
+    - paragraph: What is needed first, the target date, the budget range and who approves the decision.
+- contentinfo:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - paragraph: Software that connects your business.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "Get to know us" [level=3]
+  - link "About":
+    - /url: /en/about
+  - link "How we work":
+    - /url: /en/process
+  - link "Work Lab":
+    - /url: /en/work
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - heading "Solutions" [level=3]
+  - link "Websites & digital platforms":
+    - /url: /en/solution-platforms
+  - link "Mobile apps":
+    - /url: /en/solution-apps
+  - link "ERP & CRM systems":
+    - /url: /en/solution-business
+  - link "Automation & AI":
+    - /url: /en/solution-automation
+  - heading "We start with the business challenge." [level=3]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Message us on WhatsApp":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech Software that connects your business\./
+  - link "Privacy":
+    - /url: /en/privacy
+- link "Chat with Frentex on WhatsApp":
+  - /url: https://wa.me/966592005751
+- alert

@@ -1,0 +1,103 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: /en
+    - link "Solutions":
+      - /url: /en/services
+    - link "Work Lab":
+      - /url: /en/work
+    - link "About":
+      - /url: /en/about
+    - link "How we work":
+      - /url: /en/process
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - link "العربية":
+    - /url: /work
+    - text: ""
+- main:
+  - text: SOLUTION LAB
+  - heading "Explore how we think." [level=1]
+  - paragraph: Three demos that show how an operational problem becomes an interface and a workflow. All the data shown is sample data.
+  - text: Frentex Lab
+  - heading "See the idea. Then try it yourself." [level=2]
+  - paragraph: Original demos we designed and built for this website. Each one explains a problem and a solution, and lets you try part of the user journey.
+  - text: Illustrative demos with sample data, not client projects.
+  - group "Filter the demos":
+    - button "All demos" [pressed]
+    - button "Customer management"
+    - button "Operations & automation"
+    - button "Business systems"
+    - status: 3 interactive demos
+  - article:
+    - link "Madar — a clearer sales journey":
+      - /url: /en/project?project=crm
+    - text: CRM / SALES EXPERIENCE
+    - heading "Madar — a clearer sales journey" [level=3]
+    - paragraph: From the first opportunity to an agreement, on one board your team can follow.
+    - link "Madar — a clearer sales journey":
+      - /url: /en/project?project=crm
+  - article:
+    - link "Sayr — requests that don't get lost":
+      - /url: /en/project?project=ops
+    - text: WORKFLOW / INTERNAL TOOLS
+    - heading "Sayr — requests that don't get lost" [level=3]
+    - paragraph: Intake, review and decision, with a clear record of every step.
+    - link "Sayr — requests that don't get lost":
+      - /url: /en/project?project=ops
+  - article:
+    - link "Raseed — shared inventory view":
+      - /url: /en/project?project=erp
+    - text: BUSINESS SYSTEMS / ERP CONCEPT
+    - heading "Raseed — shared inventory view" [level=3]
+    - paragraph: Track quantities, see what needs reordering and create a sample purchase order.
+    - link "Raseed — shared inventory view":
+      - /url: /en/project?project=erp
+  - heading "We start with the business challenge." [level=2]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Discuss your needs":
+    - /url: /en/contact
+- contentinfo:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - paragraph: Software that connects your business.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "Get to know us" [level=3]
+  - link "About":
+    - /url: /en/about
+  - link "How we work":
+    - /url: /en/process
+  - link "Work Lab":
+    - /url: /en/work
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - heading "Solutions" [level=3]
+  - link "Websites & digital platforms":
+    - /url: /en/solution-platforms
+  - link "Mobile apps":
+    - /url: /en/solution-apps
+  - link "ERP & CRM systems":
+    - /url: /en/solution-business
+  - link "Automation & AI":
+    - /url: /en/solution-automation
+  - heading "We start with the business challenge." [level=3]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Message us on WhatsApp":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech Software that connects your business\./
+  - link "Privacy":
+    - /url: /en/privacy
+- link "Chat with Frentex on WhatsApp":
+  - /url: https://wa.me/966592005751
+- alert

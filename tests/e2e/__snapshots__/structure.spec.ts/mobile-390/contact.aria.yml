@@ -1,0 +1,82 @@
+- link "انتقل إلى المحتوى":
+  - /url: "#main"
+- banner:
+  - link "فرينتكس — الرئيسية":
+    - /url: /
+    - text: Frentex TECH
+  - link "English":
+    - /url: /en/contact
+    - text: EN
+  - button "فتح القائمة"
+- main:
+  - text: START A CONVERSATION
+  - heading "ما الذي تريد أن يعمل بشكل أفضل؟" [level=1]
+  - paragraph: ابدأ بوصف التحدي الحالي. نناقش معك الفرق المتأثرة والأنظمة القائمة وأولويات التنفيذ.
+  - article:
+    - text: BUSINESS CONTACT
+    - heading "تواصل مع أستاذ سيراج" [level=2]
+    - paragraph: للاستفسارات ومناقشة احتياجات الشركات والمؤسسات.
+    - paragraph:
+      - link /\+\d+ \d+ \d+ \d+/:
+        - /url: tel:+966592005751
+    - paragraph:
+      - link "INFO@frntextech.com":
+        - /url: mailto:INFO@frntextech.com
+    - link "ابدأ محادثة WhatsApp":
+      - /url: https://wa.me/966592005751
+    - paragraph: يفتح WhatsApp؛ تختار أنت محتوى الرسالة وترسلها.
+  - article:
+    - text: PROJECT BRIEF
+    - heading "جهّز ملخصًا قبل التواصل" [level=2]
+    - paragraph: حدد التحدي والمستخدمين ونوع الحل، ثم نزّل الملخص وشاركه في المحادثة.
+    - button "تجهيز ملخص الاحتياج"
+    - paragraph: الأداة تعمل محليًا؛ لا يتم إرسال بيانات أو تأكيد موعد.
+  - heading "نقاط تساعدنا على فهم احتياجك." [level=2]
+  - article:
+    - heading "السياق" [level=3]
+    - paragraph: نشاط الشركة، الإدارات المعنية، المستخدمون وحجم الاستخدام المتوقع.
+  - article:
+    - heading "الوضع الحالي" [level=3]
+    - paragraph: الأنظمة القائمة، خطوات العمل اليدوية، التكاملات ومصادر البيانات.
+  - article:
+    - heading "أولوية الإصدار" [level=3]
+    - paragraph: ما المطلوب أولًا، الموعد المستهدف، نطاق الميزانية، وصاحب اعتماد القرار.
+- contentinfo:
+  - link "فرينتكس — الرئيسية":
+    - /url: /
+    - text: Frentex TECH
+  - paragraph: برمجيات تربط أعمالك.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "تعرّف علينا" [level=3]
+  - link "عن فرينتكس":
+    - /url: /about
+  - link "كيف نعمل":
+    - /url: /process
+  - link "مختبر الأعمال":
+    - /url: /work
+  - link "ناقش احتياج شركتك":
+    - /url: /contact
+  - heading "حلولنا" [level=3]
+  - link "المواقع وبوابات الأعمال":
+    - /url: /solution-platforms
+  - link "تطبيقات الجوال":
+    - /url: /solution-apps
+  - link "أنظمة CRM وERP":
+    - /url: /solution-business
+  - link "الأتمتة والذكاء الاصطناعي":
+    - /url: /solution-automation
+  - heading "نبدأ من تحدّي العمل." [level=3]
+  - paragraph: شاركنا الإجراء الحالي، الفرق المعنية، والنتيجة المطلوبة. منها نحدد الخطوة المناسبة.
+  - link "تواصل عبر واتساب":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech/
+  - link "الخصوصية":
+    - /url: /privacy
+- link "تواصل مع فرينتكس عبر واتساب":
+  - /url: https://wa.me/966592005751
+- alert

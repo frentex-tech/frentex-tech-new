@@ -1,0 +1,88 @@
+- link "انتقل إلى المحتوى":
+  - /url: "#main"
+- banner:
+  - link "فرينتكس — الرئيسية":
+    - /url: /
+    - text: Frentex TECH
+  - link "English":
+    - /url: /en/presentation
+    - text: EN
+  - button "فتح القائمة"
+- main:
+  - text: CLIENT PRESENTATION / REFERENCES
+  - heading "ما الذي ألهم منهجنا؟" [level=1]
+  - paragraph: مراجع لعرض خدمات الشركات وطريقة التسليم. أخذنا مبادئ الوضوح وتنظيم المحتوى، وطوّرنا تصميم Frentex Tech ونماذجه الأصلية.
+  - article:
+    - heading "إجادة" [level=2]
+    - paragraph: مرجع إقليمي لعرض حلول الأعمال وفئات الخدمات.
+    - link "افتح المرجع":
+      - /url: https://www.ejada.com/en/home
+  - article:
+    - heading "ScienceSoft" [level=2]
+    - paragraph: وضوح إدارة التنفيذ والمراحل والنطاق والتغيير.
+    - link "افتح المرجع":
+      - /url: https://www.scnsoft.com/software-development/about/how-we-work
+  - article:
+    - heading "Netguru" [level=2]
+    - paragraph: تنظيم خدمات التطوير من الاكتشاف حتى الصيانة.
+    - link "افتح المرجع":
+      - /url: https://www.netguru.com/services/web-development
+  - article:
+    - heading "thoughtbot" [level=2]
+    - paragraph: بدء المنتج بفهم المستخدم والمشكلة والاحتياج.
+    - link "افتح المرجع":
+      - /url: https://thoughtbot.com/playbook/strategy/customer-discovery
+  - article:
+    - heading "Work & Co" [level=2]
+    - paragraph: مرجع لطريقة عرض الأعمال والمنتجات الرقمية.
+    - link "افتح المرجع":
+      - /url: https://www.work.co/clients/
+  - article:
+    - heading "Ramotion" [level=2]
+    - paragraph: مرجع لتقديم الهوية وتجارب المنتجات بصريًا.
+    - link "افتح المرجع":
+      - /url: https://www.ramotion.com/work/
+  - heading "كيف ترجمنا ذلك إلى Frentex Tech؟" [level=2]
+  - paragraph: لغة تخاطب المؤسسة وصاحب القرار، خدمات بمخرجات وحدود واضحة، مراحل تسليم قابلة للمراجعة، ونماذج تفاعلية تشرح الحلول بصدق.
+  - paragraph: لا تمثل هذه المراجع شراكات أو عملاء للشركة. نماذج مدار وسير ورصيد تجارب توضيحية أصلية.
+  - link "شاهد موقع Frentex Tech":
+    - /url: /
+- contentinfo:
+  - link "فرينتكس — الرئيسية":
+    - /url: /
+    - text: Frentex TECH
+  - paragraph: برمجيات تربط أعمالك.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "تعرّف علينا" [level=3]
+  - link "عن فرينتكس":
+    - /url: /about
+  - link "كيف نعمل":
+    - /url: /process
+  - link "مختبر الأعمال":
+    - /url: /work
+  - link "ناقش احتياج شركتك":
+    - /url: /contact
+  - heading "حلولنا" [level=3]
+  - link "المواقع وبوابات الأعمال":
+    - /url: /solution-platforms
+  - link "تطبيقات الجوال":
+    - /url: /solution-apps
+  - link "أنظمة CRM وERP":
+    - /url: /solution-business
+  - link "الأتمتة والذكاء الاصطناعي":
+    - /url: /solution-automation
+  - heading "نبدأ من تحدّي العمل." [level=3]
+  - paragraph: شاركنا الإجراء الحالي، الفرق المعنية، والنتيجة المطلوبة. منها نحدد الخطوة المناسبة.
+  - link "تواصل عبر واتساب":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech/
+  - link "الخصوصية":
+    - /url: /privacy
+- link "تواصل مع فرينتكس عبر واتساب":
+  - /url: https://wa.me/966592005751
+- alert

@@ -1,0 +1,26 @@
+html lang = ar
+html dir = rtl
+html data-scroll-behavior = smooth
+title = حلول الشركات والمؤسسات | Frentex Tech
+meta description = مواقع وتطبيقات وCRM وERP وتكاملات وأتمتة للشركات.
+meta og:description = مواقع وتطبيقات وCRM وERP وتكاملات وأتمتة للشركات.
+meta og:image = https://frntextech.com/assets/social-cover.png
+meta og:image:alt = Frentex Tech — حلول الشركات والمؤسسات | Frentex Tech
+meta og:locale = ar_SA
+meta og:locale:alternate = en_US
+meta og:site_name = Frentex Tech
+meta og:title = حلول الشركات والمؤسسات | Frentex Tech
+meta og:type = website
+meta og:url = https://frntextech.com/services.html
+meta theme-color = #edf4fa
+meta twitter:card = summary_large_image
+meta twitter:description = مواقع وتطبيقات وCRM وERP وتكاملات وأتمتة للشركات.
+meta twitter:image = https://frntextech.com/assets/social-cover.png
+meta twitter:image:alt = Frentex Tech — حلول الشركات والمؤسسات | Frentex Tech
+meta twitter:title = حلول الشركات والمؤسسات | Frentex Tech
+meta viewport = width=device-width, initial-scale=1
+link alternate (ar) = https://frntextech.com/services.html
+link alternate (en) = https://frntextech.com/en/services.html
+link alternate (x-default) = https://frntextech.com/services.html
+link canonical = https://frntextech.com/services.html
+link icon = /assets/mark.svg

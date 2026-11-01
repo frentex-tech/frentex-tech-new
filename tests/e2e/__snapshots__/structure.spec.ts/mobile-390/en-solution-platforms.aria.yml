@@ -1,0 +1,73 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - link "العربية":
+    - /url: /solution-platforms
+    - text: ""
+  - button "Open menu"
+- main:
+  - text: FRENTEX / PLATFORMS
+  - heading "Websites & digital platforms" [level=1]
+  - paragraph: Multilingual corporate websites, customer and partner portals, service platforms and content management.
+  - article:
+    - heading "When does it fit?" [level=3]
+    - paragraph: When your customers or partners need to complete and track their requests instead of going back and forth by message.
+  - article:
+    - heading "What can we build?" [level=3]
+    - paragraph: Multilingual corporate websites, customer and partner portals, service platforms and content management.
+  - article:
+    - heading "Deliverables we agree on" [level=3]
+    - paragraph: A user journey map; interface design; content management; integration with the agreed systems; documentation and handover.
+  - article:
+    - heading "What we define with your team first" [level=3]
+    - paragraph: Brand identity and content, user types, access permissions, integrations, and page speed and accessibility criteria.
+  - heading "Clarity before you commit." [level=2]
+  - paragraph: The technical proposal sets out the release scope, exclusions, cost, schedule and acceptance criteria. Any additional requirement is assessed for its impact and approved before it is implemented.
+  - link "See how we work":
+    - /url: /en/process
+  - heading "We start with the business challenge." [level=2]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Discuss your needs":
+    - /url: /en/contact
+- contentinfo:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - paragraph: Software that connects your business.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "Get to know us" [level=3]
+  - link "About":
+    - /url: /en/about
+  - link "How we work":
+    - /url: /en/process
+  - link "Work Lab":
+    - /url: /en/work
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - heading "Solutions" [level=3]
+  - link "Websites & digital platforms":
+    - /url: /en/solution-platforms
+  - link "Mobile apps":
+    - /url: /en/solution-apps
+  - link "ERP & CRM systems":
+    - /url: /en/solution-business
+  - link "Automation & AI":
+    - /url: /en/solution-automation
+  - heading "We start with the business challenge." [level=3]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Message us on WhatsApp":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech/
+  - link "Privacy":
+    - /url: /en/privacy
+- link "Chat with Frentex on WhatsApp":
+  - /url: https://wa.me/966592005751
+- alert

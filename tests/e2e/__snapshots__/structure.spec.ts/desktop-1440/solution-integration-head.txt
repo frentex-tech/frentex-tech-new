@@ -1,0 +1,26 @@
+html lang = ar
+html dir = rtl
+html data-scroll-behavior = smooth
+title = التكاملات والأنظمة المخصصة | Frentex Tech
+meta description = ربط عبر API، بوابات داخلية، لوحات متابعة، مزامنة بيانات وأتمتة إجراءات.
+meta og:description = ربط عبر API، بوابات داخلية، لوحات متابعة، مزامنة بيانات وأتمتة إجراءات.
+meta og:image = https://frntextech.com/assets/social-cover.png
+meta og:image:alt = Frentex Tech — التكاملات والأنظمة المخصصة | Frentex Tech
+meta og:locale = ar_SA
+meta og:locale:alternate = en_US
+meta og:site_name = Frentex Tech
+meta og:title = التكاملات والأنظمة المخصصة | Frentex Tech
+meta og:type = website
+meta og:url = https://frntextech.com/solution-integration.html
+meta theme-color = #edf4fa
+meta twitter:card = summary_large_image
+meta twitter:description = ربط عبر API، بوابات داخلية، لوحات متابعة، مزامنة بيانات وأتمتة إجراءات.
+meta twitter:image = https://frntextech.com/assets/social-cover.png
+meta twitter:image:alt = Frentex Tech — التكاملات والأنظمة المخصصة | Frentex Tech
+meta twitter:title = التكاملات والأنظمة المخصصة | Frentex Tech
+meta viewport = width=device-width, initial-scale=1
+link alternate (ar) = https://frntextech.com/solution-integration.html
+link alternate (en) = https://frntextech.com/en/solution-integration.html
+link alternate (x-default) = https://frntextech.com/solution-integration.html
+link canonical = https://frntextech.com/solution-integration.html
+link icon = /assets/mark.svg

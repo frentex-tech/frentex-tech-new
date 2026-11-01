@@ -1,0 +1,112 @@
+- link "Skip to the demo":
+  - /url: "#project-root"
+- banner:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: /en
+    - link "Solutions":
+      - /url: /en/services
+    - link "Work Lab":
+      - /url: /en/work
+    - link "About":
+      - /url: /en/about
+    - link "How we work":
+      - /url: /en/process
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - link "العربية":
+    - /url: /project?project=ops
+    - text: ""
+- main:
+  - link "Back to the Work Lab":
+    - /url: /en#work
+  - text: OPERATIONS / REQUEST WORKFLOW
+  - heading "Sayr — From loose ends to clear decisions." [level=1]
+  - paragraph: A concept for an internal request portal that brings intake, review and decision into one experience, with a log that explains what happened.
+  - text: Original demo for this website / sample data What we designed Request interface with human review What you can try Select, approve or return for review Our role in the demo Experience and interface design, and interaction development
+  - heading "Sayr / Try the demo" [level=2]
+  - text: Local sample data Resets when you reload the page
+  - button "Reset demo"
+  - heading "Requests" [level=3]
+  - 'button /Project workspace access #\d+ · Awaiting review/ [pressed]':
+    - strong: Project workspace access
+    - text: ""
+  - 'button /Supplier details review #\d+ · Awaiting review/':
+    - strong: Supplier details review
+    - text: ""
+  - 'button /Employee account setup #\d+ · Awaiting review/':
+    - strong: Employee account setup
+    - text: ""
+  - text: Awaiting review
+  - heading "Project workspace access" [level=3]
+  - paragraph: Add a new member to the project workspace after review by the person in charge.
+  - term: Team
+  - definition: Operations
+  - term: Action policy
+  - definition: Human review required
+  - button "Approve (demo) ✓"
+  - button "Return for completion"
+  - list:
+    - listitem: Request received.
+    - listitem: Details complete; passed to the reviewer.
+  - status
+  - paragraph: All approval actions here are a local simulation. No real permissions are granted, no requests are sent and no external systems are changed. The demo does not include live AI.
+  - text: The challenge
+  - heading "Why this demo?" [level=2]
+  - paragraph: A request arrives in a message, is forwarded to someone else, and it becomes unclear who is responsible and what its status is. Sayr explores a single space that holds the request details and the decision about it.
+  - text: The solution idea
+  - heading "Details that make work easier." [level=2]
+  - paragraph: A clear list of requests, with the details in one place. The reviewer can approve a request or return it for completion, and the result appears in the status and the activity log without ambiguity.
+  - text: What we built here
+  - heading "An experience you can explore." [level=2]
+  - list:
+    - listitem: Three sample requests you can move between.
+    - listitem: An approval path and a return-for-completion path.
+    - listitem: Status updates and an activity log for each request.
+  - text: From demo to product
+  - paragraph: A real product requires defining business requirements, accounts and permissions, data storage, integrations and testing with real users. We define that scope before committing to implementation.
+  - text: Next demo
+  - link "Raseed — Explore the demo":
+    - /url: /en/project?project=erp
+- contentinfo:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - paragraph: Software that connects your business.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "Get to know us" [level=3]
+  - link "About":
+    - /url: /en/about
+  - link "How we work":
+    - /url: /en/process
+  - link "Work Lab":
+    - /url: /en/work
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - heading "Solutions" [level=3]
+  - link "Websites & digital platforms":
+    - /url: /en/solution-platforms
+  - link "Mobile apps":
+    - /url: /en/solution-apps
+  - link "ERP & CRM systems":
+    - /url: /en/solution-business
+  - link "Automation & AI":
+    - /url: /en/solution-automation
+  - heading "We start with the business challenge." [level=3]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Message us on WhatsApp":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech Software that connects your business\./
+  - link "Privacy":
+    - /url: /en/privacy
+- link "Chat with Frentex on WhatsApp":
+  - /url: https://wa.me/966592005751
+- alert

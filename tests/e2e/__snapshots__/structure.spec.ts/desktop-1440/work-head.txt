@@ -1,0 +1,26 @@
+html lang = ar
+html dir = rtl
+html data-scroll-behavior = smooth
+title = مختبر الحلول | Frentex Tech
+meta description = نماذج تفاعلية أصلية لإدارة العملاء والعمليات والمخزون.
+meta og:description = نماذج تفاعلية أصلية لإدارة العملاء والعمليات والمخزون.
+meta og:image = https://frntextech.com/assets/social-cover.png
+meta og:image:alt = Frentex Tech — مختبر الحلول | Frentex Tech
+meta og:locale = ar_SA
+meta og:locale:alternate = en_US
+meta og:site_name = Frentex Tech
+meta og:title = مختبر الحلول | Frentex Tech
+meta og:type = website
+meta og:url = https://frntextech.com/work.html
+meta theme-color = #edf4fa
+meta twitter:card = summary_large_image
+meta twitter:description = نماذج تفاعلية أصلية لإدارة العملاء والعمليات والمخزون.
+meta twitter:image = https://frntextech.com/assets/social-cover.png
+meta twitter:image:alt = Frentex Tech — مختبر الحلول | Frentex Tech
+meta twitter:title = مختبر الحلول | Frentex Tech
+meta viewport = width=device-width, initial-scale=1
+link alternate (ar) = https://frntextech.com/work.html
+link alternate (en) = https://frntextech.com/en/work.html
+link alternate (x-default) = https://frntextech.com/work.html
+link canonical = https://frntextech.com/work.html
+link icon = /assets/mark.svg

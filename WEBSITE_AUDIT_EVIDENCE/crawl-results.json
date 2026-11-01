@@ -1,0 +1,5147 @@
+{
+  "timestamp": "2026-10-31T18:29:10.283Z",
+  "totalRoutesAudited": 35,
+  "overflowIssuesCount": 0,
+  "overflowIssues": [],
+  "consoleErrorsCount": 1,
+  "consoleErrors": [
+    {
+      "route": "/non-existent-test-404",
+      "text": "Failed to load resource: the server responded with a status of 404 (Not Found)"
+    }
+  ],
+  "routes": [
+    {
+      "route": "/",
+      "key": "home",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "فرينتكس | برمجيات تربط أعمالك",
+        "desc": "Frentex Tech — حلول للشركات والمؤسسات لتطوير المواقع والتطبيقات وأنظمة الأعمال. استكشف نماذجنا التفاعلية وطريقتنا في تحويل الاحتياج إلى برمجيات واضحة.",
+        "canonical": "https://frntextech.com/",
+        "robots": null,
+        "ogTitle": "فرينتكس | برمجيات تربط أعمالك",
+        "ogDesc": "Frentex Tech — حلول للشركات والمؤسسات لتطوير المواقع والتطبيقات وأنظمة الأعمال. استكشف نماذجنا التفاعلية وطريقتنا في تحويل الاحتياج إلى برمجيات واضحة.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/",
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "أنظمة مترابطة.أعمال تتقدّم."
+          },
+          {
+            "tag": "h2",
+            "text": "التقنية المناسبة.للمرحلة التي أنت فيها."
+          },
+          {
+            "tag": "h3",
+            "text": "المواقع والمنصات الرقمية"
+          },
+          {
+            "tag": "h3",
+            "text": "تطبيقات الجوال"
+          },
+          {
+            "tag": "h3",
+            "text": "أنظمة الأعمال — ERP وCRM"
+          },
+          {
+            "tag": "h3",
+            "text": "الأتمتة والذكاء الاصطناعي"
+          },
+          {
+            "tag": "h2",
+            "text": "قريبون من السياق.دقيقون في التفاصيل."
+          },
+          {
+            "tag": "h2",
+            "text": "شاهد الفكرة.ثم جرّبها بنفسك."
+          },
+          {
+            "tag": "h3",
+            "text": "رحلة المبيعات،في صورة واحدة."
+          },
+          {
+            "tag": "h3",
+            "text": "فرصة جديدة2"
+          },
+          {
+            "tag": "h4",
+            "text": "موقع شركة خدمات"
+          },
+          {
+            "tag": "h4",
+            "text": "بوابة شركاء"
+          },
+          {
+            "tag": "h3",
+            "text": "عرض مرسل1"
+          },
+          {
+            "tag": "h4",
+            "text": "تطبيق طلبات"
+          },
+          {
+            "tag": "h3",
+            "text": "تم الاتفاق1"
+          },
+          {
+            "tag": "h4",
+            "text": "نظام تشغيل داخلي"
+          },
+          {
+            "tag": "h2",
+            "text": "لا نترك الخطوة التاليةللتخمين."
+          },
+          {
+            "tag": "h3",
+            "text": "نفهم"
+          },
+          {
+            "tag": "h3",
+            "text": "نصمّم"
+          },
+          {
+            "tag": "h3",
+            "text": "نبني"
+          },
+          {
+            "tag": "h3",
+            "text": "نُطلق"
+          },
+          {
+            "tag": "h2",
+            "text": "لديك سؤال؟إليك ما نوضّحه عادةً."
+          },
+          {
+            "tag": "h2",
+            "text": "فكرتك تستحقبداية واضحة."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          },
+          {
+            "tag": "h2",
+            "text": "لنبدأ بالسؤال الصحيح."
+          },
+          {
+            "tag": "h3",
+            "text": "ملخصك جاهز."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 40,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/services",
+      "key": "services",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "حلول الشركات والمؤسسات | Frentex Tech",
+        "desc": "مواقع وتطبيقات وCRM وERP وتكاملات وأتمتة للشركات.",
+        "canonical": "https://frntextech.com/services.html",
+        "robots": null,
+        "ogTitle": "حلول الشركات والمؤسسات | Frentex Tech",
+        "ogDesc": "مواقع وتطبيقات وCRM وERP وتكاملات وأتمتة للشركات.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/services.html",
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/services.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/services.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/services.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "حلول تبدأ من العمل.وتصل إلى كل نظام."
+          },
+          {
+            "tag": "h3",
+            "text": "المنصات الرقمية وبوابات الأعمال"
+          },
+          {
+            "tag": "h3",
+            "text": "تطبيقات الهواتف الذكية"
+          },
+          {
+            "tag": "h3",
+            "text": "بوابات التكامل والربط المخصص"
+          },
+          {
+            "tag": "h3",
+            "text": "الأنظمة المؤسسية وسير العمل"
+          },
+          {
+            "tag": "h3",
+            "text": "الأتمتة ومعالجة المستندات"
+          },
+          {
+            "tag": "h3",
+            "text": "الدعم والمراقبة المستمرة 24/7"
+          },
+          {
+            "tag": "h2",
+            "text": "المنصات الرقمية وبوابات الأعمال"
+          },
+          {
+            "tag": "h2",
+            "text": "استكشف مخرجات كل حل ومواصفاته التقنية"
+          },
+          {
+            "tag": "h3",
+            "text": "المواقع وبوابات الأعمال"
+          },
+          {
+            "tag": "h3",
+            "text": "تطبيقات الجوال"
+          },
+          {
+            "tag": "h3",
+            "text": "أنظمة CRM وERP"
+          },
+          {
+            "tag": "h3",
+            "text": "التكاملات والأنظمة المخصصة"
+          },
+          {
+            "tag": "h3",
+            "text": "الأتمتة والذكاء الاصطناعي"
+          },
+          {
+            "tag": "h3",
+            "text": "التطوير المستمر والدعم"
+          },
+          {
+            "tag": "h2",
+            "text": "ثلاث طرق لبدء التعاون."
+          },
+          {
+            "tag": "h3",
+            "text": "اكتشاف وتحديد نطاق"
+          },
+          {
+            "tag": "h3",
+            "text": "تنفيذ مشروع محدد"
+          },
+          {
+            "tag": "h3",
+            "text": "تطوير مستمر"
+          },
+          {
+            "tag": "h2",
+            "text": "نبدأ من تحدّي العمل."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 35,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/work",
+      "key": "work",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "مختبر الحلول | Frentex Tech",
+        "desc": "نماذج تفاعلية أصلية لإدارة العملاء والعمليات والمخزون.",
+        "canonical": "https://frntextech.com/work.html",
+        "robots": null,
+        "ogTitle": "مختبر الحلول | Frentex Tech",
+        "ogDesc": "نماذج تفاعلية أصلية لإدارة العملاء والعمليات والمخزون.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/work.html",
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/work.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/work.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/work.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "جرّب طريقة تفكيرنا."
+          },
+          {
+            "tag": "h2",
+            "text": "شاهد الفكرة. ثم جرّبها بنفسك."
+          },
+          {
+            "tag": "h3",
+            "text": "فرصة جديدة2"
+          },
+          {
+            "tag": "h4",
+            "text": "موقع شركة خدمات"
+          },
+          {
+            "tag": "h4",
+            "text": "بوابة شركاء"
+          },
+          {
+            "tag": "h3",
+            "text": "عرض مرسل1"
+          },
+          {
+            "tag": "h4",
+            "text": "تطبيق طلبات"
+          },
+          {
+            "tag": "h3",
+            "text": "تم الاتفاق1"
+          },
+          {
+            "tag": "h4",
+            "text": "نظام تشغيل داخلي"
+          },
+          {
+            "tag": "h3",
+            "text": "مدار — رحلة مبيعات أوضح"
+          },
+          {
+            "tag": "h3",
+            "text": "الطلبات"
+          },
+          {
+            "tag": "h3",
+            "text": "صلاحية لمساحة المشروع"
+          },
+          {
+            "tag": "h3",
+            "text": "سير — طلب لا يضيع بين الرسائل"
+          },
+          {
+            "tag": "h3",
+            "text": "رصيد — رؤية مشتركة للمخزون"
+          },
+          {
+            "tag": "h2",
+            "text": "ثلاثة مبادئ تحكم تصميم وبناء كل نظام"
+          },
+          {
+            "tag": "h3",
+            "text": "منطق العمل أولاً (Business Logic First)"
+          },
+          {
+            "tag": "h3",
+            "text": "بساطة التجربة وكفاءة الواجهات (Operational Ergonomics)"
+          },
+          {
+            "tag": "h3",
+            "text": "بنية تحتية قابلة للتكامل (Enterprise Integration-Ready)"
+          },
+          {
+            "tag": "h2",
+            "text": "نبدأ من تحدّي العمل."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 34,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/process",
+      "key": "process",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "طريقة العمل | Frentex Tech",
+        "desc": "مراحل اكتشاف وتصميم وتطوير وقبول وتسليم ودعم للشركات.",
+        "canonical": "https://frntextech.com/process.html",
+        "robots": null,
+        "ogTitle": "طريقة العمل | Frentex Tech",
+        "ogDesc": "مراحل اكتشاف وتصميم وتطوير وقبول وتسليم ودعم للشركات.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/process.html",
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/process.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/process.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/process.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "من سؤال العمل.إلى تسليم واضح."
+          },
+          {
+            "tag": "h2",
+            "text": "خمس مراحل منضبطة تضمن وضوح النتيجة"
+          },
+          {
+            "tag": "h3",
+            "text": "نفهم القرار قبل النظام."
+          },
+          {
+            "tag": "h3",
+            "text": "ما سندخله في الإصدار الأول."
+          },
+          {
+            "tag": "h3",
+            "text": "تقدم ظاهر في كل مرحلة."
+          },
+          {
+            "tag": "h3",
+            "text": "تشغيل بخطة انتقال."
+          },
+          {
+            "tag": "h3",
+            "text": "ملكية ومسؤوليات واضحة."
+          },
+          {
+            "tag": "h2",
+            "text": "قواعد تحمي جودة ووقت وميزانية المشروع"
+          },
+          {
+            "tag": "h3",
+            "text": "إدارة التغيير"
+          },
+          {
+            "tag": "h3",
+            "text": "التعامل مع البيانات"
+          },
+          {
+            "tag": "h3",
+            "text": "التواصل والحوكمة"
+          },
+          {
+            "tag": "h2",
+            "text": "نبدأ من تحدّي العمل."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 28,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/about",
+      "key": "about",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "عن الشركة | Frentex Tech",
+        "desc": "Frentex Tech حلول برمجية للشركات والمؤسسات في السعودية.",
+        "canonical": "https://frntextech.com/about.html",
+        "robots": null,
+        "ogTitle": "عن الشركة | Frentex Tech",
+        "ogDesc": "Frentex Tech حلول برمجية للشركات والمؤسسات في السعودية.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/about.html",
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/about.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/about.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/about.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "التقنية في خدمةالعمل الذي تبنيه."
+          },
+          {
+            "tag": "h2",
+            "text": "مبادئ تحكم طريقة بنائنا للبرمجيات"
+          },
+          {
+            "tag": "h3",
+            "text": "من نخدم"
+          },
+          {
+            "tag": "h3",
+            "text": "كيف نفكر"
+          },
+          {
+            "tag": "h3",
+            "text": "العربية جزء من التجربة"
+          },
+          {
+            "tag": "h3",
+            "text": "الثقة في التفاصيل"
+          },
+          {
+            "tag": "h2",
+            "text": "انضباط هندسي في كل مرحلة تطوير"
+          },
+          {
+            "tag": "h3",
+            "text": "الانضباط المعماري والجودة الهندسية"
+          },
+          {
+            "tag": "h3",
+            "text": "أمان وسيادة البيانات"
+          },
+          {
+            "tag": "h3",
+            "text": "تسليم شامل واستقلالية تقنية تامة"
+          },
+          {
+            "tag": "h2",
+            "text": "اطلع على إمكانياتنا الهندسية ومنهجيتنا بالتفصيل"
+          },
+          {
+            "tag": "h2",
+            "text": "نبدأ من تحدّي العمل."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 29,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/contact",
+      "key": "contact",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "تواصل معنا | Frentex Tech",
+        "desc": "تواصل مع Frentex Tech لمناقشة احتياجات البرمجيات للشركات.",
+        "canonical": "https://frntextech.com/contact.html",
+        "robots": null,
+        "ogTitle": "تواصل معنا | Frentex Tech",
+        "ogDesc": "تواصل مع Frentex Tech لمناقشة احتياجات البرمجيات للشركات.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/contact.html",
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/contact.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/contact.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/contact.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "ما الذي تريدأن يعمل بشكل أفضل؟"
+          },
+          {
+            "tag": "h2",
+            "text": "اختر الطريقة الأنسب لبدء النقاش"
+          },
+          {
+            "tag": "h3",
+            "text": "تواصل مع أستاذ سيراج"
+          },
+          {
+            "tag": "h3",
+            "text": "جهّز ملخصًا قبل التواصل"
+          },
+          {
+            "tag": "h2",
+            "text": "نقاط تساعدنا على فهم احتياجك."
+          },
+          {
+            "tag": "h3",
+            "text": "السياق"
+          },
+          {
+            "tag": "h3",
+            "text": "الوضع الحالي"
+          },
+          {
+            "tag": "h3",
+            "text": "أولوية الإصدار"
+          },
+          {
+            "tag": "h2",
+            "text": "نبدأ من تحدّي العمل."
+          },
+          {
+            "tag": "h2",
+            "text": "لنبدأ بالسؤال الصحيح."
+          },
+          {
+            "tag": "h3",
+            "text": "ملخصك جاهز."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 30,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/privacy",
+      "key": "privacy",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "خصوصية الموقع | Frentex Tech",
+        "desc": "كيف تعمل نماذج الموقع والاتصال.",
+        "canonical": "https://frntextech.com/privacy.html",
+        "robots": null,
+        "ogTitle": "خصوصية الموقع | Frentex Tech",
+        "ogDesc": "كيف تعمل نماذج الموقع والاتصال.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/privacy.html",
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/privacy.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/privacy.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/privacy.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "معلومات واضحة عن استخدام الموقع."
+          },
+          {
+            "tag": "h2",
+            "text": "الملخص والنماذج"
+          },
+          {
+            "tag": "h2",
+            "text": "الاتصال وروابط الخارج"
+          },
+          {
+            "tag": "h2",
+            "text": "الاستضافة"
+          },
+          {
+            "tag": "h2",
+            "text": "استفسارات الموقع"
+          },
+          {
+            "tag": "h2",
+            "text": "نبدأ من تحدّي العمل."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 28,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/presentation",
+      "key": "presentation",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "المراجع وفكرة التصميم | Frentex Tech",
+        "desc": "Frentex Tech حلول برمجية للشركات والمؤسسات في السعودية.",
+        "canonical": null,
+        "robots": "noindex,follow",
+        "ogTitle": "المراجع وفكرة التصميم | Frentex Tech",
+        "ogDesc": "Frentex Tech حلول برمجية للشركات والمؤسسات في السعودية.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": null,
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "ما الذي ألهم منهجنا؟"
+          },
+          {
+            "tag": "h2",
+            "text": "إجادة"
+          },
+          {
+            "tag": "h2",
+            "text": "ScienceSoft"
+          },
+          {
+            "tag": "h2",
+            "text": "Netguru"
+          },
+          {
+            "tag": "h2",
+            "text": "thoughtbot"
+          },
+          {
+            "tag": "h2",
+            "text": "Work & Co"
+          },
+          {
+            "tag": "h2",
+            "text": "Ramotion"
+          },
+          {
+            "tag": "h2",
+            "text": "كيف ترجمنا ذلك إلى Frentex Tech؟"
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 32,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/project?project=crm",
+      "key": "project-crm",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "مدار — نموذج تفاعلي | فرينتكس",
+        "desc": "استكشف نموذجًا أصليًا تفاعليًا من مختبر فرينتكس لتصميم وتطوير أنظمة الأعمال.",
+        "canonical": null,
+        "robots": "noindex,nofollow",
+        "ogTitle": "مختبر الأعمال | فرينتكس",
+        "ogDesc": "استكشف نموذجًا أصليًا تفاعليًا من مختبر فرينتكس لتصميم وتطوير أنظمة الأعمال.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": null,
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "مدار —رحلة المبيعات،في صورة واحدة."
+          },
+          {
+            "tag": "h2",
+            "text": "مدار / جرّب النموذج"
+          },
+          {
+            "tag": "h3",
+            "text": "فرصة جديدة2"
+          },
+          {
+            "tag": "h4",
+            "text": "موقع شركة خدمات"
+          },
+          {
+            "tag": "h4",
+            "text": "بوابة شركاء"
+          },
+          {
+            "tag": "h3",
+            "text": "عرض مرسل1"
+          },
+          {
+            "tag": "h4",
+            "text": "تطبيق طلبات"
+          },
+          {
+            "tag": "h3",
+            "text": "تم الاتفاق1"
+          },
+          {
+            "tag": "h4",
+            "text": "نظام تشغيل داخلي"
+          },
+          {
+            "tag": "h2",
+            "text": "لماذا هذا النموذج؟"
+          },
+          {
+            "tag": "h2",
+            "text": "تفاصيل تُسهّل العمل."
+          },
+          {
+            "tag": "h2",
+            "text": "تجربة قابلة للاستكشاف."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 27,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/project?project=ops",
+      "key": "project-ops",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "سير — نموذج تفاعلي | فرينتكس",
+        "desc": "استكشف نموذجًا أصليًا تفاعليًا من مختبر فرينتكس لتصميم وتطوير أنظمة الأعمال.",
+        "canonical": null,
+        "robots": "noindex,nofollow",
+        "ogTitle": "مختبر الأعمال | فرينتكس",
+        "ogDesc": "استكشف نموذجًا أصليًا تفاعليًا من مختبر فرينتكس لتصميم وتطوير أنظمة الأعمال.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": null,
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "سير —من طلب مبعثر.إلى قرار واضح."
+          },
+          {
+            "tag": "h2",
+            "text": "سير / جرّب النموذج"
+          },
+          {
+            "tag": "h3",
+            "text": "الطلبات"
+          },
+          {
+            "tag": "h3",
+            "text": "صلاحية لمساحة المشروع"
+          },
+          {
+            "tag": "h2",
+            "text": "لماذا هذا النموذج؟"
+          },
+          {
+            "tag": "h2",
+            "text": "تفاصيل تُسهّل العمل."
+          },
+          {
+            "tag": "h2",
+            "text": "تجربة قابلة للاستكشاف."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 27,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/project?project=erp",
+      "key": "project-erp",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "رصيد — نموذج تفاعلي | فرينتكس",
+        "desc": "استكشف نموذجًا أصليًا تفاعليًا من مختبر فرينتكس لتصميم وتطوير أنظمة الأعمال.",
+        "canonical": null,
+        "robots": "noindex,nofollow",
+        "ogTitle": "مختبر الأعمال | فرينتكس",
+        "ogDesc": "استكشف نموذجًا أصليًا تفاعليًا من مختبر فرينتكس لتصميم وتطوير أنظمة الأعمال.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": null,
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "رصيد —المخزون والمشتريات.في مسار مترابط."
+          },
+          {
+            "tag": "h2",
+            "text": "رصيد / جرّب النموذج"
+          },
+          {
+            "tag": "h3",
+            "text": "طلبات الشراء التجريبية"
+          },
+          {
+            "tag": "h2",
+            "text": "لماذا هذا النموذج؟"
+          },
+          {
+            "tag": "h2",
+            "text": "تفاصيل تُسهّل العمل."
+          },
+          {
+            "tag": "h2",
+            "text": "تجربة قابلة للاستكشاف."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 27,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/solution-platforms",
+      "key": "solution-platforms",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "المواقع وبوابات الأعمال | Frentex Tech",
+        "desc": "مواقع مؤسسية متعددة اللغات، بوابات عملاء وشركاء، منصات خدمات وإدارة محتوى.",
+        "canonical": "https://frntextech.com/solution-platforms.html",
+        "robots": null,
+        "ogTitle": "المواقع وبوابات الأعمال | Frentex Tech",
+        "ogDesc": "مواقع مؤسسية متعددة اللغات، بوابات عملاء وشركاء، منصات خدمات وإدارة محتوى.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/solution-platforms.html",
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/solution-platforms.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/solution-platforms.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/solution-platforms.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "المواقع وبوابات الأعمال"
+          },
+          {
+            "tag": "h2",
+            "text": "القدرات الهندسية الأساسية"
+          },
+          {
+            "tag": "h3",
+            "text": "بوابات متعددة اللغات (عربي / إنجليزي)"
+          },
+          {
+            "tag": "h3",
+            "text": "أداء فائق واستجابة لحظية"
+          },
+          {
+            "tag": "h3",
+            "text": "إدارة محتوى وصلاحيات دقيقة"
+          },
+          {
+            "tag": "h3",
+            "text": "تكامل سلس مع البوابات والأنظمة الداخلية"
+          },
+          {
+            "tag": "h2",
+            "text": "هيكلية برمجية للمواقع والمنصات المؤسسية"
+          },
+          {
+            "tag": "h4",
+            "text": "طبقة الحافة والشبكة الموزعة (Edge & CDN)"
+          },
+          {
+            "tag": "h3",
+            "text": "بوابات متعددة اللغات (عربي / إنجليزي)"
+          },
+          {
+            "tag": "h3",
+            "text": "أداء فائق واستجابة لحظية"
+          },
+          {
+            "tag": "h3",
+            "text": "إدارة محتوى وصلاحيات دقيقة"
+          },
+          {
+            "tag": "h2",
+            "text": "وضوح تام قبل بدء التنفيذ"
+          },
+          {
+            "tag": "h3",
+            "text": "متى يكون الحل مناسبًا؟"
+          },
+          {
+            "tag": "h3",
+            "text": "مخرجات نتفق عليها"
+          },
+          {
+            "tag": "h3",
+            "text": "ما نحدده مع فريقك أولًا"
+          },
+          {
+            "tag": "h2",
+            "text": "قرار الشراء يبدأ بوضوح."
+          },
+          {
+            "tag": "h3",
+            "text": "حلول تكتمل مع المنصة"
+          },
+          {
+            "tag": "h4",
+            "text": "تطبيقات الجوال"
+          },
+          {
+            "tag": "h4",
+            "text": "التكاملات والأنظمة المخصصة"
+          },
+          {
+            "tag": "h2",
+            "text": "نبدأ من تحدّي العمل."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 31,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/solution-apps",
+      "key": "solution-apps",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "تطبيقات الجوال | Frentex Tech",
+        "desc": "تطبيقات عملاء وموظفين وفرق ميدانية لـ iOS وAndroid حسب النطاق.",
+        "canonical": "https://frntextech.com/solution-apps.html",
+        "robots": null,
+        "ogTitle": "تطبيقات الجوال | Frentex Tech",
+        "ogDesc": "تطبيقات عملاء وموظفين وفرق ميدانية لـ iOS وAndroid حسب النطاق.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/solution-apps.html",
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/solution-apps.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/solution-apps.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/solution-apps.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "تطبيقات الجوال"
+          },
+          {
+            "tag": "h2",
+            "text": "القدرات الهندسية الأساسية"
+          },
+          {
+            "tag": "h3",
+            "text": "أداء أصيل وتجربة مستخدم عالية"
+          },
+          {
+            "tag": "h3",
+            "text": "العمل دون اتصال والمزامنة الذكية"
+          },
+          {
+            "tag": "h3",
+            "text": "أمان متقدم وحماية البيانات الحيوية"
+          },
+          {
+            "tag": "h3",
+            "text": "لوحات تحكم للمشرفين والفرق الميدانية"
+          },
+          {
+            "tag": "h2",
+            "text": "تطبيقات موثوقة لأجهزة iOS و Android"
+          },
+          {
+            "tag": "h3",
+            "text": "أداء فائق واستجابة دون انقطاع"
+          },
+          {
+            "tag": "h3",
+            "text": "أداء أصيل وتجربة مستخدم عالية"
+          },
+          {
+            "tag": "h3",
+            "text": "العمل دون اتصال والمزامنة الذكية"
+          },
+          {
+            "tag": "h3",
+            "text": "أمان متقدم وحماية البيانات الحيوية"
+          },
+          {
+            "tag": "h2",
+            "text": "وضوح تام قبل بدء التنفيذ"
+          },
+          {
+            "tag": "h3",
+            "text": "متى يكون الحل مناسبًا؟"
+          },
+          {
+            "tag": "h3",
+            "text": "مخرجات نتفق عليها"
+          },
+          {
+            "tag": "h3",
+            "text": "ما نحدده مع فريقك أولًا"
+          },
+          {
+            "tag": "h2",
+            "text": "قرار الشراء يبدأ بوضوح."
+          },
+          {
+            "tag": "h3",
+            "text": "حلول تكتمل مع التطبيق"
+          },
+          {
+            "tag": "h4",
+            "text": "المواقع وبوابات الأعمال"
+          },
+          {
+            "tag": "h4",
+            "text": "أنظمة CRM وERP"
+          },
+          {
+            "tag": "h2",
+            "text": "نبدأ من تحدّي العمل."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 31,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/solution-business",
+      "key": "solution-business",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "أنظمة CRM وERP | Frentex Tech",
+        "desc": "إدارة العملاء والمبيعات والمخزون والمشتريات وسير الموافقات. نقارن تهيئة منتج قائم ببناء وحدات مخصصة قبل الاختيار.",
+        "canonical": "https://frntextech.com/solution-business.html",
+        "robots": null,
+        "ogTitle": "أنظمة CRM وERP | Frentex Tech",
+        "ogDesc": "إدارة العملاء والمبيعات والمخزون والمشتريات وسير الموافقات. نقارن تهيئة منتج قائم ببناء وحدات مخصصة قبل الاختيار.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/solution-business.html",
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/solution-business.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/solution-business.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/solution-business.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "أنظمة CRM وERP"
+          },
+          {
+            "tag": "h2",
+            "text": "القدرات الهندسية الأساسية"
+          },
+          {
+            "tag": "h3",
+            "text": "مسار فرص ومبيعات واضح (CRM)"
+          },
+          {
+            "tag": "h3",
+            "text": "إدارة المخزون والمشتريات (ERP)"
+          },
+          {
+            "tag": "h3",
+            "text": "سير موافقات مخصص ومسؤوليات واضحة"
+          },
+          {
+            "tag": "h3",
+            "text": "تقارير تشغيلية ولوحات قياس تنفيذية"
+          },
+          {
+            "tag": "h2",
+            "text": "توحيد العمليات بين المبيعات، المخزون، والمالية"
+          },
+          {
+            "tag": "h4",
+            "text": "تسجيل الفرصة وعرض السعر"
+          },
+          {
+            "tag": "h4",
+            "text": "حجز الأصناف والتحقق اللحظي"
+          },
+          {
+            "tag": "h4",
+            "text": "موافقة الخصم والصلاحيات"
+          },
+          {
+            "tag": "h4",
+            "text": "إصدار الفاتورة وترحيل القيود"
+          },
+          {
+            "tag": "h3",
+            "text": "حجز الأصناف والتحقق اللحظي"
+          },
+          {
+            "tag": "h3",
+            "text": "مسار فرص ومبيعات واضح (CRM)"
+          },
+          {
+            "tag": "h3",
+            "text": "إدارة المخزون والمشتريات (ERP)"
+          },
+          {
+            "tag": "h3",
+            "text": "سير موافقات مخصص ومسؤوليات واضحة"
+          },
+          {
+            "tag": "h2",
+            "text": "وضوح تام قبل بدء التنفيذ"
+          },
+          {
+            "tag": "h3",
+            "text": "متى يكون الحل مناسبًا؟"
+          },
+          {
+            "tag": "h3",
+            "text": "مخرجات نتفق عليها"
+          },
+          {
+            "tag": "h3",
+            "text": "ما نحدده مع فريقك أولًا"
+          },
+          {
+            "tag": "h2",
+            "text": "قرار الشراء يبدأ بوضوح."
+          },
+          {
+            "tag": "h3",
+            "text": "حلول تكتمل مع أنظمة الأعمال"
+          },
+          {
+            "tag": "h4",
+            "text": "التكاملات والأنظمة المخصصة"
+          },
+          {
+            "tag": "h4",
+            "text": "الأتمتة والذكاء الاصطناعي"
+          },
+          {
+            "tag": "h2",
+            "text": "نبدأ من تحدّي العمل."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 31,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/solution-integration",
+      "key": "solution-integration",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "التكاملات والأنظمة المخصصة | Frentex Tech",
+        "desc": "ربط عبر API، بوابات داخلية، لوحات متابعة، مزامنة بيانات وأتمتة إجراءات.",
+        "canonical": "https://frntextech.com/solution-integration.html",
+        "robots": null,
+        "ogTitle": "التكاملات والأنظمة المخصصة | Frentex Tech",
+        "ogDesc": "ربط عبر API، بوابات داخلية، لوحات متابعة، مزامنة بيانات وأتمتة إجراءات.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/solution-integration.html",
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/solution-integration.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/solution-integration.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/solution-integration.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "التكاملات والأنظمة المخصصة"
+          },
+          {
+            "tag": "h2",
+            "text": "القدرات الهندسية الأساسية"
+          },
+          {
+            "tag": "h3",
+            "text": "وساطة ومعالجة رسائل آمنة (Integration Bus)"
+          },
+          {
+            "tag": "h3",
+            "text": "معالجة الأخطاء وإعادة المحاولة الذكية"
+          },
+          {
+            "tag": "h3",
+            "text": "تكامل مع زاتكا وبوابات الدفع الوطنية"
+          },
+          {
+            "tag": "h3",
+            "text": "سجلات تدقيق ومراقبة لحظية لحركة الـ API"
+          },
+          {
+            "tag": "h2",
+            "text": "بوابة تكامل موحدة وعقود ربط برمجية آمنة"
+          },
+          {
+            "tag": "h4",
+            "text": "مصادر البيانات والطلبات"
+          },
+          {
+            "tag": "h3",
+            "text": "محرك المعالجة والتحويل الذكي"
+          },
+          {
+            "tag": "h4",
+            "text": "الأنظمة الخلفية وقواعد البيانات"
+          },
+          {
+            "tag": "h3",
+            "text": "وساطة ومعالجة رسائل آمنة (Integration Bus)"
+          },
+          {
+            "tag": "h3",
+            "text": "معالجة الأخطاء وإعادة المحاولة الذكية"
+          },
+          {
+            "tag": "h3",
+            "text": "تكامل مع زاتكا وبوابات الدفع الوطنية"
+          },
+          {
+            "tag": "h2",
+            "text": "وضوح تام قبل بدء التنفيذ"
+          },
+          {
+            "tag": "h3",
+            "text": "متى يكون الحل مناسبًا؟"
+          },
+          {
+            "tag": "h3",
+            "text": "مخرجات نتفق عليها"
+          },
+          {
+            "tag": "h3",
+            "text": "ما نحدده مع فريقك أولًا"
+          },
+          {
+            "tag": "h2",
+            "text": "قرار الشراء يبدأ بوضوح."
+          },
+          {
+            "tag": "h3",
+            "text": "حلول تكتمل مع التكاملات"
+          },
+          {
+            "tag": "h4",
+            "text": "أنظمة CRM وERP"
+          },
+          {
+            "tag": "h4",
+            "text": "الأتمتة والذكاء الاصطناعي"
+          },
+          {
+            "tag": "h2",
+            "text": "نبدأ من تحدّي العمل."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 31,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/solution-automation",
+      "key": "solution-automation",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "الأتمتة والذكاء الاصطناعي | Frentex Tech",
+        "desc": "أتمتة مهام محددة، بحث في المعرفة، معالجة مستندات ومساعدات داخلية بمراجعة بشرية.",
+        "canonical": "https://frntextech.com/solution-automation.html",
+        "robots": null,
+        "ogTitle": "الأتمتة والذكاء الاصطناعي | Frentex Tech",
+        "ogDesc": "أتمتة مهام محددة، بحث في المعرفة، معالجة مستندات ومساعدات داخلية بمراجعة بشرية.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/solution-automation.html",
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/solution-automation.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/solution-automation.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/solution-automation.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "الأتمتة والذكاء الاصطناعي"
+          },
+          {
+            "tag": "h2",
+            "text": "القدرات الهندسية الأساسية"
+          },
+          {
+            "tag": "h3",
+            "text": "استخراج البيانات من المستندات والفواتير"
+          },
+          {
+            "tag": "h3",
+            "text": "بوابة تقييم الثقة والتحقق البشري"
+          },
+          {
+            "tag": "h3",
+            "text": "مساعدات معرفية داخلية آمنة"
+          },
+          {
+            "tag": "h3",
+            "text": "أتمتة دورات التدقيق والتصنيف"
+          },
+          {
+            "tag": "h2",
+            "text": "أتمتة ذكية بمراجعة بشرية واضحة (Human-in-the-Loop)"
+          },
+          {
+            "tag": "h4",
+            "text": "معالجة فورية ومباشرة (STP 100%)"
+          },
+          {
+            "tag": "h3",
+            "text": "استخراج البيانات من المستندات والفواتير"
+          },
+          {
+            "tag": "h3",
+            "text": "بوابة تقييم الثقة والتحقق البشري"
+          },
+          {
+            "tag": "h3",
+            "text": "مساعدات معرفية داخلية آمنة"
+          },
+          {
+            "tag": "h2",
+            "text": "وضوح تام قبل بدء التنفيذ"
+          },
+          {
+            "tag": "h3",
+            "text": "متى يكون الحل مناسبًا؟"
+          },
+          {
+            "tag": "h3",
+            "text": "مخرجات نتفق عليها"
+          },
+          {
+            "tag": "h3",
+            "text": "ما نحدده مع فريقك أولًا"
+          },
+          {
+            "tag": "h2",
+            "text": "قرار الشراء يبدأ بوضوح."
+          },
+          {
+            "tag": "h3",
+            "text": "حلول تكتمل مع الأتمتة"
+          },
+          {
+            "tag": "h4",
+            "text": "أنظمة CRM وERP"
+          },
+          {
+            "tag": "h4",
+            "text": "التكاملات والأنظمة المخصصة"
+          },
+          {
+            "tag": "h2",
+            "text": "نبدأ من تحدّي العمل."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 31,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/solution-support",
+      "key": "solution-support",
+      "lang": "ar",
+      "status": 200,
+      "seo": {
+        "title": "التطوير المستمر والدعم | Frentex Tech",
+        "desc": "صيانة وتحسينات ومراقبة حسب عقد الخدمة ونطاق النظام.",
+        "canonical": "https://frntextech.com/solution-support.html",
+        "robots": null,
+        "ogTitle": "التطوير المستمر والدعم | Frentex Tech",
+        "ogDesc": "صيانة وتحسينات ومراقبة حسب عقد الخدمة ونطاق النظام.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/solution-support.html",
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/solution-support.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/solution-support.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/solution-support.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "التطوير المستمر والدعم"
+          },
+          {
+            "tag": "h2",
+            "text": "القدرات الهندسية الأساسية"
+          },
+          {
+            "tag": "h3",
+            "text": "مراقبة صحة الخوادم والخدمات لحظيًا"
+          },
+          {
+            "tag": "h3",
+            "text": "اتفاقيات مستوى خدمة محددة (SLA)"
+          },
+          {
+            "tag": "h3",
+            "text": "نسخ احتياطي مجدول واختبارات استعادة"
+          },
+          {
+            "tag": "h3",
+            "text": "إصدارات تطويرية وتحديثات دورية"
+          },
+          {
+            "tag": "h2",
+            "text": "مراقبة استباقية وتطوير مستمر يواكب نمو العمل"
+          },
+          {
+            "tag": "h4",
+            "text": "شبكة المراقبة الإقليمية الفورية"
+          },
+          {
+            "tag": "h3",
+            "text": "التزام حقيقي بزمن الاستجابة"
+          },
+          {
+            "tag": "h4",
+            "text": "حرج جداً (P1 - توقف كامل للخدمة)"
+          },
+          {
+            "tag": "h3",
+            "text": "مراقبة صحة الخوادم والخدمات لحظيًا"
+          },
+          {
+            "tag": "h3",
+            "text": "اتفاقيات مستوى خدمة محددة (SLA)"
+          },
+          {
+            "tag": "h3",
+            "text": "نسخ احتياطي مجدول واختبارات استعادة"
+          },
+          {
+            "tag": "h2",
+            "text": "وضوح تام قبل بدء التنفيذ"
+          },
+          {
+            "tag": "h3",
+            "text": "متى يكون الحل مناسبًا؟"
+          },
+          {
+            "tag": "h3",
+            "text": "مخرجات نتفق عليها"
+          },
+          {
+            "tag": "h3",
+            "text": "ما نحدده مع فريقك أولًا"
+          },
+          {
+            "tag": "h2",
+            "text": "قرار الشراء يبدأ بوضوح."
+          },
+          {
+            "tag": "h3",
+            "text": "حلول تكتمل مع الدعم المستمر"
+          },
+          {
+            "tag": "h4",
+            "text": "المواقع وبوابات الأعمال"
+          },
+          {
+            "tag": "h4",
+            "text": "تطبيقات الجوال"
+          },
+          {
+            "tag": "h2",
+            "text": "نبدأ من تحدّي العمل."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 31,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/non-existent-test-404",
+      "key": "404",
+      "lang": "ar",
+      "status": 404,
+      "seo": {
+        "title": "الصفحة غير موجودة | Frentex Tech",
+        "desc": "العودة إلى Frentex Tech.",
+        "canonical": null,
+        "robots": "noindex",
+        "ogTitle": "الصفحة غير موجودة | Frentex Tech",
+        "ogDesc": "العودة إلى Frentex Tech.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": null,
+        "htmlLang": "ar",
+        "htmlDir": "rtl",
+        "alternates": [],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "لم نجد هذه الصفحة."
+          },
+          {
+            "tag": "h3",
+            "text": "تعرّف علينا"
+          },
+          {
+            "tag": "h3",
+            "text": "حلولنا"
+          },
+          {
+            "tag": "h3",
+            "text": "نبدأ من تحدّي العمل."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 25,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": [
+        "Failed to load resource: the server responded with a status of 404 (Not Found)"
+      ]
+    },
+    {
+      "route": "/en",
+      "key": "en-home",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "Frentex Tech | Systems, Not Just Sites",
+        "desc": "Frentex Tech designs and builds websites, apps and business systems for companies and organizations in Saudi Arabia. Explore our interactive demos and how we turn business needs into clear, connected software.",
+        "canonical": "https://frntextech.com/en.html",
+        "robots": null,
+        "ogTitle": "Frentex Tech | Systems, Not Just Sites",
+        "ogDesc": "Frentex Tech designs and builds websites, apps and business systems for companies and organizations in Saudi Arabia. Explore our interactive demos and how we turn business needs into clear, connected software.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/en.html",
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Systems,not just sites."
+          },
+          {
+            "tag": "h2",
+            "text": "The right technologyfor the stage you're in."
+          },
+          {
+            "tag": "h3",
+            "text": "Websites & digital platforms"
+          },
+          {
+            "tag": "h3",
+            "text": "Mobile apps"
+          },
+          {
+            "tag": "h3",
+            "text": "Business systems — ERP & CRM"
+          },
+          {
+            "tag": "h3",
+            "text": "Automation & AI"
+          },
+          {
+            "tag": "h2",
+            "text": "Close to your context.Precise in the details."
+          },
+          {
+            "tag": "h2",
+            "text": "See the idea.Then try it yourself."
+          },
+          {
+            "tag": "h3",
+            "text": "The sales journey,in one view."
+          },
+          {
+            "tag": "h3",
+            "text": "New opportunity2"
+          },
+          {
+            "tag": "h4",
+            "text": "Services company website"
+          },
+          {
+            "tag": "h4",
+            "text": "Partner portal"
+          },
+          {
+            "tag": "h3",
+            "text": "Proposal sent1"
+          },
+          {
+            "tag": "h4",
+            "text": "Ordering app"
+          },
+          {
+            "tag": "h3",
+            "text": "Agreed1"
+          },
+          {
+            "tag": "h4",
+            "text": "Internal operations system"
+          },
+          {
+            "tag": "h2",
+            "text": "No guessworkabout the next step."
+          },
+          {
+            "tag": "h3",
+            "text": "Understand"
+          },
+          {
+            "tag": "h3",
+            "text": "Design"
+          },
+          {
+            "tag": "h3",
+            "text": "Build"
+          },
+          {
+            "tag": "h3",
+            "text": "Launch"
+          },
+          {
+            "tag": "h2",
+            "text": "Have a question?Here is what we usually clarify."
+          },
+          {
+            "tag": "h2",
+            "text": "Your idea deservesa clear start."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          },
+          {
+            "tag": "h2",
+            "text": "Let's start with the right question."
+          },
+          {
+            "tag": "h3",
+            "text": "Your summary is ready."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 40,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/services",
+      "key": "en-services",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "Business Solutions | Frentex Tech",
+        "desc": "Websites, apps, CRM and ERP systems, integrations and automation for companies and organizations.",
+        "canonical": "https://frntextech.com/en/services.html",
+        "robots": null,
+        "ogTitle": "Business Solutions | Frentex Tech",
+        "ogDesc": "Websites, apps, CRM and ERP systems, integrations and automation for companies and organizations.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/en/services.html",
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/services.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/services.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/services.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "From your businessto every system."
+          },
+          {
+            "tag": "h3",
+            "text": "Digital Platforms & Enterprise Portals"
+          },
+          {
+            "tag": "h3",
+            "text": "Native Mobile Applications"
+          },
+          {
+            "tag": "h3",
+            "text": "Integration & Enterprise API Mesh"
+          },
+          {
+            "tag": "h3",
+            "text": "Business Systems & Operations Core"
+          },
+          {
+            "tag": "h3",
+            "text": "Intelligent Process Automation & AI"
+          },
+          {
+            "tag": "h3",
+            "text": "24/7 Observability & Support"
+          },
+          {
+            "tag": "h2",
+            "text": "Digital Platforms & Enterprise Portals"
+          },
+          {
+            "tag": "h2",
+            "text": "Explore Technical Capabilities & Deliverables"
+          },
+          {
+            "tag": "h3",
+            "text": "Websites & digital platforms"
+          },
+          {
+            "tag": "h3",
+            "text": "Mobile apps"
+          },
+          {
+            "tag": "h3",
+            "text": "ERP & CRM systems"
+          },
+          {
+            "tag": "h3",
+            "text": "Integrations & custom systems"
+          },
+          {
+            "tag": "h3",
+            "text": "Automation & AI"
+          },
+          {
+            "tag": "h3",
+            "text": "Support & ongoing development"
+          },
+          {
+            "tag": "h2",
+            "text": "Three ways to start working together."
+          },
+          {
+            "tag": "h3",
+            "text": "Discovery and scoping"
+          },
+          {
+            "tag": "h3",
+            "text": "Defined project delivery"
+          },
+          {
+            "tag": "h3",
+            "text": "Ongoing development"
+          },
+          {
+            "tag": "h2",
+            "text": "We start with the business challenge."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 35,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/work",
+      "key": "en-work",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "Work Lab | Frentex Tech",
+        "desc": "Original interactive demos for customer management, operations and inventory.",
+        "canonical": "https://frntextech.com/en/work.html",
+        "robots": null,
+        "ogTitle": "Work Lab | Frentex Tech",
+        "ogDesc": "Original interactive demos for customer management, operations and inventory.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/en/work.html",
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/work.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/work.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/work.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Explore how we think."
+          },
+          {
+            "tag": "h2",
+            "text": "See the idea. Then try it yourself."
+          },
+          {
+            "tag": "h3",
+            "text": "New opportunity2"
+          },
+          {
+            "tag": "h4",
+            "text": "Services company website"
+          },
+          {
+            "tag": "h4",
+            "text": "Partner portal"
+          },
+          {
+            "tag": "h3",
+            "text": "Proposal sent1"
+          },
+          {
+            "tag": "h4",
+            "text": "Ordering app"
+          },
+          {
+            "tag": "h3",
+            "text": "Agreed1"
+          },
+          {
+            "tag": "h4",
+            "text": "Internal operations system"
+          },
+          {
+            "tag": "h3",
+            "text": "Madar — a clearer sales journey"
+          },
+          {
+            "tag": "h3",
+            "text": "Requests"
+          },
+          {
+            "tag": "h3",
+            "text": "Project workspace access"
+          },
+          {
+            "tag": "h3",
+            "text": "Sayr — requests that don't get lost"
+          },
+          {
+            "tag": "h3",
+            "text": "Raseed — shared inventory view"
+          },
+          {
+            "tag": "h2",
+            "text": "Three Core Principles Behind Every Prototype"
+          },
+          {
+            "tag": "h3",
+            "text": "Business Logic First"
+          },
+          {
+            "tag": "h3",
+            "text": "Operational Ergonomics"
+          },
+          {
+            "tag": "h3",
+            "text": "Integration-Ready Architecture"
+          },
+          {
+            "tag": "h2",
+            "text": "We start with the business challenge."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 34,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/process",
+      "key": "en-process",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "How We Work | Frentex Tech",
+        "desc": "How Frentex Tech works with companies: discovery, scope and design, development, user acceptance, handover and support.",
+        "canonical": "https://frntextech.com/en/process.html",
+        "robots": null,
+        "ogTitle": "How We Work | Frentex Tech",
+        "ogDesc": "How Frentex Tech works with companies: discovery, scope and design, development, user acceptance, handover and support.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/en/process.html",
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/process.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/process.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/process.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "From the business questionto a clear handover."
+          },
+          {
+            "tag": "h2",
+            "text": "Five Disciplined Stages Ensuring Absolute Clarity"
+          },
+          {
+            "tag": "h3",
+            "text": "We understand the decision before the system."
+          },
+          {
+            "tag": "h3",
+            "text": "What goes into the first release."
+          },
+          {
+            "tag": "h3",
+            "text": "Visible progress at every stage."
+          },
+          {
+            "tag": "h3",
+            "text": "Go live with a transition plan."
+          },
+          {
+            "tag": "h3",
+            "text": "Clear ownership and responsibilities."
+          },
+          {
+            "tag": "h2",
+            "text": "Practices That Protect Quality, Budget & Timeline"
+          },
+          {
+            "tag": "h3",
+            "text": "Change management"
+          },
+          {
+            "tag": "h3",
+            "text": "Data handling"
+          },
+          {
+            "tag": "h3",
+            "text": "Communication and governance"
+          },
+          {
+            "tag": "h2",
+            "text": "We start with the business challenge."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 28,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/about",
+      "key": "en-about",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "About Us | Frentex Tech",
+        "desc": "Frentex Tech: software solutions for companies and organizations in Saudi Arabia.",
+        "canonical": "https://frntextech.com/en/about.html",
+        "robots": null,
+        "ogTitle": "About Us | Frentex Tech",
+        "ogDesc": "Frentex Tech: software solutions for companies and organizations in Saudi Arabia.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/en/about.html",
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/about.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/about.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/about.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Technology that serveswhat you build."
+          },
+          {
+            "tag": "h2",
+            "text": "Principles That Govern How We Build Software"
+          },
+          {
+            "tag": "h3",
+            "text": "Who we serve"
+          },
+          {
+            "tag": "h3",
+            "text": "How we think"
+          },
+          {
+            "tag": "h3",
+            "text": "Arabic is part of the experience"
+          },
+          {
+            "tag": "h3",
+            "text": "Trust in the details"
+          },
+          {
+            "tag": "h2",
+            "text": "Disciplined Engineering Across Every Stage"
+          },
+          {
+            "tag": "h3",
+            "text": "Architectural Rigor & Engineering Quality"
+          },
+          {
+            "tag": "h3",
+            "text": "Data Security & Enterprise Sovereignty"
+          },
+          {
+            "tag": "h3",
+            "text": "Turnkey Handover & Zero Vendor Lock-in"
+          },
+          {
+            "tag": "h2",
+            "text": "Explore Our Full Engineering Scope & Capabilities"
+          },
+          {
+            "tag": "h2",
+            "text": "We start with the business challenge."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 29,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/contact",
+      "key": "en-contact",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "Contact | Frentex Tech",
+        "desc": "Contact Frentex Tech to discuss your company's software needs.",
+        "canonical": "https://frntextech.com/en/contact.html",
+        "robots": null,
+        "ogTitle": "Contact | Frentex Tech",
+        "ogDesc": "Contact Frentex Tech to discuss your company's software needs.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/en/contact.html",
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/contact.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/contact.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/contact.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "What do you wantto work better?"
+          },
+          {
+            "tag": "h2",
+            "text": "Choose the Optimal Way to Begin"
+          },
+          {
+            "tag": "h3",
+            "text": "Talk to our business lead"
+          },
+          {
+            "tag": "h3",
+            "text": "Prepare a summary first"
+          },
+          {
+            "tag": "h2",
+            "text": "Details that help us understand your needs."
+          },
+          {
+            "tag": "h3",
+            "text": "Context"
+          },
+          {
+            "tag": "h3",
+            "text": "Current setup"
+          },
+          {
+            "tag": "h3",
+            "text": "Release priorities"
+          },
+          {
+            "tag": "h2",
+            "text": "We start with the business challenge."
+          },
+          {
+            "tag": "h2",
+            "text": "Let's start with the right question."
+          },
+          {
+            "tag": "h3",
+            "text": "Your summary is ready."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 30,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/privacy",
+      "key": "en-privacy",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "Website Privacy | Frentex Tech",
+        "desc": "How the website's forms, demos and contact options work.",
+        "canonical": "https://frntextech.com/en/privacy.html",
+        "robots": null,
+        "ogTitle": "Website Privacy | Frentex Tech",
+        "ogDesc": "How the website's forms, demos and contact options work.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/en/privacy.html",
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/privacy.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/privacy.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/privacy.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Clear information about using this website."
+          },
+          {
+            "tag": "h2",
+            "text": "The project summary and demos"
+          },
+          {
+            "tag": "h2",
+            "text": "Contact and external links"
+          },
+          {
+            "tag": "h2",
+            "text": "Hosting"
+          },
+          {
+            "tag": "h2",
+            "text": "Website inquiries"
+          },
+          {
+            "tag": "h2",
+            "text": "We start with the business challenge."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 28,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/presentation",
+      "key": "en-presentation",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "References and Design Rationale | Frentex Tech",
+        "desc": "Frentex Tech: software solutions for companies and organizations in Saudi Arabia.",
+        "canonical": null,
+        "robots": "noindex,follow",
+        "ogTitle": "References and Design Rationale | Frentex Tech",
+        "ogDesc": "Frentex Tech: software solutions for companies and organizations in Saudi Arabia.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": null,
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "What inspired our approach?"
+          },
+          {
+            "tag": "h2",
+            "text": "Ejada"
+          },
+          {
+            "tag": "h2",
+            "text": "ScienceSoft"
+          },
+          {
+            "tag": "h2",
+            "text": "Netguru"
+          },
+          {
+            "tag": "h2",
+            "text": "thoughtbot"
+          },
+          {
+            "tag": "h2",
+            "text": "Work & Co"
+          },
+          {
+            "tag": "h2",
+            "text": "Ramotion"
+          },
+          {
+            "tag": "h2",
+            "text": "How did we apply this to Frentex Tech?"
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 32,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/project?project=crm",
+      "key": "en-project-crm",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "Madar — Interactive demo | Frentex Tech",
+        "desc": "Explore an original interactive demo from Frentex Lab, our space for designing and developing business systems.",
+        "canonical": null,
+        "robots": "noindex,nofollow",
+        "ogTitle": "Work Lab | Frentex Tech",
+        "ogDesc": "Explore an original interactive demo from Frentex Lab, our space for designing and developing business systems.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": null,
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Madar —The sales journey,in one view."
+          },
+          {
+            "tag": "h2",
+            "text": "Madar / Try the demo"
+          },
+          {
+            "tag": "h3",
+            "text": "New opportunity2"
+          },
+          {
+            "tag": "h4",
+            "text": "Services company website"
+          },
+          {
+            "tag": "h4",
+            "text": "Partner portal"
+          },
+          {
+            "tag": "h3",
+            "text": "Proposal sent1"
+          },
+          {
+            "tag": "h4",
+            "text": "Ordering app"
+          },
+          {
+            "tag": "h3",
+            "text": "Agreed1"
+          },
+          {
+            "tag": "h4",
+            "text": "Internal operations system"
+          },
+          {
+            "tag": "h2",
+            "text": "Why this demo?"
+          },
+          {
+            "tag": "h2",
+            "text": "Details that make work easier."
+          },
+          {
+            "tag": "h2",
+            "text": "An experience you can explore."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 27,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/project?project=ops",
+      "key": "en-project-ops",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "Sayr — Interactive demo | Frentex Tech",
+        "desc": "Explore an original interactive demo from Frentex Lab, our space for designing and developing business systems.",
+        "canonical": null,
+        "robots": "noindex,nofollow",
+        "ogTitle": "Work Lab | Frentex Tech",
+        "ogDesc": "Explore an original interactive demo from Frentex Lab, our space for designing and developing business systems.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": null,
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Sayr —From loose endsto clear decisions."
+          },
+          {
+            "tag": "h2",
+            "text": "Sayr / Try the demo"
+          },
+          {
+            "tag": "h3",
+            "text": "Requests"
+          },
+          {
+            "tag": "h3",
+            "text": "Project workspace access"
+          },
+          {
+            "tag": "h2",
+            "text": "Why this demo?"
+          },
+          {
+            "tag": "h2",
+            "text": "Details that make work easier."
+          },
+          {
+            "tag": "h2",
+            "text": "An experience you can explore."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 27,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/project?project=erp",
+      "key": "en-project-erp",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "Raseed — Interactive demo | Frentex Tech",
+        "desc": "Explore an original interactive demo from Frentex Lab, our space for designing and developing business systems.",
+        "canonical": null,
+        "robots": "noindex,nofollow",
+        "ogTitle": "Work Lab | Frentex Tech",
+        "ogDesc": "Explore an original interactive demo from Frentex Lab, our space for designing and developing business systems.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": null,
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Raseed —Inventory meetspurchasing."
+          },
+          {
+            "tag": "h2",
+            "text": "Raseed / Try the demo"
+          },
+          {
+            "tag": "h3",
+            "text": "Sample purchase orders"
+          },
+          {
+            "tag": "h2",
+            "text": "Why this demo?"
+          },
+          {
+            "tag": "h2",
+            "text": "Details that make work easier."
+          },
+          {
+            "tag": "h2",
+            "text": "An experience you can explore."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 27,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/solution-platforms",
+      "key": "en-solution-platforms",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "Websites & digital platforms | Frentex Tech",
+        "desc": "Multilingual corporate websites, customer and partner portals, service platforms and content management.",
+        "canonical": "https://frntextech.com/en/solution-platforms.html",
+        "robots": null,
+        "ogTitle": "Websites & digital platforms | Frentex Tech",
+        "ogDesc": "Multilingual corporate websites, customer and partner portals, service platforms and content management.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/en/solution-platforms.html",
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/solution-platforms.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/solution-platforms.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/solution-platforms.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Websites & digital platforms"
+          },
+          {
+            "tag": "h2",
+            "text": "Core Engineering Capabilities"
+          },
+          {
+            "tag": "h3",
+            "text": "Native Bilingual Portals (Arabic & English)"
+          },
+          {
+            "tag": "h3",
+            "text": "Ultra-Fast Edge Performance"
+          },
+          {
+            "tag": "h3",
+            "text": "Granular Content & Access Management"
+          },
+          {
+            "tag": "h3",
+            "text": "Enterprise System & Payment Integrations"
+          },
+          {
+            "tag": "h2",
+            "text": "Enterprise Web Architecture & Digital Portals"
+          },
+          {
+            "tag": "h4",
+            "text": "Edge Delivery & Distributed CDN"
+          },
+          {
+            "tag": "h3",
+            "text": "Native Bilingual Portals (Arabic & English)"
+          },
+          {
+            "tag": "h3",
+            "text": "Ultra-Fast Edge Performance"
+          },
+          {
+            "tag": "h3",
+            "text": "Granular Content & Access Management"
+          },
+          {
+            "tag": "h2",
+            "text": "Absolute Clarity Before You Commit"
+          },
+          {
+            "tag": "h3",
+            "text": "When does it fit?"
+          },
+          {
+            "tag": "h3",
+            "text": "Deliverables we agree on"
+          },
+          {
+            "tag": "h3",
+            "text": "What we define with your team first"
+          },
+          {
+            "tag": "h2",
+            "text": "Clarity before you commit."
+          },
+          {
+            "tag": "h3",
+            "text": "Complementary Solutions"
+          },
+          {
+            "tag": "h4",
+            "text": "Mobile Apps"
+          },
+          {
+            "tag": "h4",
+            "text": "Integrations & Custom Systems"
+          },
+          {
+            "tag": "h2",
+            "text": "We start with the business challenge."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 31,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/solution-apps",
+      "key": "en-solution-apps",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "Mobile apps | Frentex Tech",
+        "desc": "Apps for customers, employees and field teams on iOS and Android, depending on the scope.",
+        "canonical": "https://frntextech.com/en/solution-apps.html",
+        "robots": null,
+        "ogTitle": "Mobile apps | Frentex Tech",
+        "ogDesc": "Apps for customers, employees and field teams on iOS and Android, depending on the scope.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/en/solution-apps.html",
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/solution-apps.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/solution-apps.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/solution-apps.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Mobile apps"
+          },
+          {
+            "tag": "h2",
+            "text": "Core Engineering Capabilities"
+          },
+          {
+            "tag": "h3",
+            "text": "Fluid Native Performance"
+          },
+          {
+            "tag": "h3",
+            "text": "Offline-First SQLite Architecture"
+          },
+          {
+            "tag": "h3",
+            "text": "Biometric Security & Encrypted Storage"
+          },
+          {
+            "tag": "h3",
+            "text": "Operations Cockpit & Geo-Verification"
+          },
+          {
+            "tag": "h2",
+            "text": "Resilient Native Mobile Apps for iOS & Android"
+          },
+          {
+            "tag": "h3",
+            "text": "High-Performance Offline-First Engineering"
+          },
+          {
+            "tag": "h3",
+            "text": "Fluid Native Performance"
+          },
+          {
+            "tag": "h3",
+            "text": "Offline-First SQLite Architecture"
+          },
+          {
+            "tag": "h3",
+            "text": "Biometric Security & Encrypted Storage"
+          },
+          {
+            "tag": "h2",
+            "text": "Absolute Clarity Before You Commit"
+          },
+          {
+            "tag": "h3",
+            "text": "When does it fit?"
+          },
+          {
+            "tag": "h3",
+            "text": "Deliverables we agree on"
+          },
+          {
+            "tag": "h3",
+            "text": "What we define with your team first"
+          },
+          {
+            "tag": "h2",
+            "text": "Clarity before you commit."
+          },
+          {
+            "tag": "h3",
+            "text": "Complementary Solutions"
+          },
+          {
+            "tag": "h4",
+            "text": "Websites & Digital Platforms"
+          },
+          {
+            "tag": "h4",
+            "text": "ERP & CRM Systems"
+          },
+          {
+            "tag": "h2",
+            "text": "We start with the business challenge."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 31,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/solution-business",
+      "key": "en-solution-business",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "ERP & CRM systems | Frentex Tech",
+        "desc": "Management of customers, sales, inventory, purchasing and approval workflows. Before deciding, we weigh configuring an existing product against building custom modules.",
+        "canonical": "https://frntextech.com/en/solution-business.html",
+        "robots": null,
+        "ogTitle": "ERP & CRM systems | Frentex Tech",
+        "ogDesc": "Management of customers, sales, inventory, purchasing and approval workflows. Before deciding, we weigh configuring an existing product against building custom modules.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/en/solution-business.html",
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/solution-business.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/solution-business.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/solution-business.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "ERP & CRM systems"
+          },
+          {
+            "tag": "h2",
+            "text": "Core Engineering Capabilities"
+          },
+          {
+            "tag": "h3",
+            "text": "Visual Sales Pipeline & CRM"
+          },
+          {
+            "tag": "h3",
+            "text": "Real-Time Inventory & Procurement Ledger"
+          },
+          {
+            "tag": "h3",
+            "text": "Multi-Tier Approval Hierarchy"
+          },
+          {
+            "tag": "h3",
+            "text": "Executive Dashboards & Forecasting"
+          },
+          {
+            "tag": "h2",
+            "text": "Unified Operations: CRM, Inventory & Approvals"
+          },
+          {
+            "tag": "h4",
+            "text": "Opportunity & Formal Quote"
+          },
+          {
+            "tag": "h4",
+            "text": "Real-time Stock Reservation"
+          },
+          {
+            "tag": "h4",
+            "text": "Permission & Discount Audit"
+          },
+          {
+            "tag": "h4",
+            "text": "E-Invoice & Ledger Postings"
+          },
+          {
+            "tag": "h3",
+            "text": "Real-time Stock Reservation"
+          },
+          {
+            "tag": "h3",
+            "text": "Visual Sales Pipeline & CRM"
+          },
+          {
+            "tag": "h3",
+            "text": "Real-Time Inventory & Procurement Ledger"
+          },
+          {
+            "tag": "h3",
+            "text": "Multi-Tier Approval Hierarchy"
+          },
+          {
+            "tag": "h2",
+            "text": "Absolute Clarity Before You Commit"
+          },
+          {
+            "tag": "h3",
+            "text": "When does it fit?"
+          },
+          {
+            "tag": "h3",
+            "text": "Deliverables we agree on"
+          },
+          {
+            "tag": "h3",
+            "text": "What we define with your team first"
+          },
+          {
+            "tag": "h2",
+            "text": "Clarity before you commit."
+          },
+          {
+            "tag": "h3",
+            "text": "Complementary Solutions"
+          },
+          {
+            "tag": "h4",
+            "text": "Integrations & Custom Systems"
+          },
+          {
+            "tag": "h4",
+            "text": "Automation & AI"
+          },
+          {
+            "tag": "h2",
+            "text": "We start with the business challenge."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 31,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/solution-integration",
+      "key": "en-solution-integration",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "Integrations & custom systems | Frentex Tech",
+        "desc": "API integrations, internal portals, dashboards, data synchronization and process automation.",
+        "canonical": "https://frntextech.com/en/solution-integration.html",
+        "robots": null,
+        "ogTitle": "Integrations & custom systems | Frentex Tech",
+        "ogDesc": "API integrations, internal portals, dashboards, data synchronization and process automation.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/en/solution-integration.html",
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/solution-integration.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/solution-integration.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/solution-integration.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Integrations & custom systems"
+          },
+          {
+            "tag": "h2",
+            "text": "Core Engineering Capabilities"
+          },
+          {
+            "tag": "h3",
+            "text": "High-Throughput Enterprise Message Bus"
+          },
+          {
+            "tag": "h3",
+            "text": "Circuit Breakers & Exponential Retries"
+          },
+          {
+            "tag": "h3",
+            "text": "ZATCA & Payment Gateway Connectivity"
+          },
+          {
+            "tag": "h3",
+            "text": "Real-Time Telemetry & API Observability"
+          },
+          {
+            "tag": "h2",
+            "text": "Enterprise Integration Gateway & Data Bus"
+          },
+          {
+            "tag": "h4",
+            "text": "Inbound Client Gate"
+          },
+          {
+            "tag": "h3",
+            "text": "Smart Orchestration Engine"
+          },
+          {
+            "tag": "h4",
+            "text": "Enterprise Core & Targets"
+          },
+          {
+            "tag": "h3",
+            "text": "High-Throughput Enterprise Message Bus"
+          },
+          {
+            "tag": "h3",
+            "text": "Circuit Breakers & Exponential Retries"
+          },
+          {
+            "tag": "h3",
+            "text": "ZATCA & Payment Gateway Connectivity"
+          },
+          {
+            "tag": "h2",
+            "text": "Absolute Clarity Before You Commit"
+          },
+          {
+            "tag": "h3",
+            "text": "When does it fit?"
+          },
+          {
+            "tag": "h3",
+            "text": "Deliverables we agree on"
+          },
+          {
+            "tag": "h3",
+            "text": "What we define with your team first"
+          },
+          {
+            "tag": "h2",
+            "text": "Clarity before you commit."
+          },
+          {
+            "tag": "h3",
+            "text": "Complementary Solutions"
+          },
+          {
+            "tag": "h4",
+            "text": "ERP & CRM Systems"
+          },
+          {
+            "tag": "h4",
+            "text": "Automation & AI"
+          },
+          {
+            "tag": "h2",
+            "text": "We start with the business challenge."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 31,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/solution-automation",
+      "key": "en-solution-automation",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "Automation & AI | Frentex Tech",
+        "desc": "Automation of specific tasks, knowledge search, document processing and internal assistants with human review.",
+        "canonical": "https://frntextech.com/en/solution-automation.html",
+        "robots": null,
+        "ogTitle": "Automation & AI | Frentex Tech",
+        "ogDesc": "Automation of specific tasks, knowledge search, document processing and internal assistants with human review.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/en/solution-automation.html",
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/solution-automation.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/solution-automation.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/solution-automation.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Automation & AI"
+          },
+          {
+            "tag": "h2",
+            "text": "Core Engineering Capabilities"
+          },
+          {
+            "tag": "h3",
+            "text": "Intelligent Document Parsing (OCR & NLP)"
+          },
+          {
+            "tag": "h3",
+            "text": "Confidence Gates & Human Escalation"
+          },
+          {
+            "tag": "h3",
+            "text": "Secure Private Knowledge Assistants"
+          },
+          {
+            "tag": "h3",
+            "text": "Automated Ticket Triage & Routing"
+          },
+          {
+            "tag": "h2",
+            "text": "AI-Augmented Workflows with Human Oversight"
+          },
+          {
+            "tag": "h4",
+            "text": "Straight-Through Auto Approval"
+          },
+          {
+            "tag": "h3",
+            "text": "Intelligent Document Parsing (OCR & NLP)"
+          },
+          {
+            "tag": "h3",
+            "text": "Confidence Gates & Human Escalation"
+          },
+          {
+            "tag": "h3",
+            "text": "Secure Private Knowledge Assistants"
+          },
+          {
+            "tag": "h2",
+            "text": "Absolute Clarity Before You Commit"
+          },
+          {
+            "tag": "h3",
+            "text": "When does it fit?"
+          },
+          {
+            "tag": "h3",
+            "text": "Deliverables we agree on"
+          },
+          {
+            "tag": "h3",
+            "text": "What we define with your team first"
+          },
+          {
+            "tag": "h2",
+            "text": "Clarity before you commit."
+          },
+          {
+            "tag": "h3",
+            "text": "Complementary Solutions"
+          },
+          {
+            "tag": "h4",
+            "text": "ERP & CRM Systems"
+          },
+          {
+            "tag": "h4",
+            "text": "Integrations & Custom Systems"
+          },
+          {
+            "tag": "h2",
+            "text": "We start with the business challenge."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 31,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    },
+    {
+      "route": "/en/solution-support",
+      "key": "en-solution-support",
+      "lang": "en",
+      "status": 200,
+      "seo": {
+        "title": "Support & ongoing development | Frentex Tech",
+        "desc": "Maintenance, improvements and monitoring, according to the service agreement and the scope of the system.",
+        "canonical": "https://frntextech.com/en/solution-support.html",
+        "robots": null,
+        "ogTitle": "Support & ongoing development | Frentex Tech",
+        "ogDesc": "Maintenance, improvements and monitoring, according to the service agreement and the scope of the system.",
+        "ogImage": "https://frntextech.com/assets/social-cover.png",
+        "ogUrl": "https://frntextech.com/en/solution-support.html",
+        "htmlLang": "en",
+        "htmlDir": "ltr",
+        "alternates": [
+          {
+            "hreflang": "ar",
+            "href": "https://frntextech.com/solution-support.html"
+          },
+          {
+            "hreflang": "en",
+            "href": "https://frntextech.com/en/solution-support.html"
+          },
+          {
+            "hreflang": "x-default",
+            "href": "https://frntextech.com/solution-support.html"
+          }
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "Support & ongoing development"
+          },
+          {
+            "tag": "h2",
+            "text": "Core Engineering Capabilities"
+          },
+          {
+            "tag": "h3",
+            "text": "Proactive Telemetry & Health Monitoring"
+          },
+          {
+            "tag": "h3",
+            "text": "Guaranteed SLA Response Tiers"
+          },
+          {
+            "tag": "h3",
+            "text": "Automated Backups & Disaster Drills"
+          },
+          {
+            "tag": "h3",
+            "text": "Sprint-Based Feature Evolution"
+          },
+          {
+            "tag": "h2",
+            "text": "Proactive Telemetry & Continuous Evolution"
+          },
+          {
+            "tag": "h4",
+            "text": "Global & Regional Health Matrix"
+          },
+          {
+            "tag": "h3",
+            "text": "Guaranteed SLA Response Tiers"
+          },
+          {
+            "tag": "h4",
+            "text": "P1 - Critical Outage"
+          },
+          {
+            "tag": "h3",
+            "text": "Proactive Telemetry & Health Monitoring"
+          },
+          {
+            "tag": "h3",
+            "text": "Guaranteed SLA Response Tiers"
+          },
+          {
+            "tag": "h3",
+            "text": "Automated Backups & Disaster Drills"
+          },
+          {
+            "tag": "h2",
+            "text": "Absolute Clarity Before You Commit"
+          },
+          {
+            "tag": "h3",
+            "text": "When does it fit?"
+          },
+          {
+            "tag": "h3",
+            "text": "Deliverables we agree on"
+          },
+          {
+            "tag": "h3",
+            "text": "What we define with your team first"
+          },
+          {
+            "tag": "h2",
+            "text": "Clarity before you commit."
+          },
+          {
+            "tag": "h3",
+            "text": "Complementary Solutions"
+          },
+          {
+            "tag": "h4",
+            "text": "Websites & Digital Platforms"
+          },
+          {
+            "tag": "h4",
+            "text": "Mobile Apps"
+          },
+          {
+            "tag": "h2",
+            "text": "We start with the business challenge."
+          },
+          {
+            "tag": "h3",
+            "text": "Get to know us"
+          },
+          {
+            "tag": "h3",
+            "text": "Solutions"
+          },
+          {
+            "tag": "h3",
+            "text": "We start with the business challenge."
+          }
+        ],
+        "h1Count": 1,
+        "duplicateIds": [],
+        "linksCount": 31,
+        "deadLinks": [],
+        "imagesWithoutAlt": []
+      },
+      "viewportsStatus": {
+        "small-mobile-320": {
+          "scrollWidth": 320,
+          "clientWidth": 320,
+          "hasOverflow": false
+        },
+        "mobile-390": {
+          "scrollWidth": 390,
+          "clientWidth": 390,
+          "hasOverflow": false
+        },
+        "large-mobile-430": {
+          "scrollWidth": 430,
+          "clientWidth": 430,
+          "hasOverflow": false
+        },
+        "tablet-768": {
+          "scrollWidth": 768,
+          "clientWidth": 768,
+          "hasOverflow": false
+        },
+        "small-laptop-1024": {
+          "scrollWidth": 1024,
+          "clientWidth": 1024,
+          "hasOverflow": false
+        },
+        "desktop-1440": {
+          "scrollWidth": 1440,
+          "clientWidth": 1440,
+          "hasOverflow": false
+        },
+        "large-desktop-1920": {
+          "scrollWidth": 1920,
+          "clientWidth": 1920,
+          "hasOverflow": false
+        }
+      },
+      "consoleErrors": []
+    }
+  ]
+}

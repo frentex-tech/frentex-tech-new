@@ -1,0 +1,257 @@
+<a class="skip" href="/en/project?project=erp#project-root">
+  "Skip to the demo"
+<header class="site-header">
+  <div class="nav-shell">
+    <a aria-label="Frentex Tech — Home" class="brand" href="/en">
+      <img alt="" class="brand-logo" height="64" src="/assets/mark.svg" width="64">
+      <span dir="ltr">
+        "Frentex"
+        <small>
+          "TECH"
+    <nav aria-label="Main navigation" id="navigation">
+      <a href="/en">
+        "Home"
+      <a href="/en/services">
+        "Solutions"
+      <a href="/en/work">
+        "Work Lab"
+      <a href="/en/about">
+        "About"
+      <a href="/en/process">
+        "How we work"
+      <a class="mobile-contact" href="/en/contact">
+        "Discuss your needs"
+    <a class="nav-cta" href="/en/contact">
+      "Discuss your needs"
+      <svg aria-hidden="true" class="icon icon-forward" fill="none" height="18" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="18">
+        <path d="M7 17L17 7M8.5 7H17v8.5">
+    <div class="view-controls">
+      <a aria-label="العربية" class="language-switch language-toggle view-toggle" href="/project?project=erp" hreflang="ar" lang="ar" title="العربية">
+        "ع"
+    <button aria-controls="navigation" aria-expanded="false" aria-label="Open menu" class="menu-toggle">
+      <svg aria-hidden="true" class="icon icon-menu" fill="none" height="24" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="24">
+        <path d="M4 6.5h16M4 12h16M4 17.5h16">
+<main id="project-root">
+  <section class="project-head wrap">
+    <a class="back-link" href="/en#work">
+      <svg aria-hidden="true" class="icon icon-left" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+        <path d="M20 12H5M11 6l-6 6 6 6">
+      "Back to the Work Lab"
+    <div class="project-heading">
+      <div>
+        <div class="eyebrow">
+          <span dir="ltr">
+            "ERP CONCEPT / INVENTORY"
+        <h1>
+          "Raseed —"
+          <br>
+          "Inventory meets"
+          <br>
+          "purchasing."
+      <div>
+        <p>
+          "A concept for a small module of a business system that shows quantities and alerts, and lets you try a purchase order cycle through to receipt."
+        <span class="project-badge">
+          "Original demo for this website / sample data"
+    <div class="case-facts">
+      <div>
+        <small>
+          "What we designed"
+        <b>
+          "Compact inventory and purchasing module"
+      <div>
+        <small>
+          "What you can try"
+        <b>
+          "Sample purchase order and receipt"
+      <div>
+        <small>
+          "Our role in the demo"
+        <b>
+          "Experience and interface design, and interaction development"
+  <section class="demo-section">
+    <div class="wrap">
+      <div class="demo-shell">
+        <div class="demo-toolbar">
+          <h2>
+            "Raseed / Try the demo"
+          <span>
+            "Local sample data"
+            <br>
+            "Resets when you reload the page"
+        <div id="demo">
+          <div class="demo-tools">
+            <span class="copy-prompt">
+              "Create a purchase order, then try receiving it to update the stock."
+            <button class="small-button" id="reset-erp">
+              "Reset demo"
+          <div class="table-wrap">
+            <table class="demo-table">
+              <thead>
+                <tr>
+                  <th>
+                    "Item"
+                  <th>
+                    "Available"
+                  <th>
+                    "Reorder point"
+                  <th>
+                    "Status"
+                  <th>
+                    "Purchase quantity"
+                  <th>
+                    "Action"
+              <tbody>
+                <tr>
+                  <td>
+                    "Laptop"
+                  <td>
+                    "24"
+                  <td>
+                    "5"
+                  <td>
+                    <span class="stock-tag">
+                      "In stock"
+                  <td>
+                    <input aria-label="Purchase quantity for Laptop" id="qty-1" max="1000" min="1" step="1" type="number" value="5">
+                  <td>
+                    <button class="filled small-button" data-buy="1">
+                      "Create order"
+                <tr>
+                  <td>
+                    "Work monitor"
+                  <td>
+                    "8"
+                  <td>
+                    "4"
+                  <td>
+                    <span class="stock-tag">
+                      "In stock"
+                  <td>
+                    <input aria-label="Purchase quantity for Work monitor" id="qty-2" max="1000" min="1" step="1" type="number" value="5">
+                  <td>
+                    <button class="filled small-button" data-buy="2">
+                      "Create order"
+                <tr>
+                  <td>
+                    "Docking station"
+                  <td>
+                    "3"
+                  <td>
+                    "5"
+                  <td>
+                    <span class="low stock-tag">
+                      "Reorder"
+                  <td>
+                    <input aria-label="Purchase quantity for Docking station" id="qty-3" max="1000" min="1" step="1" type="number" value="5">
+                  <td>
+                    <button class="filled small-button" data-buy="3">
+                      "Create order"
+          <div class="purchase-list">
+            <h3>
+              "Sample purchase orders"
+            <p class="empty-state">
+              "No purchase orders yet. Start with an item in the table."
+        <div aria-live="polite" class="demo-status" id="demo-status" role="status">
+      <p class="demo-notice">
+        "This demo is one module within an ERP, not a complete ERP system. There is no accounting, no real suppliers and no payments. The data is temporary and stays within the page."
+  <section class="section wrap">
+    <div class="case-story">
+      <div>
+        <span class="scope-label">
+          "The challenge"
+        <h2>
+          "Why this demo?"
+        <p>
+          "Purchasing decisions depend on knowing what is available, what is running low and what has already been ordered. We designed Raseed to make those states easy to understand on one screen."
+        <span class="scope-label">
+          "The solution idea"
+        <h2>
+          "Details that make work easier."
+        <p>
+          "An inventory table with a clear reorder point. The user creates a purchase order for a set quantity, then simulates receiving it to update the stock. An open order prevents a duplicate order for the same item."
+      <div>
+        <span class="scope-label">
+          "What we built here"
+        <h2>
+          "An experience you can explore."
+        <ul>
+          <li>
+            "Three items with different reorder points."
+          <li>
+            "Purchase quantity checks, and no duplicate open orders."
+          <li>
+            "A sample receipt that updates the stock and its status immediately."
+        <span class="scope-label">
+          "From demo to product"
+        <p>
+          "A real product requires defining business requirements, accounts and permissions, data storage, integrations and testing with real users. We define that scope before committing to implementation."
+    <div class="next-project">
+      <span class="eyebrow">
+        "Next demo"
+      <a href="/en/project?project=crm">
+        "Madar — Explore the demo"
+        <svg aria-hidden="true" class="icon icon-external" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+          <path d="M7 17L17 7M8.5 7H17v8.5">
+<footer class="red-footer">
+  <div class="footer-grid wrap">
+    <div class="footer-brand">
+      <a aria-label="Frentex Tech — Home" class="official-logo" href="/en">
+        <span class="official-logo-art">
+          <img alt="" height="96" src="/assets/mark.svg" width="96">
+          <span class="official-logo-word" dir="ltr">
+            "Frentex"
+            <small>
+              "TECH"
+      <p>
+        "Software that connects your business."
+      <a class="footer-phone" dir="ltr" href="tel:+966592005751">
+        "+966 59 200 5751"
+      <a class="footer-email" dir="ltr" href="mailto:INFO@frntextech.com">
+        "INFO@frntextech.com"
+    <div>
+      <h3>
+        "Get to know us"
+      <a href="/en/about">
+        "About"
+      <a href="/en/process">
+        "How we work"
+      <a href="/en/work">
+        "Work Lab"
+      <a href="/en/contact">
+        "Discuss your needs"
+    <div>
+      <h3>
+        "Solutions"
+      <a href="/en/solution-platforms">
+        "Websites & digital platforms"
+      <a href="/en/solution-apps">
+        "Mobile apps"
+      <a href="/en/solution-business">
+        "ERP & CRM systems"
+      <a href="/en/solution-automation">
+        "Automation & AI"
+    <div>
+      <h3>
+        "We start with the business challenge."
+      <p>
+        "Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there."
+      <a class="footer-contact" href="https://wa.me/966592005751" rel="noopener" target="_blank">
+        "Message us on WhatsApp "
+        <svg aria-hidden="true" class="icon icon-forward" fill="none" height="14" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="14">
+          <path d="M7 17L17 7M8.5 7H17v8.5">
+      <a class="footer-linkedin" href="https://www.linkedin.com/company/frentex-tech/" rel="noopener" target="_blank">
+        "LinkedIn "
+        <span aria-hidden="true">
+          "↗"
+  <div class="footer-bottom wrap">
+    <span>
+      "© 2026 Frentex Tech"
+    <span>
+      "Software that connects your business."
+    <a href="/en/privacy">
+      "Privacy"
+<a aria-label="Chat with Frentex on WhatsApp" class="floating-contact" href="https://wa.me/966592005751" rel="noopener" target="_blank">
+  <svg aria-hidden="true" fill="none" stroke-width="1.5" stroke="currentColor" viewBox="0 0 24 24">
+    <path d="M21 11.5a9 9 0 01-13.3 7.9L3 21l1.4-4.8A9 9 0 1121 11.5z">
+    <path d="M8 7c0 5 4 9 9 9l1-3-3-1-1 2c-2-1-3-2-4-4l2-1-1-3z">

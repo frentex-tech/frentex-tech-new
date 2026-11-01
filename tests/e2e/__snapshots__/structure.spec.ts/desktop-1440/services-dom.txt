@@ -1,0 +1,238 @@
+<a class="skip" href="/services#main">
+  "انتقل إلى المحتوى"
+<header class="site-header">
+  <div class="nav-shell">
+    <a aria-label="فرينتكس — الرئيسية" class="brand" href="/">
+      <img alt="" class="brand-logo" height="64" src="/assets/mark.svg" width="64">
+      <span dir="ltr">
+        "Frentex"
+        <small>
+          "TECH"
+    <nav aria-label="التنقل الرئيسي" id="navigation">
+      <a href="/">
+        "الرئيسية"
+      <a aria-current="page" href="/services">
+        "حلولنا"
+      <a href="/work">
+        "مختبر الأعمال"
+      <a href="/about">
+        "عن فرينتكس"
+      <a href="/process">
+        "كيف نعمل"
+      <a class="mobile-contact" href="/contact">
+        "ناقش احتياج شركتك"
+    <a class="nav-cta" href="/contact">
+      "ناقش احتياج شركتك"
+      <svg aria-hidden="true" class="icon icon-forward" fill="none" height="18" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="18">
+        <path d="M7 17L17 7M8.5 7H17v8.5">
+    <div class="view-controls">
+      <a aria-label="English" class="language-switch language-toggle view-toggle" href="/en/services" hreflang="en" lang="en" title="English">
+        "EN"
+    <button aria-controls="navigation" aria-expanded="false" aria-label="فتح القائمة" class="menu-toggle">
+      <svg aria-hidden="true" class="icon icon-menu" fill="none" height="24" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="24">
+        <path d="M4 6.5h16M4 12h16M4 17.5h16">
+<main id="main">
+  <section class="page-intro wrap">
+    <div aria-hidden="true" class="ambient-field">
+    <div class="eyebrow">
+      "BUSINESS SOLUTIONS"
+    <h1>
+      "حلول تبدأ من العمل."
+      <br>
+      <span class="muted">
+        "وتصل إلى كل نظام."
+    <p>
+      "للشركات والمؤسسات التي تريد تطوير تجربة رقمية، توحيد العمليات، أو ربط أنظمتها. نحدد النطاق قبل اختيار التقنية."
+  <section class="services-grid wrap">
+    <a class="service-tile" href="/solution-platforms">
+      <span class="tile-image-wrap">
+        <img alt="" class="service-tile-image" decoding="async" height="800" loading="lazy" src="/assets/service-platforms.jpg" width="1200">
+        <span aria-hidden="true" class="image-rights">
+          "© Frentex Tech"
+      <span class="service-icon">
+        <svg aria-hidden="true" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke="currentColor" viewBox="0 0 32 32">
+          <rect height="24" rx="4" width="26" x="3" y="4">
+          <path d="M3 11h26M9 7h.1M13 7h.1M12 16l-4 4 4 4m8-8 4 4-4 4">
+      <span aria-hidden="true" class="service-arrow">
+        "↗"
+      <h3>
+        "المواقع وبوابات الأعمال"
+      <p>
+        "مواقع مؤسسية متعددة اللغات، بوابات عملاء وشركاء، منصات خدمات وإدارة محتوى."
+      <span class="service-tags">
+        "تجربة المستخدم · تصميم الواجهات · تطوير الويب"
+    <a class="service-tile" href="/solution-apps">
+      <span class="tile-image-wrap">
+        <img alt="" class="service-tile-image" decoding="async" height="800" loading="lazy" src="/assets/service-apps.jpg" width="1200">
+        <span aria-hidden="true" class="image-rights">
+          "© Frentex Tech"
+      <span class="service-icon">
+        <svg aria-hidden="true" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke="currentColor" viewBox="0 0 32 32">
+          <rect height="28" rx="4" width="16" x="8" y="2">
+          <path d="M13 6h6m-5 20h4">
+      <span aria-hidden="true" class="service-arrow">
+        "↗"
+      <h3>
+        "تطبيقات الجوال"
+      <p>
+        "تطبيقات عملاء وموظفين وفرق ميدانية لـ iOS وAndroid حسب النطاق."
+      <span class="service-tags">
+        "iOS و Android · تطبيقات خدمية · تطبيقات أعمال"
+    <a class="service-tile" href="/solution-business">
+      <span class="tile-image-wrap">
+        <img alt="" class="service-tile-image" decoding="async" height="800" loading="lazy" src="/assets/service-business.jpg" width="1200">
+        <span aria-hidden="true" class="image-rights">
+          "© Frentex Tech"
+      <span class="service-icon">
+        <svg aria-hidden="true" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke="currentColor" viewBox="0 0 32 32">
+          <rect height="13" rx="2" width="6" x="3" y="16">
+          <rect height="19" rx="2" width="6" x="13" y="10">
+          <rect height="26" rx="2" width="6" x="23" y="3">
+      <span aria-hidden="true" class="service-arrow">
+        "↗"
+      <h3>
+        "أنظمة CRM وERP"
+      <p>
+        "إدارة العملاء والمبيعات والمخزون والمشتريات وسير الموافقات. نقارن تهيئة منتج قائم ببناء وحدات مخصصة قبل الاختيار."
+      <span class="service-tags">
+        "إدارة العملاء · العمليات · الموارد · التقارير"
+    <a class="service-tile" href="/solution-integration">
+      <span class="tile-image-wrap">
+        <img alt="" class="service-tile-image" decoding="async" height="800" loading="lazy" src="/assets/service-integration.jpg" width="1200">
+        <span aria-hidden="true" class="image-rights">
+          "© Frentex Tech"
+      <span class="service-icon">
+        <svg aria-hidden="true" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke="currentColor" viewBox="0 0 32 32">
+          <path d="M13 10l5-5a7 7 0 0110 10l-5 5M19 22l-5 5A7 7 0 014 17l5-5m2 9 10-10">
+      <span aria-hidden="true" class="service-arrow">
+        "↗"
+      <h3>
+        "التكاملات والأنظمة المخصصة"
+      <p>
+        "ربط عبر API، بوابات داخلية، لوحات متابعة، مزامنة بيانات وأتمتة إجراءات."
+      <span class="service-tags">
+        "API · البوابات الداخلية · لوحات التحكم"
+    <a class="service-tile" href="/solution-automation">
+      <span class="tile-image-wrap">
+        <img alt="" class="service-tile-image" decoding="async" height="800" loading="lazy" src="/assets/service-automation.jpg" width="1200">
+        <span aria-hidden="true" class="image-rights">
+          "© Frentex Tech"
+      <span class="service-icon">
+        <svg aria-hidden="true" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke="currentColor" viewBox="0 0 32 32">
+          <rect height="18" rx="5" width="18" x="7" y="7">
+          <path d="M12 2v5m8-5v5m-8 18v5m8-5v5M2 12h5m-5 8h5m18-8h5m-5 8h5m-18-4h8">
+      <span aria-hidden="true" class="service-arrow">
+        "↗"
+      <h3>
+        "الأتمتة والذكاء الاصطناعي"
+      <p>
+        "أتمتة مهام محددة، بحث في المعرفة، معالجة مستندات ومساعدات داخلية بمراجعة بشرية."
+      <span class="service-tags">
+        "أتمتة الإجراءات · معالجة المستندات · مساعدات محددة المهام"
+    <a class="service-tile" href="/solution-support">
+      <span class="tile-image-wrap">
+        <img alt="" class="service-tile-image" decoding="async" height="800" loading="lazy" src="/assets/service-support.jpg" width="1200">
+        <span aria-hidden="true" class="image-rights">
+          "© Frentex Tech"
+      <span class="service-icon">
+        <svg aria-hidden="true" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" stroke="currentColor" viewBox="0 0 32 32">
+          <path d="M5 18v-3a11 11 0 0122 0v3M5 17H3v8h6v-8H5m22 0h2v8h-6v-8h4m0 8c0 4-6 5-10 5">
+      <span aria-hidden="true" class="service-arrow">
+        "↗"
+      <h3>
+        "التطوير المستمر والدعم"
+      <p>
+        "صيانة وتحسينات ومراقبة حسب عقد الخدمة ونطاق النظام."
+      <span class="service-tags">
+        "صيانة · تحسين الأداء · تطوير الخصائص"
+  <section class="section wrap">
+    <h2>
+      "ثلاث طرق لبدء التعاون."
+    <div class="card-grid">
+      <article class="enterprise-card">
+        <h3>
+          "اكتشاف وتحديد نطاق"
+        <p>
+          "للأفكار والمتطلبات غير المحسومة: ورش عمل، خرائط عمليات، أولويات وخطة إصدار قابل للتقييم."
+      <article class="enterprise-card">
+        <h3>
+          "تنفيذ مشروع محدد"
+        <p>
+          "لنطاق واضح: مراحل ومخرجات ومعايير قبول وتسعير مرتبط بما سيتم تسليمه."
+      <article class="enterprise-card">
+        <h3>
+          "تطوير مستمر"
+        <p>
+          "لقائمة تحسينات متجددة: سعة عمل ودورات مراجعة وتقارير تقدم حسب اتفاق التعاون."
+  <section class="section wrap">
+    <div class="enterprise-cta">
+      <h2>
+        "نبدأ من تحدّي العمل."
+      <p>
+        "شاركنا الإجراء الحالي، الفرق المعنية، والنتيجة المطلوبة. منها نحدد الخطوة المناسبة."
+      <a class="button primary" href="/contact">
+        "ناقش احتياج شركتك"
+        <svg aria-hidden="true" class="icon icon-forward" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+          <path d="M7 17L17 7M8.5 7H17v8.5">
+<footer class="red-footer">
+  <div class="footer-grid wrap">
+    <div class="footer-brand">
+      <a aria-label="فرينتكس — الرئيسية" class="official-logo" href="/">
+        <span class="official-logo-art">
+          <img alt="" height="96" src="/assets/mark.svg" width="96">
+          <span class="official-logo-word" dir="ltr">
+            "Frentex"
+            <small>
+              "TECH"
+      <p>
+        "برمجيات تربط أعمالك."
+      <a class="footer-phone" dir="ltr" href="tel:+966592005751">
+        "+966 59 200 5751"
+      <a class="footer-email" dir="ltr" href="mailto:INFO@frntextech.com">
+        "INFO@frntextech.com"
+    <div>
+      <h3>
+        "تعرّف علينا"
+      <a href="/about">
+        "عن فرينتكس"
+      <a href="/process">
+        "كيف نعمل"
+      <a href="/work">
+        "مختبر الأعمال"
+      <a href="/contact">
+        "ناقش احتياج شركتك"
+    <div>
+      <h3>
+        "حلولنا"
+      <a href="/solution-platforms">
+        "المواقع وبوابات الأعمال"
+      <a href="/solution-apps">
+        "تطبيقات الجوال"
+      <a href="/solution-business">
+        "أنظمة CRM وERP"
+      <a href="/solution-automation">
+        "الأتمتة والذكاء الاصطناعي"
+    <div>
+      <h3>
+        "نبدأ من تحدّي العمل."
+      <p>
+        "شاركنا الإجراء الحالي، الفرق المعنية، والنتيجة المطلوبة. منها نحدد الخطوة المناسبة."
+      <a class="footer-contact" href="https://wa.me/966592005751" rel="noopener" target="_blank">
+        "تواصل عبر واتساب "
+        <svg aria-hidden="true" class="icon icon-forward" fill="none" height="14" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="14">
+          <path d="M7 17L17 7M8.5 7H17v8.5">
+      <a class="footer-linkedin" href="https://www.linkedin.com/company/frentex-tech/" rel="noopener" target="_blank">
+        "LinkedIn "
+        <span aria-hidden="true">
+          "↗"
+  <div class="footer-bottom wrap">
+    <span>
+      "© 2026 Frentex Tech"
+    <span>
+      "برمجيات تربط أعمالك."
+    <a href="/privacy">
+      "الخصوصية"
+<a aria-label="تواصل مع فرينتكس عبر واتساب" class="floating-contact" href="https://wa.me/966592005751" rel="noopener" target="_blank">
+  <svg aria-hidden="true" fill="none" stroke-width="1.5" stroke="currentColor" viewBox="0 0 24 24">
+    <path d="M21 11.5a9 9 0 01-13.3 7.9L3 21l1.4-4.8A9 9 0 1121 11.5z">
+    <path d="M8 7c0 5 4 9 9 9l1-3-3-1-1 2c-2-1-3-2-4-4l2-1-1-3z">

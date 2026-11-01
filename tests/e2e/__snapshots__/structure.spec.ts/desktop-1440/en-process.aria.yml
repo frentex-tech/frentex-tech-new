@@ -1,0 +1,108 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: /en
+    - link "Solutions":
+      - /url: /en/services
+    - link "Work Lab":
+      - /url: /en/work
+    - link "About":
+      - /url: /en/about
+    - link "How we work":
+      - /url: /en/process
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - link "العربية":
+    - /url: /process
+    - text: ""
+- main:
+  - text: HOW WE WORK
+  - heading "From the business question to a clear handover." [level=1]
+  - paragraph: A way of working that brings management, operations and technology together around one scope and deliverables you can review.
+  - article:
+    - text: /\d+ \/ Discovery/
+    - heading "We understand the decision before the system." [level=2]
+    - paragraph: We meet with stakeholders to understand the workflow, the users, the constraints and the integrations.
+    - strong: "Output:"
+    - paragraph: A needs summary, a process map, and a list of requirements and priorities.
+  - article:
+    - text: /\d+ \/ Scope and design/
+    - heading "What goes into the first release." [level=2]
+    - paragraph: We set the boundaries, design the user journeys and the prototype, and review dependencies, budget and schedule.
+    - strong: "Output:"
+    - paragraph: A technical and financial proposal, an interface prototype, acceptance criteria and approval to start.
+  - article:
+    - text: /\d+ \/ Development and review/
+    - heading "Visible progress at every stage." [level=2]
+    - paragraph: We build in stages and review the product with the designated owner. We record decisions and changes, and test the scenarios.
+    - strong: "Output:"
+    - paragraph: Interim releases, a change log, tests and progress reports.
+  - article:
+    - text: /\d+ \/ User acceptance and launch/
+    - heading "Go live with a transition plan." [level=2]
+    - paragraph: Your team tests the agreed business scenarios. We address the feedback and review migration, rollback and permissions.
+    - strong: "Output:"
+    - paragraph: An acceptance record, a launch plan, and an operations guide and training as scoped.
+  - article:
+    - text: /\d+ \/ Handover and support/
+    - heading "Clear ownership and responsibilities." [level=2]
+    - paragraph: We hand over the repositories, documentation and accounts covered by the agreement, and define the follow-up after launch.
+    - strong: "Output:"
+    - paragraph: A handover record, support and maintenance details, and a plan for later improvements.
+  - article:
+    - heading "Change management" [level=3]
+    - paragraph: Every out-of-scope request is documented and assessed for its impact on time and cost, then approved before it is added.
+  - article:
+    - heading "Data handling" [level=3]
+    - paragraph: With your team, we define data classification, working environments, access permissions and hosting requirements. Sector requirements are part of discovery.
+  - article:
+    - heading "Communication and governance" [level=3]
+    - paragraph: A point of contact on each side, agreed review meetings, and a log of decisions, risks and dependencies.
+  - heading "We start with the business challenge." [level=2]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Discuss your needs":
+    - /url: /en/contact
+- contentinfo:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - paragraph: Software that connects your business.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "Get to know us" [level=3]
+  - link "About":
+    - /url: /en/about
+  - link "How we work":
+    - /url: /en/process
+  - link "Work Lab":
+    - /url: /en/work
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - heading "Solutions" [level=3]
+  - link "Websites & digital platforms":
+    - /url: /en/solution-platforms
+  - link "Mobile apps":
+    - /url: /en/solution-apps
+  - link "ERP & CRM systems":
+    - /url: /en/solution-business
+  - link "Automation & AI":
+    - /url: /en/solution-automation
+  - heading "We start with the business challenge." [level=3]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Message us on WhatsApp":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech Software that connects your business\./
+  - link "Privacy":
+    - /url: /en/privacy
+- link "Chat with Frentex on WhatsApp":
+  - /url: https://wa.me/966592005751
+- alert

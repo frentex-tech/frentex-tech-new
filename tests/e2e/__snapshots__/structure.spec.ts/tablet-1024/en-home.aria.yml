@@ -1,0 +1,178 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: /en
+    - link "Solutions":
+      - /url: /en/services
+    - link "Work Lab":
+      - /url: /en/work
+    - link "About":
+      - /url: /en/about
+    - link "How we work":
+      - /url: /en/process
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - link "العربية":
+    - /url: /
+    - text: ""
+- main:
+  - text: B2B solutions for Saudi companies and organizations.
+  - heading "Systems, not just sites." [level=1]:
+    - text: ""
+    - emphasis: not just sites.
+  - paragraph: We design and build platforms, apps and systems that connect your teams, operations and data. From the first question to a handover you can build on.
+  - link "See what we build":
+    - /url: "#work"
+  - link "Solutions for your business":
+    - /url: "#solutions"
+  - text: /\d+ FRENTEX \/ DESIGN → BUILD → CONNECT/
+  - button "Pause motion"
+  - link "Skip to solutions":
+    - /url: "#solutions"
+    - text: ↓
+  - text: Web platforms Mobile apps ERP & CRM Integrations & automation Solutions
+  - heading "The right technology for the stage you're in." [level=2]
+  - paragraph: You may need a website that introduces your company, an app that serves your customers or a system that connects your team. We start with your needs and define what is worth building.
+  - link /\d+ \/ PLATFORMS Websites & digital platforms Company websites, online stores, customer portals and content platforms\. We pair your brand with a clear path that helps visitors find what they need\. Explore scope and deliverables/:
+    - /url: /en/solution-platforms
+    - text: /\d+ \/ PLATFORMS/
+    - heading "Websites & digital platforms" [level=3]
+    - paragraph: Company websites, online stores, customer portals and content platforms. We pair your brand with a clear path that helps visitors find what they need.
+    - text: Explore scope and deliverables
+  - link /\d+ \/ APPS Mobile apps Service and business apps for phones, from mapping the first user journey to a release people can use\. We choose the development approach based on the features and target devices\. Explore scope and deliverables/:
+    - /url: /en/solution-apps
+    - text: /\d+ \/ APPS/
+    - heading "Mobile apps" [level=3]
+    - paragraph: Service and business apps for phones, from mapping the first user journey to a release people can use. We choose the development approach based on the features and target devices.
+    - text: Explore scope and deliverables
+  - link /\d+ \/ BUSINESS Business systems — ERP & CRM Organize customers, sales, orders and inventory\. We define the modules you need, then weigh customizing or integrating an existing product against building a custom system\. Explore scope and deliverables/:
+    - /url: /en/solution-business
+    - text: /\d+ \/ BUSINESS/
+    - heading "Business systems — ERP & CRM" [level=3]
+    - paragraph: Organize customers, sales, orders and inventory. We define the modules you need, then weigh customizing or integrating an existing product against building a custom system.
+    - text: Explore scope and deliverables
+  - link /\d+ \/ AUTOMATION Automation & AI We automate repetitive steps and test AI on specific tasks such as search, classification and summarization, with clear points for human review\. Explore scope and deliverables/:
+    - /url: /en/solution-automation
+    - text: /\d+ \/ AUTOMATION/
+    - heading "Automation & AI" [level=3]
+    - paragraph: We automate repetitive steps and test AI on specific tasks such as search, classification and summarization, with clear points for human review.
+    - text: Explore scope and deliverables
+  - text: More solutions
+  - link "Integrations & custom systems":
+    - /url: /en/solution-integration
+  - link "Support & ongoing development":
+    - /url: /en/solution-support
+  - link "All solutions and deliverables":
+    - /url: /en/services
+  - text: About Frentex
+  - heading "Close to your context. Precise in the details." [level=2]:
+    - text: ""
+    - emphasis: Precise in the details.
+  - paragraph: "Frentex Tech is a software company in Saudi Arabia that combines experience design and software engineering around one idea: every part of your technology should work together, in service of your business."
+  - paragraph: We care about what users see and about what happens behind the interface. We choose the solution based on your needs, and we keep implementation decisions and stage deliverables clear and open to discussion.
+  - link "More about Frentex":
+    - /url: /en/about
+  - text: Arabic at the heart of the experience Arabic is part of the experience Right-sized solutions How we think Clarity in delivery Trust in the details Frentex Lab
+  - heading "See the idea. Then try it yourself." [level=2]
+  - paragraph: Original demos we designed and built for this website. Each one explains a problem and a solution, and lets you try part of the user journey.
+  - tablist "Frentex Lab":
+    - tab "Customer management" [selected]
+    - tab "Operations & automation"
+    - tab "Business systems"
+  - tabpanel "Customer management":
+    - text: CRM / SALES EXPERIENCE
+    - heading "The sales journey, in one view." [level=3]
+    - paragraph: A concept for a customer relationship management system that helps the team see opportunities, know the next step and move each opportunity along a clear pipeline.
+    - list:
+      - listitem: ✓Designed for Arabic right-to-left reading, and available in English.
+      - listitem: ✓Instant search across opportunities, and moving them forward or back.
+      - listitem: ✓Live opportunity counts for each stage, and messages that confirm each action.
+    - link "Explore Madar, the sales pipeline demo":
+      - /url: /en/project?project=crm
+    - text: Madar ● ● ● Illustrative demos with sample data, not client projects.
+  - text: How we work
+  - heading "No guesswork about the next step." [level=2]
+  - link "See how we work →":
+    - /url: /en/process
+  - article:
+    - text: /\d+/
+    - heading "Understand" [level=3]
+    - paragraph: We map the problem, the users and your current systems.
+    - text: Agreed requirements and scope
+  - article:
+    - text: /\d+/
+    - heading "Design" [level=3]
+    - paragraph: We turn the need into a user journey, interfaces and a delivery plan.
+    - text: A prototype ready for review
+  - article:
+    - text: /\d+/
+    - heading "Build" [level=3]
+    - paragraph: We develop in stages and test the scenarios that matter.
+    - text: Releases you can try
+  - article:
+    - text: /\d+/
+    - heading "Launch" [level=3]
+    - paragraph: We review acceptance and agree on handover, support and further development.
+    - text: A clear launch and handover plan
+  - text: Before we start
+  - heading "Have a question? Here is what we usually clarify." [level=2]
+  - paragraph: From choosing the solution to life after launch, we make the picture clear from the start.
+  - link "Talk to our business team":
+    - /url: /en/contact
+  - group:
+    - text: Which solution fits my needs? +
+    - paragraph: We start from your current process, the teams involved and the outcome you need, then decide the right step. You can prepare a summary of your needs on the contact page.
+  - group: Do you extend an existing system or build from scratch? +
+  - group: How are cost and timeline set? +
+  - group: Is there support after handover? +
+  - text: Next step
+  - heading "Your idea deserves a clear start." [level=2]:
+    - text: ""
+    - emphasis: a clear start.
+  - paragraph: Start with the challenge and the outcome you need. We'll define the right discovery path and scope with you.
+  - link "Discuss your needs":
+    - /url: /en/contact
+- contentinfo:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - paragraph: Software that connects your business.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "Get to know us" [level=3]
+  - link "About":
+    - /url: /en/about
+  - link "How we work":
+    - /url: /en/process
+  - link "Work Lab":
+    - /url: /en/work
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - heading "Solutions" [level=3]
+  - link "Websites & digital platforms":
+    - /url: /en/solution-platforms
+  - link "Mobile apps":
+    - /url: /en/solution-apps
+  - link "ERP & CRM systems":
+    - /url: /en/solution-business
+  - link "Automation & AI":
+    - /url: /en/solution-automation
+  - heading "We start with the business challenge." [level=3]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Message us on WhatsApp":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech Software that connects your business\./
+  - link "Privacy":
+    - /url: /en/privacy
+- link "Chat with Frentex on WhatsApp":
+  - /url: https://wa.me/966592005751
+- alert

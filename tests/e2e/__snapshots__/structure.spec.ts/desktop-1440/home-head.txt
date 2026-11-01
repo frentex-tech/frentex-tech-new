@@ -1,0 +1,26 @@
+html lang = ar
+html dir = rtl
+html data-scroll-behavior = smooth
+title = فرينتكس | برمجيات تربط أعمالك
+meta description = Frentex Tech — حلول للشركات والمؤسسات لتطوير المواقع والتطبيقات وأنظمة الأعمال. استكشف نماذجنا التفاعلية وطريقتنا في تحويل الاحتياج إلى برمجيات واضحة.
+meta og:description = Frentex Tech — حلول للشركات والمؤسسات لتطوير المواقع والتطبيقات وأنظمة الأعمال. استكشف نماذجنا التفاعلية وطريقتنا في تحويل الاحتياج إلى برمجيات واضحة.
+meta og:image = https://frntextech.com/assets/social-cover.png
+meta og:image:alt = Frentex Tech — فرينتكس | برمجيات تربط أعمالك
+meta og:locale = ar_SA
+meta og:locale:alternate = en_US
+meta og:site_name = Frentex Tech
+meta og:title = فرينتكس | برمجيات تربط أعمالك
+meta og:type = website
+meta og:url = https://frntextech.com/
+meta theme-color = #edf4fa
+meta twitter:card = summary_large_image
+meta twitter:description = Frentex Tech — حلول للشركات والمؤسسات لتطوير المواقع والتطبيقات وأنظمة الأعمال. استكشف نماذجنا التفاعلية وطريقتنا في تحويل الاحتياج إلى برمجيات واضحة.
+meta twitter:image = https://frntextech.com/assets/social-cover.png
+meta twitter:image:alt = Frentex Tech — فرينتكس | برمجيات تربط أعمالك
+meta twitter:title = فرينتكس | برمجيات تربط أعمالك
+meta viewport = width=device-width, initial-scale=1
+link alternate (ar) = https://frntextech.com/
+link alternate (en) = https://frntextech.com/en.html
+link alternate (x-default) = https://frntextech.com/
+link canonical = https://frntextech.com/
+link icon = /assets/mark.svg

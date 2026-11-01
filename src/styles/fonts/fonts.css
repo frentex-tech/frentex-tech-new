@@ -1,0 +1,33 @@
+/*
+ * WOFF2 copies of the IBM Plex Sans Arabic TTFs beside them, which are the sources.
+ * Converted with fontTools without the glyf/loca transform: every table decompresses
+ * to the original bytes except the head flags and checksum that WOFF2 requires.
+ */
+@font-face {
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(plex-arabic-0.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(plex-arabic-1.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(plex-arabic-2.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'IBM Plex Sans Arabic';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(plex-arabic-3.woff2) format('woff2');
+}

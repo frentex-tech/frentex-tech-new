@@ -1,0 +1,73 @@
+- link "انتقل إلى المحتوى":
+  - /url: "#main"
+- banner:
+  - link "فرينتكس — الرئيسية":
+    - /url: /
+    - text: Frentex TECH
+  - link "English":
+    - /url: /en/solution-apps
+    - text: EN
+  - button "فتح القائمة"
+- main:
+  - text: FRENTEX / APPS
+  - heading "تطبيقات الجوال" [level=1]
+  - paragraph: تطبيقات عملاء وموظفين وفرق ميدانية لـ iOS وAndroid حسب النطاق.
+  - article:
+    - heading "متى يكون الحل مناسبًا؟" [level=3]
+    - paragraph: عندما تتطلب الخدمة استخدامًا متكررًا أو عملًا ميدانيًا أو تجربة مرتبطة بالجهاز.
+  - article:
+    - heading "ما الذي يمكن أن نبنيه؟" [level=3]
+    - paragraph: تطبيقات عملاء وموظفين وفرق ميدانية لـ iOS وAndroid حسب النطاق.
+  - article:
+    - heading "مخرجات نتفق عليها" [level=3]
+    - paragraph: نموذج قابل للتجربة؛ تطبيق؛ واجهات ربط؛ اختبارات أجهزة؛ تجهيز إصدار؛ دليل تشغيل.
+  - article:
+    - heading "ما نحدده مع فريقك أولًا" [level=3]
+    - paragraph: الأجهزة المستهدفة، العمل دون اتصال، الإشعارات، الحسابات، وسياسات نشر المتاجر.
+  - heading "قرار الشراء يبدأ بوضوح." [level=2]
+  - paragraph: يحدد العرض الفني نطاق الإصدار والاستثناءات والتكلفة والجدول ومعايير القبول. أي متطلبات إضافية تخضع لتقييم أثرها واعتمادها قبل التنفيذ.
+  - link "تعرّف على طريقة العمل":
+    - /url: /process
+  - heading "نبدأ من تحدّي العمل." [level=2]
+  - paragraph: شاركنا الإجراء الحالي، الفرق المعنية، والنتيجة المطلوبة. منها نحدد الخطوة المناسبة.
+  - link "ناقش احتياج شركتك":
+    - /url: /contact
+- contentinfo:
+  - link "فرينتكس — الرئيسية":
+    - /url: /
+    - text: Frentex TECH
+  - paragraph: برمجيات تربط أعمالك.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "تعرّف علينا" [level=3]
+  - link "عن فرينتكس":
+    - /url: /about
+  - link "كيف نعمل":
+    - /url: /process
+  - link "مختبر الأعمال":
+    - /url: /work
+  - link "ناقش احتياج شركتك":
+    - /url: /contact
+  - heading "حلولنا" [level=3]
+  - link "المواقع وبوابات الأعمال":
+    - /url: /solution-platforms
+  - link "تطبيقات الجوال":
+    - /url: /solution-apps
+  - link "أنظمة CRM وERP":
+    - /url: /solution-business
+  - link "الأتمتة والذكاء الاصطناعي":
+    - /url: /solution-automation
+  - heading "نبدأ من تحدّي العمل." [level=3]
+  - paragraph: شاركنا الإجراء الحالي، الفرق المعنية، والنتيجة المطلوبة. منها نحدد الخطوة المناسبة.
+  - link "تواصل عبر واتساب":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech/
+  - link "الخصوصية":
+    - /url: /privacy
+- link "تواصل مع فرينتكس عبر واتساب":
+  - /url: https://wa.me/966592005751
+- alert

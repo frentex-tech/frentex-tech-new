@@ -1,0 +1,97 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - link "العربية":
+    - /url: /services
+    - text: ""
+  - button "Open menu"
+- main:
+  - text: BUSINESS SOLUTIONS
+  - heading "From your business to every system." [level=1]
+  - paragraph: For companies and organizations that want to build a better digital experience, unify their operations or connect their systems. We define the scope before we choose the technology.
+  - link "Websites & digital platforms Multilingual corporate websites, customer and partner portals, service platforms and content management. User experience · Interface design · Web development":
+    - /url: /en/solution-platforms
+    - heading "Websites & digital platforms" [level=3]
+    - paragraph: Multilingual corporate websites, customer and partner portals, service platforms and content management.
+    - text: ""
+  - link "Mobile apps Apps for customers, employees and field teams on iOS and Android, depending on the scope. iOS and Android · Service apps · Business apps":
+    - /url: /en/solution-apps
+    - heading "Mobile apps" [level=3]
+    - paragraph: Apps for customers, employees and field teams on iOS and Android, depending on the scope.
+    - text: ""
+  - link "ERP & CRM systems Management of customers, sales, inventory, purchasing and approval workflows. Before deciding, we weigh configuring an existing product against building custom modules. Customer management · Operations · Resources · Reporting":
+    - /url: /en/solution-business
+    - heading "ERP & CRM systems" [level=3]
+    - paragraph: Management of customers, sales, inventory, purchasing and approval workflows. Before deciding, we weigh configuring an existing product against building custom modules.
+    - text: Customer management · Operations · Resources · Reporting
+  - link "Integrations & custom systems API integrations, internal portals, dashboards, data synchronization and process automation. APIs · Internal portals · Dashboards":
+    - /url: /en/solution-integration
+    - heading "Integrations & custom systems" [level=3]
+    - paragraph: API integrations, internal portals, dashboards, data synchronization and process automation.
+    - text: ""
+  - link "Automation & AI Automation of specific tasks, knowledge search, document processing and internal assistants with human review. Process automation · Document processing · Focused assistants":
+    - /url: /en/solution-automation
+    - heading "Automation & AI" [level=3]
+    - paragraph: Automation of specific tasks, knowledge search, document processing and internal assistants with human review.
+    - text: ""
+  - link "Support & ongoing development Maintenance, improvements and monitoring, according to the service agreement and the scope of the system. Maintenance · Performance · New features":
+    - /url: /en/solution-support
+    - heading "Support & ongoing development" [level=3]
+    - paragraph: Maintenance, improvements and monitoring, according to the service agreement and the scope of the system.
+    - text: ""
+  - heading "Three ways to start working together." [level=2]
+  - article:
+    - heading "Discovery and scoping" [level=3]
+    - paragraph: "For ideas and requirements that are not yet settled: workshops, process maps, priorities and a plan for a release you can evaluate."
+  - article:
+    - heading "Defined project delivery" [level=3]
+    - paragraph: "For a clear scope: stages, deliverables, acceptance criteria and pricing tied to what will be delivered."
+  - article:
+    - heading "Ongoing development" [level=3]
+    - paragraph: "For a rolling list of improvements: working capacity, review cycles and progress reports, as set out in our agreement."
+  - heading "We start with the business challenge." [level=2]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Discuss your needs":
+    - /url: /en/contact
+- contentinfo:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - paragraph: Software that connects your business.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "Get to know us" [level=3]
+  - link "About":
+    - /url: /en/about
+  - link "How we work":
+    - /url: /en/process
+  - link "Work Lab":
+    - /url: /en/work
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - heading "Solutions" [level=3]
+  - link "Websites & digital platforms":
+    - /url: /en/solution-platforms
+  - link "Mobile apps":
+    - /url: /en/solution-apps
+  - link "ERP & CRM systems":
+    - /url: /en/solution-business
+  - link "Automation & AI":
+    - /url: /en/solution-automation
+  - heading "We start with the business challenge." [level=3]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Message us on WhatsApp":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech/
+  - link "Privacy":
+    - /url: /en/privacy
+- link "Chat with Frentex on WhatsApp":
+  - /url: https://wa.me/966592005751
+- alert

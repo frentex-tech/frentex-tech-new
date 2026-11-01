@@ -1,0 +1,117 @@
+- link "Skip to the demo":
+  - /url: "#project-root"
+- banner:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - link "العربية":
+    - /url: /project?project=erp
+    - text: ""
+  - button "Open menu"
+- main:
+  - link "Back to the Work Lab":
+    - /url: /en#work
+  - text: ERP CONCEPT / INVENTORY
+  - heading "Raseed — Inventory meets purchasing." [level=1]
+  - paragraph: A concept for a small module of a business system that shows quantities and alerts, and lets you try a purchase order cycle through to receipt.
+  - text: Original demo for this website / sample data What we designed Compact inventory and purchasing module What you can try Sample purchase order and receipt Our role in the demo Experience and interface design, and interaction development
+  - heading "Raseed / Try the demo" [level=2]
+  - text: Local sample data Resets when you reload the page Create a purchase order, then try receiving it to update the stock.
+  - button "Reset demo"
+  - table:
+    - rowgroup:
+      - row "Item Available Reorder point Status Purchase quantity Action":
+        - columnheader "Item"
+        - columnheader "Available"
+        - columnheader "Reorder point"
+        - columnheader "Status"
+        - columnheader "Purchase quantity"
+        - columnheader "Action"
+    - rowgroup:
+      - row /Laptop \d+ 5 In stock 5 Create order/:
+        - cell "Laptop"
+        - cell /\d+/
+        - cell "5"
+        - cell "In stock"
+        - cell "5":
+          - spinbutton "Purchase quantity for Laptop": "5"
+        - cell "Create order":
+          - button "Create order"
+      - row "Work monitor 8 4 In stock 5 Create order":
+        - cell "Work monitor"
+        - cell "8"
+        - cell "4"
+        - cell "In stock"
+        - cell "5":
+          - spinbutton "Purchase quantity for Work monitor": "5"
+        - cell "Create order":
+          - button "Create order"
+      - row "Docking station 3 5 Reorder 5 Create order":
+        - cell "Docking station"
+        - cell "3"
+        - cell "5"
+        - cell "Reorder"
+        - cell "5":
+          - spinbutton "Purchase quantity for Docking station": "5"
+        - cell "Create order":
+          - button "Create order"
+  - heading "Sample purchase orders" [level=3]
+  - paragraph: No purchase orders yet. Start with an item in the table.
+  - status
+  - paragraph: This demo is one module within an ERP, not a complete ERP system. There is no accounting, no real suppliers and no payments. The data is temporary and stays within the page.
+  - text: The challenge
+  - heading "Why this demo?" [level=2]
+  - paragraph: Purchasing decisions depend on knowing what is available, what is running low and what has already been ordered. We designed Raseed to make those states easy to understand on one screen.
+  - text: The solution idea
+  - heading "Details that make work easier." [level=2]
+  - paragraph: An inventory table with a clear reorder point. The user creates a purchase order for a set quantity, then simulates receiving it to update the stock. An open order prevents a duplicate order for the same item.
+  - text: What we built here
+  - heading "An experience you can explore." [level=2]
+  - list:
+    - listitem: Three items with different reorder points.
+    - listitem: Purchase quantity checks, and no duplicate open orders.
+    - listitem: A sample receipt that updates the stock and its status immediately.
+  - text: From demo to product
+  - paragraph: A real product requires defining business requirements, accounts and permissions, data storage, integrations and testing with real users. We define that scope before committing to implementation.
+  - text: Next demo
+  - link "Madar — Explore the demo":
+    - /url: /en/project?project=crm
+- contentinfo:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - paragraph: Software that connects your business.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "Get to know us" [level=3]
+  - link "About":
+    - /url: /en/about
+  - link "How we work":
+    - /url: /en/process
+  - link "Work Lab":
+    - /url: /en/work
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - heading "Solutions" [level=3]
+  - link "Websites & digital platforms":
+    - /url: /en/solution-platforms
+  - link "Mobile apps":
+    - /url: /en/solution-apps
+  - link "ERP & CRM systems":
+    - /url: /en/solution-business
+  - link "Automation & AI":
+    - /url: /en/solution-automation
+  - heading "We start with the business challenge." [level=3]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Message us on WhatsApp":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech/
+  - link "Privacy":
+    - /url: /en/privacy
+- link "Chat with Frentex on WhatsApp":
+  - /url: https://wa.me/966592005751
+- alert

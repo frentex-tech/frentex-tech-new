@@ -1,0 +1,83 @@
+- link "Skip to content":
+  - /url: "#main"
+- banner:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: /en
+    - link "Solutions":
+      - /url: /en/services
+    - link "Work Lab":
+      - /url: /en/work
+    - link "About":
+      - /url: /en/about
+    - link "How we work":
+      - /url: /en/process
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - link "العربية":
+    - /url: /about
+    - text: ""
+- main:
+  - text: ABOUT FRENTEX TECH
+  - heading "Technology that serves what you build." [level=1]
+  - paragraph: Frentex Tech is a software company in Saudi Arabia that develops websites, apps, business systems and integrations for companies and organizations.
+  - article:
+    - heading "Who we serve" [level=3]
+    - paragraph: We focus on organizations and large companies, and we also work with growing businesses and startups that need a technology partner to develop their products.
+  - article:
+    - heading "How we think" [level=3]
+    - paragraph: We start with the process that needs to improve and the outcome you need to reach. Then we choose a solution that fits the context, whether that means a custom build or configuring and connecting existing tools.
+  - article:
+    - heading "Arabic is part of the experience" [level=3]
+    - paragraph: We pay attention to Arabic interfaces, reading direction, content consistency and user journeys, and support English according to each project's requirements.
+  - article:
+    - heading "Trust in the details" [level=3]
+    - paragraph: We make clear what the work includes and what needs approval, and we document implementation and handover decisions. The published demos are original concepts that explain our capabilities, not claims about client projects.
+  - heading "We start with the business challenge." [level=2]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - link "Download the company profile PDF (in Arabic)":
+    - /url: /downloads/frentex-company-profile.pdf
+- contentinfo:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - paragraph: Software that connects your business.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "Get to know us" [level=3]
+  - link "About":
+    - /url: /en/about
+  - link "How we work":
+    - /url: /en/process
+  - link "Work Lab":
+    - /url: /en/work
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - heading "Solutions" [level=3]
+  - link "Websites & digital platforms":
+    - /url: /en/solution-platforms
+  - link "Mobile apps":
+    - /url: /en/solution-apps
+  - link "ERP & CRM systems":
+    - /url: /en/solution-business
+  - link "Automation & AI":
+    - /url: /en/solution-automation
+  - heading "We start with the business challenge." [level=3]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Message us on WhatsApp":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech Software that connects your business\./
+  - link "Privacy":
+    - /url: /en/privacy
+- link "Chat with Frentex on WhatsApp":
+  - /url: https://wa.me/966592005751
+- alert

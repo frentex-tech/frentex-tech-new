@@ -1,0 +1,26 @@
+html lang = ar
+html dir = rtl
+html data-scroll-behavior = smooth
+title = تواصل معنا | Frentex Tech
+meta description = تواصل مع Frentex Tech لمناقشة احتياجات البرمجيات للشركات.
+meta og:description = تواصل مع Frentex Tech لمناقشة احتياجات البرمجيات للشركات.
+meta og:image = https://frntextech.com/assets/social-cover.png
+meta og:image:alt = Frentex Tech — تواصل معنا | Frentex Tech
+meta og:locale = ar_SA
+meta og:locale:alternate = en_US
+meta og:site_name = Frentex Tech
+meta og:title = تواصل معنا | Frentex Tech
+meta og:type = website
+meta og:url = https://frntextech.com/contact.html
+meta theme-color = #edf4fa
+meta twitter:card = summary_large_image
+meta twitter:description = تواصل مع Frentex Tech لمناقشة احتياجات البرمجيات للشركات.
+meta twitter:image = https://frntextech.com/assets/social-cover.png
+meta twitter:image:alt = Frentex Tech — تواصل معنا | Frentex Tech
+meta twitter:title = تواصل معنا | Frentex Tech
+meta viewport = width=device-width, initial-scale=1
+link alternate (ar) = https://frntextech.com/contact.html
+link alternate (en) = https://frntextech.com/en/contact.html
+link alternate (x-default) = https://frntextech.com/contact.html
+link canonical = https://frntextech.com/contact.html
+link icon = /assets/mark.svg

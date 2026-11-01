@@ -1,0 +1,112 @@
+- link "Skip to the demo":
+  - /url: "#project-root"
+- banner:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - navigation "Main navigation":
+    - link "Home":
+      - /url: /en
+    - link "Solutions":
+      - /url: /en/services
+    - link "Work Lab":
+      - /url: /en/work
+    - link "About":
+      - /url: /en/about
+    - link "How we work":
+      - /url: /en/process
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - link "العربية":
+    - /url: /project
+    - text: ""
+- main:
+  - link "Back to the Work Lab":
+    - /url: /en#work
+  - text: CRM / SALES WORKSPACE
+  - heading "Madar — The sales journey, in one view." [level=1]
+  - paragraph: A concept for a customer relationship management system that helps the team see opportunities, know the next step and move each opportunity along a clear pipeline.
+  - text: Original demo for this website / sample data What we designed Sales pipeline interface and experience What you can try Search and move opportunities between stages Our role in the demo Experience and interface design, and interaction development
+  - heading "Madar / Try the demo" [level=2]
+  - text: Local sample data Resets when you reload the page Search opportunities
+  - textbox "Search opportunities":
+    - /placeholder: Search by opportunity name
+  - button "Reset demo"
+  - heading "New opportunity 2" [level=3]
+  - article:
+    - heading "Services company website" [level=4]
+    - paragraph: Defining the audience and content
+    - button "Move to Proposal sent"
+  - article:
+    - heading "Partner portal" [level=4]
+    - paragraph: Meeting to understand how requests work
+    - button "Move to Proposal sent"
+  - heading "Proposal sent 1" [level=3]
+  - article:
+    - heading "Ordering app" [level=4]
+    - paragraph: Reviewing the first release scope
+    - button "Move to Agreed"
+    - button "Move back"
+  - heading "Agreed 1" [level=3]
+  - article:
+    - heading "Internal operations system" [level=4]
+    - paragraph: Preparing the kickoff workshop
+    - button "Move back"
+  - status
+  - paragraph: The demo runs on sample data within the page. There is no database, no accounts and no messages to customers. Reloading restores the original state.
+  - text: The challenge
+  - heading "Why this demo?" [level=2]
+  - paragraph: When customer follow-up moves between separate chats and spreadsheets, it is hard to know what is waiting for a reply and what has reached an agreement. We designed Madar to make each opportunity's status and next step visible to the team.
+  - text: The solution idea
+  - heading "Details that make work easier." [level=2]
+  - paragraph: "A board with three simple stages: New opportunity, Proposal sent and Agreed. Each card has a title and a next activity. Search reduces clutter, and moving a card shows the change of status immediately."
+  - text: What we built here
+  - heading "An experience you can explore." [level=2]
+  - list:
+    - listitem: Designed for Arabic right-to-left reading, and available in English.
+    - listitem: Instant search across opportunities, and moving them forward or back.
+    - listitem: Live opportunity counts for each stage, and messages that confirm each action.
+  - text: From demo to product
+  - paragraph: A real product requires defining business requirements, accounts and permissions, data storage, integrations and testing with real users. We define that scope before committing to implementation.
+  - text: Next demo
+  - link "Sayr — Explore the demo":
+    - /url: /en/project?project=ops
+- contentinfo:
+  - link "Frentex Tech — Home":
+    - /url: /en
+    - text: Frentex TECH
+  - paragraph: Software that connects your business.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "Get to know us" [level=3]
+  - link "About":
+    - /url: /en/about
+  - link "How we work":
+    - /url: /en/process
+  - link "Work Lab":
+    - /url: /en/work
+  - link "Discuss your needs":
+    - /url: /en/contact
+  - heading "Solutions" [level=3]
+  - link "Websites & digital platforms":
+    - /url: /en/solution-platforms
+  - link "Mobile apps":
+    - /url: /en/solution-apps
+  - link "ERP & CRM systems":
+    - /url: /en/solution-business
+  - link "Automation & AI":
+    - /url: /en/solution-automation
+  - heading "We start with the business challenge." [level=3]
+  - paragraph: Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there.
+  - link "Message us on WhatsApp":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech Software that connects your business\./
+  - link "Privacy":
+    - /url: /en/privacy
+- link "Chat with Frentex on WhatsApp":
+  - /url: https://wa.me/966592005751
+- alert

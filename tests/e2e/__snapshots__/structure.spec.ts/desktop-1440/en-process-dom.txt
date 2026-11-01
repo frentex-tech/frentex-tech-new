@@ -1,0 +1,190 @@
+<a class="skip" href="/en/process#main">
+  "Skip to content"
+<header class="site-header">
+  <div class="nav-shell">
+    <a aria-label="Frentex Tech — Home" class="brand" href="/en">
+      <img alt="" class="brand-logo" height="64" src="/assets/mark.svg" width="64">
+      <span dir="ltr">
+        "Frentex"
+        <small>
+          "TECH"
+    <nav aria-label="Main navigation" id="navigation">
+      <a href="/en">
+        "Home"
+      <a href="/en/services">
+        "Solutions"
+      <a href="/en/work">
+        "Work Lab"
+      <a href="/en/about">
+        "About"
+      <a aria-current="page" href="/en/process">
+        "How we work"
+      <a class="mobile-contact" href="/en/contact">
+        "Discuss your needs"
+    <a class="nav-cta" href="/en/contact">
+      "Discuss your needs"
+      <svg aria-hidden="true" class="icon icon-forward" fill="none" height="18" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="18">
+        <path d="M7 17L17 7M8.5 7H17v8.5">
+    <div class="view-controls">
+      <a aria-label="العربية" class="language-switch language-toggle view-toggle" href="/process" hreflang="ar" lang="ar" title="العربية">
+        "ع"
+    <button aria-controls="navigation" aria-expanded="false" aria-label="Open menu" class="menu-toggle">
+      <svg aria-hidden="true" class="icon icon-menu" fill="none" height="24" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="24">
+        <path d="M4 6.5h16M4 12h16M4 17.5h16">
+<main id="main">
+  <section class="page-intro wrap">
+    <div aria-hidden="true" class="ambient-field">
+    <div class="eyebrow">
+      "HOW WE WORK"
+    <h1>
+      "From the business question"
+      <br>
+      <span class="muted">
+        "to a clear handover."
+    <p>
+      "A way of working that brings management, operations and technology together around one scope and deliverables you can review."
+  <section class="process-detail wrap">
+    <article class="enterprise-card">
+      <span class="eyebrow">
+        "01 / Discovery"
+      <h2>
+        "We understand the decision before the system."
+      <p>
+        "We meet with stakeholders to understand the workflow, the users, the constraints and the integrations."
+      <strong>
+        "Output:"
+      <p>
+        "A needs summary, a process map, and a list of requirements and priorities."
+    <article class="enterprise-card">
+      <span class="eyebrow">
+        "02 / Scope and design"
+      <h2>
+        "What goes into the first release."
+      <p>
+        "We set the boundaries, design the user journeys and the prototype, and review dependencies, budget and schedule."
+      <strong>
+        "Output:"
+      <p>
+        "A technical and financial proposal, an interface prototype, acceptance criteria and approval to start."
+    <article class="enterprise-card">
+      <span class="eyebrow">
+        "03 / Development and review"
+      <h2>
+        "Visible progress at every stage."
+      <p>
+        "We build in stages and review the product with the designated owner. We record decisions and changes, and test the scenarios."
+      <strong>
+        "Output:"
+      <p>
+        "Interim releases, a change log, tests and progress reports."
+    <article class="enterprise-card">
+      <span class="eyebrow">
+        "04 / User acceptance and launch"
+      <h2>
+        "Go live with a transition plan."
+      <p>
+        "Your team tests the agreed business scenarios. We address the feedback and review migration, rollback and permissions."
+      <strong>
+        "Output:"
+      <p>
+        "An acceptance record, a launch plan, and an operations guide and training as scoped."
+    <article class="enterprise-card">
+      <span class="eyebrow">
+        "05 / Handover and support"
+      <h2>
+        "Clear ownership and responsibilities."
+      <p>
+        "We hand over the repositories, documentation and accounts covered by the agreement, and define the follow-up after launch."
+      <strong>
+        "Output:"
+      <p>
+        "A handover record, support and maintenance details, and a plan for later improvements."
+  <section class="section wrap">
+    <div class="card-grid">
+      <article class="enterprise-card">
+        <h3>
+          "Change management"
+        <p>
+          "Every out-of-scope request is documented and assessed for its impact on time and cost, then approved before it is added."
+      <article class="enterprise-card">
+        <h3>
+          "Data handling"
+        <p>
+          "With your team, we define data classification, working environments, access permissions and hosting requirements. Sector requirements are part of discovery."
+      <article class="enterprise-card">
+        <h3>
+          "Communication and governance"
+        <p>
+          "A point of contact on each side, agreed review meetings, and a log of decisions, risks and dependencies."
+  <section class="section wrap">
+    <div class="enterprise-cta">
+      <h2>
+        "We start with the business challenge."
+      <p>
+        "Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there."
+      <a class="button primary" href="/en/contact">
+        "Discuss your needs"
+        <svg aria-hidden="true" class="icon icon-external" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+          <path d="M7 17L17 7M8.5 7H17v8.5">
+<footer class="red-footer">
+  <div class="footer-grid wrap">
+    <div class="footer-brand">
+      <a aria-label="Frentex Tech — Home" class="official-logo" href="/en">
+        <span class="official-logo-art">
+          <img alt="" height="96" src="/assets/mark.svg" width="96">
+          <span class="official-logo-word" dir="ltr">
+            "Frentex"
+            <small>
+              "TECH"
+      <p>
+        "Software that connects your business."
+      <a class="footer-phone" dir="ltr" href="tel:+966592005751">
+        "+966 59 200 5751"
+      <a class="footer-email" dir="ltr" href="mailto:INFO@frntextech.com">
+        "INFO@frntextech.com"
+    <div>
+      <h3>
+        "Get to know us"
+      <a href="/en/about">
+        "About"
+      <a href="/en/process">
+        "How we work"
+      <a href="/en/work">
+        "Work Lab"
+      <a href="/en/contact">
+        "Discuss your needs"
+    <div>
+      <h3>
+        "Solutions"
+      <a href="/en/solution-platforms">
+        "Websites & digital platforms"
+      <a href="/en/solution-apps">
+        "Mobile apps"
+      <a href="/en/solution-business">
+        "ERP & CRM systems"
+      <a href="/en/solution-automation">
+        "Automation & AI"
+    <div>
+      <h3>
+        "We start with the business challenge."
+      <p>
+        "Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there."
+      <a class="footer-contact" href="https://wa.me/966592005751" rel="noopener" target="_blank">
+        "Message us on WhatsApp "
+        <svg aria-hidden="true" class="icon icon-forward" fill="none" height="14" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="14">
+          <path d="M7 17L17 7M8.5 7H17v8.5">
+      <a class="footer-linkedin" href="https://www.linkedin.com/company/frentex-tech/" rel="noopener" target="_blank">
+        "LinkedIn "
+        <span aria-hidden="true">
+          "↗"
+  <div class="footer-bottom wrap">
+    <span>
+      "© 2026 Frentex Tech"
+    <span>
+      "Software that connects your business."
+    <a href="/en/privacy">
+      "Privacy"
+<a aria-label="Chat with Frentex on WhatsApp" class="floating-contact" href="https://wa.me/966592005751" rel="noopener" target="_blank">
+  <svg aria-hidden="true" fill="none" stroke-width="1.5" stroke="currentColor" viewBox="0 0 24 24">
+    <path d="M21 11.5a9 9 0 01-13.3 7.9L3 21l1.4-4.8A9 9 0 1121 11.5z">
+    <path d="M8 7c0 5 4 9 9 9l1-3-3-1-1 2c-2-1-3-2-4-4l2-1-1-3z">

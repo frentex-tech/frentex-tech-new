@@ -1,0 +1,327 @@
+<a class="skip" href="/work#main">
+  "انتقل إلى المحتوى"
+<header class="site-header">
+  <div class="nav-shell">
+    <a aria-label="فرينتكس — الرئيسية" class="brand" href="/">
+      <img alt="" class="brand-logo" height="64" src="/assets/mark.svg" width="64">
+      <span dir="ltr">
+        "Frentex"
+        <small>
+          "TECH"
+    <nav aria-label="التنقل الرئيسي" id="navigation">
+      <a href="/">
+        "الرئيسية"
+      <a href="/services">
+        "حلولنا"
+      <a aria-current="page" href="/work">
+        "مختبر الأعمال"
+      <a href="/about">
+        "عن فرينتكس"
+      <a href="/process">
+        "كيف نعمل"
+      <a class="mobile-contact" href="/contact">
+        "ناقش احتياج شركتك"
+    <a class="nav-cta" href="/contact">
+      "ناقش احتياج شركتك"
+      <svg aria-hidden="true" class="icon icon-forward" fill="none" height="18" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="18">
+        <path d="M7 17L17 7M8.5 7H17v8.5">
+    <div class="view-controls">
+      <a aria-label="English" class="language-switch language-toggle view-toggle" href="/en/work" hreflang="en" lang="en" title="English">
+        "EN"
+    <button aria-controls="navigation" aria-expanded="false" aria-label="فتح القائمة" class="menu-toggle">
+      <svg aria-hidden="true" class="icon icon-menu" fill="none" height="24" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="24">
+        <path d="M4 6.5h16M4 12h16M4 17.5h16">
+<main id="main">
+  <section class="page-intro wrap">
+    <div aria-hidden="true" class="ambient-field">
+    <div class="eyebrow">
+      "SOLUTION LAB"
+    <h1>
+      "جرّب طريقة تفكيرنا."
+    <p>
+      "ثلاث تجارب توضّح كيف تتحول مشكلة تشغيلية إلى واجهة ومسار عمل. كل البيانات المعروضة تجريبية."
+  <section class="section work-section" id="work">
+    <div class="wrap">
+      <div class="section-top">
+        <div>
+          <div class="eyebrow">
+            "مختبر فرينتكس"
+          <h2>
+            "شاهد الفكرة."
+            <br>
+            <span class="muted">
+              "ثم جرّبها بنفسك."
+        <div>
+          <p>
+            "نماذج أصلية صمّمناها وطوّرنا تفاعلاتها لهذه النسخة. كل نموذج يشرح مشكلة وحلًا، ويتيح تجربة جزء من رحلة المستخدم."
+          <span class="disclosure">
+            "نماذج توضيحية ببيانات تجريبية، وليست مشاريع عملاء."
+      <div aria-label="تصفية نماذج الأعمال" class="filter-row" role="group">
+        <button aria-pressed="true" class="active filter" data-filter="all">
+          "كل النماذج"
+        <button aria-pressed="false" class="filter" data-filter="crm">
+          "إدارة العملاء"
+        <button aria-pressed="false" class="filter" data-filter="ops">
+          "التشغيل والأتمتة"
+        <button aria-pressed="false" class="filter" data-filter="erp">
+          "أنظمة الأعمال"
+        <span id="filter-status" role="status">
+          "٣ نماذج تفاعلية"
+      <div class="work-grid">
+        <article class="work-card" data-category="crm">
+          <a aria-label="مدار — رحلة مبيعات أوضح" class="crm-visual work-visual" href="/project?project=crm">
+            <div class="product-window">
+              <div aria-hidden="true" class="lab-preview" inert="">
+                <div class="kanban">
+                  <section class="kanban-column">
+                    <h3>
+                      "فرصة جديدة"
+                      <span>
+                        "2"
+                    <article class="lead-card">
+                      <h4>
+                        "موقع شركة خدمات"
+                      <p>
+                        "تحديد الجمهور والمحتوى"
+                      <button class="filled small-button" data-direction="1" data-lead="1">
+                        "نقل إلى عرض مرسل"
+                        <svg aria-hidden="true" class="icon icon-left" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+                          <path d="M20 12H5M11 6l-6 6 6 6">
+                    <article class="lead-card">
+                      <h4>
+                        "بوابة شركاء"
+                      <p>
+                        "اجتماع لفهم آلية الطلبات"
+                      <button class="filled small-button" data-direction="1" data-lead="2">
+                        "نقل إلى عرض مرسل"
+                        <svg aria-hidden="true" class="icon icon-left" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+                          <path d="M20 12H5M11 6l-6 6 6 6">
+                  <section class="kanban-column">
+                    <h3>
+                      "عرض مرسل"
+                      <span>
+                        "1"
+                    <article class="lead-card">
+                      <h4>
+                        "تطبيق طلبات"
+                      <p>
+                        "مراجعة نطاق الإصدار الأول"
+                      <button class="filled small-button" data-direction="1" data-lead="3">
+                        "نقل إلى تم الاتفاق"
+                        <svg aria-hidden="true" class="icon icon-left" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+                          <path d="M20 12H5M11 6l-6 6 6 6">
+                      <button class="small-button" data-direction="-1" data-lead="3">
+                        "إرجاع"
+                  <section class="kanban-column">
+                    <h3>
+                      "تم الاتفاق"
+                      <span>
+                        "1"
+                    <article class="lead-card">
+                      <h4>
+                        "نظام تشغيل داخلي"
+                      <p>
+                        "تجهيز ورشة البداية"
+                      <button class="small-button" data-direction="-1" data-lead="4">
+                        "إرجاع"
+          <div class="work-info">
+            <div>
+              <span class="work-label" dir="ltr">
+                "CRM / SALES EXPERIENCE"
+              <h3>
+                "مدار — رحلة مبيعات أوضح"
+              <p>
+                "من أول فرصة إلى الاتفاق، في لوحة يمكن للفريق متابعتها."
+            <a aria-label="مدار — رحلة مبيعات أوضح" class="circle-link" href="/project?project=crm">
+              <svg aria-hidden="true" class="icon icon-forward" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+                <path d="M7 17L17 7M8.5 7H17v8.5">
+        <article class="work-card" data-category="ops">
+          <a aria-label="سير — طلب لا يضيع بين الرسائل" class="ops-visual work-visual" href="/project?project=ops">
+            <div class="product-window">
+              <div aria-hidden="true" class="lab-preview" inert="">
+                <div class="ops-demo">
+                  <div class="request-list">
+                    <h3>
+                      "الطلبات"
+                    <button aria-pressed="true" class="request-select selected" data-request="14">
+                      <strong>
+                        "صلاحية لمساحة المشروع"
+                      <small>
+                        "#14 · بانتظار المراجعة"
+                    <button aria-pressed="false" class="request-select" data-request="15">
+                      <strong>
+                        "مراجعة بيانات مورد"
+                      <small>
+                        "#15 · بانتظار المراجعة"
+                    <button aria-pressed="false" class="request-select" data-request="16">
+                      <strong>
+                        "تجهيز حساب موظف"
+                      <small>
+                        "#16 · بانتظار المراجعة"
+                  <div class="request-detail">
+                    <span class="status-pill">
+                      "بانتظار المراجعة"
+                    <h3>
+                      "صلاحية لمساحة المشروع"
+                    <p>
+                      "إضافة عضو جديد إلى مساحة عمل المشروع بعد مراجعة المسؤول."
+                    <dl>
+                      <dt>
+                        "الفريق"
+                      <dd>
+                        "العمليات"
+                      <dt>
+                        "سياسة الإجراء"
+                      <dd>
+                        "مراجعة بشرية مطلوبة"
+                    <div class="request-actions">
+                      <button class="filled small-button" data-action="approve">
+                        "اعتماد تجريبي ✓"
+                      <button class="danger small-button" data-action="return">
+                        "إعادة للاستكمال"
+                    <ol class="activity-list">
+                      <li>
+                        "تم استلام الطلب."
+                      <li>
+                        "اكتملت البيانات وأُحيل إلى المراجع."
+          <div class="work-info">
+            <div>
+              <span class="work-label" dir="ltr">
+                "WORKFLOW / INTERNAL TOOLS"
+              <h3>
+                "سير — طلب لا يضيع بين الرسائل"
+              <p>
+                "استلام ومراجعة وقرار، مع سجل واضح لكل خطوة."
+            <a aria-label="سير — طلب لا يضيع بين الرسائل" class="circle-link" href="/project?project=ops">
+              <svg aria-hidden="true" class="icon icon-forward" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+                <path d="M7 17L17 7M8.5 7H17v8.5">
+        <article class="work-card work-wide" data-category="erp">
+          <a aria-label="رصيد — رؤية مشتركة للمخزون" class="erp-visual work-visual" href="/project?project=erp">
+            <div class="product-window">
+              <div aria-hidden="true" class="lab-preview" inert="">
+                <div class="table-wrap">
+                  <table class="demo-table">
+                    <thead>
+                      <tr>
+                        <th>
+                          "الصنف"
+                        <th>
+                          "المتاح"
+                        <th>
+                          "حد إعادة الطلب"
+                        <th>
+                          "الحالة"
+                    <tbody>
+                      <tr>
+                        <td>
+                          "جهاز محمول"
+                        <td>
+                          "24"
+                        <td>
+                          "5"
+                        <td>
+                          <span class="stock-tag">
+                            "متوفر"
+                      <tr>
+                        <td>
+                          "شاشة عمل"
+                        <td>
+                          "8"
+                        <td>
+                          "4"
+                        <td>
+                          <span class="stock-tag">
+                            "متوفر"
+                      <tr>
+                        <td>
+                          "قاعدة توصيل"
+                        <td>
+                          "3"
+                        <td>
+                          "5"
+                        <td>
+                          <span class="low stock-tag">
+                            "إعادة طلب"
+          <div class="work-info">
+            <div>
+              <span class="work-label" dir="ltr">
+                "BUSINESS SYSTEMS / ERP CONCEPT"
+              <h3>
+                "رصيد — رؤية مشتركة للمخزون"
+              <p>
+                "تابع الكميات وحدّد الاحتياج وأنشئ طلب شراء تجريبيًا."
+            <a aria-label="رصيد — رؤية مشتركة للمخزون" class="circle-link" href="/project?project=erp">
+              <svg aria-hidden="true" class="icon icon-forward" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+                <path d="M7 17L17 7M8.5 7H17v8.5">
+  <section class="section wrap">
+    <div class="enterprise-cta">
+      <h2>
+        "نبدأ من تحدّي العمل."
+      <p>
+        "شاركنا الإجراء الحالي، الفرق المعنية، والنتيجة المطلوبة. منها نحدد الخطوة المناسبة."
+      <a class="button primary" href="/contact">
+        "ناقش احتياج شركتك"
+        <svg aria-hidden="true" class="icon icon-forward" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+          <path d="M7 17L17 7M8.5 7H17v8.5">
+<footer class="red-footer">
+  <div class="footer-grid wrap">
+    <div class="footer-brand">
+      <a aria-label="فرينتكس — الرئيسية" class="official-logo" href="/">
+        <span class="official-logo-art">
+          <img alt="" height="96" src="/assets/mark.svg" width="96">
+          <span class="official-logo-word" dir="ltr">
+            "Frentex"
+            <small>
+              "TECH"
+      <p>
+        "برمجيات تربط أعمالك."
+      <a class="footer-phone" dir="ltr" href="tel:+966592005751">
+        "+966 59 200 5751"
+      <a class="footer-email" dir="ltr" href="mailto:INFO@frntextech.com">
+        "INFO@frntextech.com"
+    <div>
+      <h3>
+        "تعرّف علينا"
+      <a href="/about">
+        "عن فرينتكس"
+      <a href="/process">
+        "كيف نعمل"
+      <a href="/work">
+        "مختبر الأعمال"
+      <a href="/contact">
+        "ناقش احتياج شركتك"
+    <div>
+      <h3>
+        "حلولنا"
+      <a href="/solution-platforms">
+        "المواقع وبوابات الأعمال"
+      <a href="/solution-apps">
+        "تطبيقات الجوال"
+      <a href="/solution-business">
+        "أنظمة CRM وERP"
+      <a href="/solution-automation">
+        "الأتمتة والذكاء الاصطناعي"
+    <div>
+      <h3>
+        "نبدأ من تحدّي العمل."
+      <p>
+        "شاركنا الإجراء الحالي، الفرق المعنية، والنتيجة المطلوبة. منها نحدد الخطوة المناسبة."
+      <a class="footer-contact" href="https://wa.me/966592005751" rel="noopener" target="_blank">
+        "تواصل عبر واتساب "
+        <svg aria-hidden="true" class="icon icon-forward" fill="none" height="14" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="14">
+          <path d="M7 17L17 7M8.5 7H17v8.5">
+      <a class="footer-linkedin" href="https://www.linkedin.com/company/frentex-tech/" rel="noopener" target="_blank">
+        "LinkedIn "
+        <span aria-hidden="true">
+          "↗"
+  <div class="footer-bottom wrap">
+    <span>
+      "© 2026 Frentex Tech"
+    <span>
+      "برمجيات تربط أعمالك."
+    <a href="/privacy">
+      "الخصوصية"
+<a aria-label="تواصل مع فرينتكس عبر واتساب" class="floating-contact" href="https://wa.me/966592005751" rel="noopener" target="_blank">
+  <svg aria-hidden="true" fill="none" stroke-width="1.5" stroke="currentColor" viewBox="0 0 24 24">
+    <path d="M21 11.5a9 9 0 01-13.3 7.9L3 21l1.4-4.8A9 9 0 1121 11.5z">
+    <path d="M8 7c0 5 4 9 9 9l1-3-3-1-1 2c-2-1-3-2-4-4l2-1-1-3z">

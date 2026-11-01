@@ -1,0 +1,26 @@
+html lang = en
+html dir = ltr
+html data-scroll-behavior = smooth
+title = Business Solutions | Frentex Tech
+meta description = Websites, apps, CRM and ERP systems, integrations and automation for companies and organizations.
+meta og:description = Websites, apps, CRM and ERP systems, integrations and automation for companies and organizations.
+meta og:image = https://frntextech.com/assets/social-cover.png
+meta og:image:alt = Frentex Tech — Business Solutions | Frentex Tech
+meta og:locale = en_US
+meta og:locale:alternate = ar_SA
+meta og:site_name = Frentex Tech
+meta og:title = Business Solutions | Frentex Tech
+meta og:type = website
+meta og:url = https://frntextech.com/en/services.html
+meta theme-color = #edf4fa
+meta twitter:card = summary_large_image
+meta twitter:description = Websites, apps, CRM and ERP systems, integrations and automation for companies and organizations.
+meta twitter:image = https://frntextech.com/assets/social-cover.png
+meta twitter:image:alt = Frentex Tech — Business Solutions | Frentex Tech
+meta twitter:title = Business Solutions | Frentex Tech
+meta viewport = width=device-width, initial-scale=1
+link alternate (ar) = https://frntextech.com/services.html
+link alternate (en) = https://frntextech.com/en/services.html
+link alternate (x-default) = https://frntextech.com/services.html
+link canonical = https://frntextech.com/en/services.html
+link icon = /assets/mark.svg

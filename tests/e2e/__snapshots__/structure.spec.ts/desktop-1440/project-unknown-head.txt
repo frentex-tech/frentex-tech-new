@@ -1,0 +1,21 @@
+html lang = ar
+html dir = rtl
+html data-scroll-behavior = smooth
+title = مختبر الأعمال | فرينتكس
+meta description = استكشف نموذجًا أصليًا تفاعليًا من مختبر فرينتكس لتصميم وتطوير أنظمة الأعمال.
+meta og:description = استكشف نموذجًا أصليًا تفاعليًا من مختبر فرينتكس لتصميم وتطوير أنظمة الأعمال.
+meta og:image = https://frntextech.com/assets/social-cover.png
+meta og:image:alt = Frentex Tech — مختبر الأعمال | فرينتكس
+meta og:locale = ar_SA
+meta og:locale:alternate = en_US
+meta og:site_name = Frentex Tech
+meta og:title = مختبر الأعمال | فرينتكس
+meta og:type = website
+meta robots = noindex,nofollow
+meta twitter:card = summary_large_image
+meta twitter:description = استكشف نموذجًا أصليًا تفاعليًا من مختبر فرينتكس لتصميم وتطوير أنظمة الأعمال.
+meta twitter:image = https://frntextech.com/assets/social-cover.png
+meta twitter:image:alt = Frentex Tech — مختبر الأعمال | فرينتكس
+meta twitter:title = مختبر الأعمال | فرينتكس
+meta viewport = width=device-width, initial-scale=1
+link icon = /assets/mark.svg

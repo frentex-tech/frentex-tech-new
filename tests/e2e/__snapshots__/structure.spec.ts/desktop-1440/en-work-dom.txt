@@ -1,0 +1,327 @@
+<a class="skip" href="/en/work#main">
+  "Skip to content"
+<header class="site-header">
+  <div class="nav-shell">
+    <a aria-label="Frentex Tech — Home" class="brand" href="/en">
+      <img alt="" class="brand-logo" height="64" src="/assets/mark.svg" width="64">
+      <span dir="ltr">
+        "Frentex"
+        <small>
+          "TECH"
+    <nav aria-label="Main navigation" id="navigation">
+      <a href="/en">
+        "Home"
+      <a href="/en/services">
+        "Solutions"
+      <a aria-current="page" href="/en/work">
+        "Work Lab"
+      <a href="/en/about">
+        "About"
+      <a href="/en/process">
+        "How we work"
+      <a class="mobile-contact" href="/en/contact">
+        "Discuss your needs"
+    <a class="nav-cta" href="/en/contact">
+      "Discuss your needs"
+      <svg aria-hidden="true" class="icon icon-forward" fill="none" height="18" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="18">
+        <path d="M7 17L17 7M8.5 7H17v8.5">
+    <div class="view-controls">
+      <a aria-label="العربية" class="language-switch language-toggle view-toggle" href="/work" hreflang="ar" lang="ar" title="العربية">
+        "ع"
+    <button aria-controls="navigation" aria-expanded="false" aria-label="Open menu" class="menu-toggle">
+      <svg aria-hidden="true" class="icon icon-menu" fill="none" height="24" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="24">
+        <path d="M4 6.5h16M4 12h16M4 17.5h16">
+<main id="main">
+  <section class="page-intro wrap">
+    <div aria-hidden="true" class="ambient-field">
+    <div class="eyebrow">
+      "SOLUTION LAB"
+    <h1>
+      "Explore how we think."
+    <p>
+      "Three demos that show how an operational problem becomes an interface and a workflow. All the data shown is sample data."
+  <section class="section work-section" id="work">
+    <div class="wrap">
+      <div class="section-top">
+        <div>
+          <div class="eyebrow">
+            "Frentex Lab"
+          <h2>
+            "See the idea."
+            <br>
+            <span class="muted">
+              "Then try it yourself."
+        <div>
+          <p>
+            "Original demos we designed and built for this website. Each one explains a problem and a solution, and lets you try part of the user journey."
+          <span class="disclosure">
+            "Illustrative demos with sample data, not client projects."
+      <div aria-label="Filter the demos" class="filter-row" role="group">
+        <button aria-pressed="true" class="active filter" data-filter="all">
+          "All demos"
+        <button aria-pressed="false" class="filter" data-filter="crm">
+          "Customer management"
+        <button aria-pressed="false" class="filter" data-filter="ops">
+          "Operations & automation"
+        <button aria-pressed="false" class="filter" data-filter="erp">
+          "Business systems"
+        <span id="filter-status" role="status">
+          "3 interactive demos"
+      <div class="work-grid">
+        <article class="work-card" data-category="crm">
+          <a aria-label="Madar — a clearer sales journey" class="crm-visual work-visual" href="/en/project?project=crm">
+            <div class="product-window">
+              <div aria-hidden="true" class="lab-preview" inert="">
+                <div class="kanban">
+                  <section class="kanban-column">
+                    <h3>
+                      "New opportunity"
+                      <span>
+                        "2"
+                    <article class="lead-card">
+                      <h4>
+                        "Services company website"
+                      <p>
+                        "Defining the audience and content"
+                      <button class="filled small-button" data-direction="1" data-lead="1">
+                        "Move to Proposal sent"
+                        <svg aria-hidden="true" class="icon icon-right" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+                          <path d="M4 12h15M13 6l6 6-6 6">
+                    <article class="lead-card">
+                      <h4>
+                        "Partner portal"
+                      <p>
+                        "Meeting to understand how requests work"
+                      <button class="filled small-button" data-direction="1" data-lead="2">
+                        "Move to Proposal sent"
+                        <svg aria-hidden="true" class="icon icon-right" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+                          <path d="M4 12h15M13 6l6 6-6 6">
+                  <section class="kanban-column">
+                    <h3>
+                      "Proposal sent"
+                      <span>
+                        "1"
+                    <article class="lead-card">
+                      <h4>
+                        "Ordering app"
+                      <p>
+                        "Reviewing the first release scope"
+                      <button class="filled small-button" data-direction="1" data-lead="3">
+                        "Move to Agreed"
+                        <svg aria-hidden="true" class="icon icon-right" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+                          <path d="M4 12h15M13 6l6 6-6 6">
+                      <button class="small-button" data-direction="-1" data-lead="3">
+                        "Move back"
+                  <section class="kanban-column">
+                    <h3>
+                      "Agreed"
+                      <span>
+                        "1"
+                    <article class="lead-card">
+                      <h4>
+                        "Internal operations system"
+                      <p>
+                        "Preparing the kickoff workshop"
+                      <button class="small-button" data-direction="-1" data-lead="4">
+                        "Move back"
+          <div class="work-info">
+            <div>
+              <span class="work-label" dir="ltr">
+                "CRM / SALES EXPERIENCE"
+              <h3>
+                "Madar — a clearer sales journey"
+              <p>
+                "From the first opportunity to an agreement, on one board your team can follow."
+            <a aria-label="Madar — a clearer sales journey" class="circle-link" href="/en/project?project=crm">
+              <svg aria-hidden="true" class="icon icon-forward" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+                <path d="M7 17L17 7M8.5 7H17v8.5">
+        <article class="work-card" data-category="ops">
+          <a aria-label="Sayr — requests that don't get lost" class="ops-visual work-visual" href="/en/project?project=ops">
+            <div class="product-window">
+              <div aria-hidden="true" class="lab-preview" inert="">
+                <div class="ops-demo">
+                  <div class="request-list">
+                    <h3>
+                      "Requests"
+                    <button aria-pressed="true" class="request-select selected" data-request="14">
+                      <strong>
+                        "Project workspace access"
+                      <small>
+                        "#14 · Awaiting review"
+                    <button aria-pressed="false" class="request-select" data-request="15">
+                      <strong>
+                        "Supplier details review"
+                      <small>
+                        "#15 · Awaiting review"
+                    <button aria-pressed="false" class="request-select" data-request="16">
+                      <strong>
+                        "Employee account setup"
+                      <small>
+                        "#16 · Awaiting review"
+                  <div class="request-detail">
+                    <span class="status-pill">
+                      "Awaiting review"
+                    <h3>
+                      "Project workspace access"
+                    <p>
+                      "Add a new member to the project workspace after review by the person in charge."
+                    <dl>
+                      <dt>
+                        "Team"
+                      <dd>
+                        "Operations"
+                      <dt>
+                        "Action policy"
+                      <dd>
+                        "Human review required"
+                    <div class="request-actions">
+                      <button class="filled small-button" data-action="approve">
+                        "Approve (demo) ✓"
+                      <button class="danger small-button" data-action="return">
+                        "Return for completion"
+                    <ol class="activity-list">
+                      <li>
+                        "Request received."
+                      <li>
+                        "Details complete; passed to the reviewer."
+          <div class="work-info">
+            <div>
+              <span class="work-label" dir="ltr">
+                "WORKFLOW / INTERNAL TOOLS"
+              <h3>
+                "Sayr — requests that don't get lost"
+              <p>
+                "Intake, review and decision, with a clear record of every step."
+            <a aria-label="Sayr — requests that don't get lost" class="circle-link" href="/en/project?project=ops">
+              <svg aria-hidden="true" class="icon icon-forward" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+                <path d="M7 17L17 7M8.5 7H17v8.5">
+        <article class="work-card work-wide" data-category="erp">
+          <a aria-label="Raseed — shared inventory view" class="erp-visual work-visual" href="/en/project?project=erp">
+            <div class="product-window">
+              <div aria-hidden="true" class="lab-preview" inert="">
+                <div class="table-wrap">
+                  <table class="demo-table">
+                    <thead>
+                      <tr>
+                        <th>
+                          "Item"
+                        <th>
+                          "Available"
+                        <th>
+                          "Reorder point"
+                        <th>
+                          "Status"
+                    <tbody>
+                      <tr>
+                        <td>
+                          "Laptop"
+                        <td>
+                          "24"
+                        <td>
+                          "5"
+                        <td>
+                          <span class="stock-tag">
+                            "In stock"
+                      <tr>
+                        <td>
+                          "Work monitor"
+                        <td>
+                          "8"
+                        <td>
+                          "4"
+                        <td>
+                          <span class="stock-tag">
+                            "In stock"
+                      <tr>
+                        <td>
+                          "Docking station"
+                        <td>
+                          "3"
+                        <td>
+                          "5"
+                        <td>
+                          <span class="low stock-tag">
+                            "Reorder"
+          <div class="work-info">
+            <div>
+              <span class="work-label" dir="ltr">
+                "BUSINESS SYSTEMS / ERP CONCEPT"
+              <h3>
+                "Raseed — shared inventory view"
+              <p>
+                "Track quantities, see what needs reordering and create a sample purchase order."
+            <a aria-label="Raseed — shared inventory view" class="circle-link" href="/en/project?project=erp">
+              <svg aria-hidden="true" class="icon icon-forward" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+                <path d="M7 17L17 7M8.5 7H17v8.5">
+  <section class="section wrap">
+    <div class="enterprise-cta">
+      <h2>
+        "We start with the business challenge."
+      <p>
+        "Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there."
+      <a class="button primary" href="/en/contact">
+        "Discuss your needs"
+        <svg aria-hidden="true" class="icon icon-external" fill="none" height="16" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="16">
+          <path d="M7 17L17 7M8.5 7H17v8.5">
+<footer class="red-footer">
+  <div class="footer-grid wrap">
+    <div class="footer-brand">
+      <a aria-label="Frentex Tech — Home" class="official-logo" href="/en">
+        <span class="official-logo-art">
+          <img alt="" height="96" src="/assets/mark.svg" width="96">
+          <span class="official-logo-word" dir="ltr">
+            "Frentex"
+            <small>
+              "TECH"
+      <p>
+        "Software that connects your business."
+      <a class="footer-phone" dir="ltr" href="tel:+966592005751">
+        "+966 59 200 5751"
+      <a class="footer-email" dir="ltr" href="mailto:INFO@frntextech.com">
+        "INFO@frntextech.com"
+    <div>
+      <h3>
+        "Get to know us"
+      <a href="/en/about">
+        "About"
+      <a href="/en/process">
+        "How we work"
+      <a href="/en/work">
+        "Work Lab"
+      <a href="/en/contact">
+        "Discuss your needs"
+    <div>
+      <h3>
+        "Solutions"
+      <a href="/en/solution-platforms">
+        "Websites & digital platforms"
+      <a href="/en/solution-apps">
+        "Mobile apps"
+      <a href="/en/solution-business">
+        "ERP & CRM systems"
+      <a href="/en/solution-automation">
+        "Automation & AI"
+    <div>
+      <h3>
+        "We start with the business challenge."
+      <p>
+        "Tell us how the process works today, which teams are involved and the outcome you need. We'll recommend the right next step from there."
+      <a class="footer-contact" href="https://wa.me/966592005751" rel="noopener" target="_blank">
+        "Message us on WhatsApp "
+        <svg aria-hidden="true" class="icon icon-forward" fill="none" height="14" stroke-linecap="square" stroke-width="1.75" stroke="currentColor" viewBox="0 0 24 24" width="14">
+          <path d="M7 17L17 7M8.5 7H17v8.5">
+      <a class="footer-linkedin" href="https://www.linkedin.com/company/frentex-tech/" rel="noopener" target="_blank">
+        "LinkedIn "
+        <span aria-hidden="true">
+          "↗"
+  <div class="footer-bottom wrap">
+    <span>
+      "© 2026 Frentex Tech"
+    <span>
+      "Software that connects your business."
+    <a href="/en/privacy">
+      "Privacy"
+<a aria-label="Chat with Frentex on WhatsApp" class="floating-contact" href="https://wa.me/966592005751" rel="noopener" target="_blank">
+  <svg aria-hidden="true" fill="none" stroke-width="1.5" stroke="currentColor" viewBox="0 0 24 24">
+    <path d="M21 11.5a9 9 0 01-13.3 7.9L3 21l1.4-4.8A9 9 0 1121 11.5z">
+    <path d="M8 7c0 5 4 9 9 9l1-3-3-1-1 2c-2-1-3-2-4-4l2-1-1-3z">

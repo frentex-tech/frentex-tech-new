@@ -1,0 +1,84 @@
+- link "انتقل إلى المحتوى":
+  - /url: "#main"
+- banner:
+  - link "فرينتكس — الرئيسية":
+    - /url: /
+    - text: Frentex TECH
+  - navigation "التنقل الرئيسي":
+    - link "الرئيسية":
+      - /url: /
+    - link "حلولنا":
+      - /url: /services
+    - link "مختبر الأعمال":
+      - /url: /work
+    - link "عن فرينتكس":
+      - /url: /about
+    - link "كيف نعمل":
+      - /url: /process
+  - link "ناقش احتياج شركتك":
+    - /url: /contact
+  - link "English":
+    - /url: /en/privacy
+    - text: EN
+- main:
+  - text: WEBSITE PRIVACY
+  - heading "معلومات واضحة عن استخدام الموقع." [level=1]
+  - paragraph: "/آخر تحديث: \\d+ أكتوبر \\d+/"
+  - heading "الملخص والنماذج" [level=2]
+  - paragraph: تعمل النماذج التفاعلية وملخص المشروع داخل متصفحك. لا يرسل هذا الموقع ما تدخله إلى خادم للشركة، ولا يحتفظ به بعد إعادة تحميل الصفحة. الملف الذي تنزله يبقى على جهازك.
+  - heading "الاتصال وروابط الخارج" [level=2]
+  - paragraph: عند فتح WhatsApp أو الاتصال هاتفيًا تنتقل إلى الخدمة المختارة؛ تنطبق سياساتها على استخدامك لها. شارك فقط المعلومات اللازمة لبدء النقاش، وتجنب إرسال أسرار أو بيانات حساسة في الملخص الأولي.
+  - heading "الاستضافة" [level=2]
+  - paragraph:
+    - text: الموقع مستضاف على GitHub Pages. قد يعالج مزود الاستضافة معلومات الاتصال التقنية وفق سياسته. لا نضيف أدوات إعلانات أو تحليلات إلى هذه النسخة، والخطوط مستضافة مع الموقع.
+    - link "سياسة خصوصية GitHub":
+      - /url: https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement
+  - heading "استفسارات الموقع" [level=2]
+  - paragraph:
+    - text: "للاستفسار عن المعلومات المنشورة:"
+    - link /\+\d+ \d+ \d+ \d+/:
+      - /url: tel:+966592005751
+    - text: .
+  - heading "نبدأ من تحدّي العمل." [level=2]
+  - paragraph: شاركنا الإجراء الحالي، الفرق المعنية، والنتيجة المطلوبة. منها نحدد الخطوة المناسبة.
+  - link "ناقش احتياج شركتك":
+    - /url: /contact
+- contentinfo:
+  - link "فرينتكس — الرئيسية":
+    - /url: /
+    - text: Frentex TECH
+  - paragraph: برمجيات تربط أعمالك.
+  - link /\+\d+ \d+ \d+ \d+/:
+    - /url: tel:+966592005751
+  - link "INFO@frntextech.com":
+    - /url: mailto:INFO@frntextech.com
+  - heading "تعرّف علينا" [level=3]
+  - link "عن فرينتكس":
+    - /url: /about
+  - link "كيف نعمل":
+    - /url: /process
+  - link "مختبر الأعمال":
+    - /url: /work
+  - link "ناقش احتياج شركتك":
+    - /url: /contact
+  - heading "حلولنا" [level=3]
+  - link "المواقع وبوابات الأعمال":
+    - /url: /solution-platforms
+  - link "تطبيقات الجوال":
+    - /url: /solution-apps
+  - link "أنظمة CRM وERP":
+    - /url: /solution-business
+  - link "الأتمتة والذكاء الاصطناعي":
+    - /url: /solution-automation
+  - heading "نبدأ من تحدّي العمل." [level=3]
+  - paragraph: شاركنا الإجراء الحالي، الفرق المعنية، والنتيجة المطلوبة. منها نحدد الخطوة المناسبة.
+  - link "تواصل عبر واتساب":
+    - /url: https://wa.me/966592005751
+  - link "LinkedIn":
+    - /url: https://www.linkedin.com/company/frentex-tech/
+  - text: /© \d+ Frentex Tech برمجيات تربط أعمالك\./
+  - link "الخصوصية":
+    - /url: /privacy
+- link "تواصل مع فرينتكس عبر واتساب":
+  - /url: https://wa.me/966592005751
+- alert

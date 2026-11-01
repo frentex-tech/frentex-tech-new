@@ -1,0 +1,26 @@
+html lang = ar
+html dir = rtl
+html data-scroll-behavior = smooth
+title = أنظمة CRM وERP | Frentex Tech
+meta description = إدارة العملاء والمبيعات والمخزون والمشتريات وسير الموافقات. نقارن تهيئة منتج قائم ببناء وحدات مخصصة قبل الاختيار.
+meta og:description = إدارة العملاء والمبيعات والمخزون والمشتريات وسير الموافقات. نقارن تهيئة منتج قائم ببناء وحدات مخصصة قبل الاختيار.
+meta og:image = https://frntextech.com/assets/social-cover.png
+meta og:image:alt = Frentex Tech — أنظمة CRM وERP | Frentex Tech
+meta og:locale = ar_SA
+meta og:locale:alternate = en_US
+meta og:site_name = Frentex Tech
+meta og:title = أنظمة CRM وERP | Frentex Tech
+meta og:type = website
+meta og:url = https://frntextech.com/solution-business.html
+meta theme-color = #edf4fa
+meta twitter:card = summary_large_image
+meta twitter:description = إدارة العملاء والمبيعات والمخزون والمشتريات وسير الموافقات. نقارن تهيئة منتج قائم ببناء وحدات مخصصة قبل الاختيار.
+meta twitter:image = https://frntextech.com/assets/social-cover.png
+meta twitter:image:alt = Frentex Tech — أنظمة CRM وERP | Frentex Tech
+meta twitter:title = أنظمة CRM وERP | Frentex Tech
+meta viewport = width=device-width, initial-scale=1
+link alternate (ar) = https://frntextech.com/solution-business.html
+link alternate (en) = https://frntextech.com/en/solution-business.html
+link alternate (x-default) = https://frntextech.com/solution-business.html
+link canonical = https://frntextech.com/solution-business.html
+link icon = /assets/mark.svg

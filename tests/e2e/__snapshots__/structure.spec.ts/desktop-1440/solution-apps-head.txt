@@ -1,0 +1,26 @@
+html lang = ar
+html dir = rtl
+html data-scroll-behavior = smooth
+title = تطبيقات الجوال | Frentex Tech
+meta description = تطبيقات عملاء وموظفين وفرق ميدانية لـ iOS وAndroid حسب النطاق.
+meta og:description = تطبيقات عملاء وموظفين وفرق ميدانية لـ iOS وAndroid حسب النطاق.
+meta og:image = https://frntextech.com/assets/social-cover.png
+meta og:image:alt = Frentex Tech — تطبيقات الجوال | Frentex Tech
+meta og:locale = ar_SA
+meta og:locale:alternate = en_US
+meta og:site_name = Frentex Tech
+meta og:title = تطبيقات الجوال | Frentex Tech
+meta og:type = website
+meta og:url = https://frntextech.com/solution-apps.html
+meta theme-color = #edf4fa
+meta twitter:card = summary_large_image
+meta twitter:description = تطبيقات عملاء وموظفين وفرق ميدانية لـ iOS وAndroid حسب النطاق.
+meta twitter:image = https://frntextech.com/assets/social-cover.png
+meta twitter:image:alt = Frentex Tech — تطبيقات الجوال | Frentex Tech
+meta twitter:title = تطبيقات الجوال | Frentex Tech
+meta viewport = width=device-width, initial-scale=1
+link alternate (ar) = https://frntextech.com/solution-apps.html
+link alternate (en) = https://frntextech.com/en/solution-apps.html
+link alternate (x-default) = https://frntextech.com/solution-apps.html
+link canonical = https://frntextech.com/solution-apps.html
+link icon = /assets/mark.svg
